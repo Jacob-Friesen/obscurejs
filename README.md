@@ -3,7 +3,7 @@ Obscure JavaScript Examples
 
 Code from [obscurejavascript.tumblr.com](http://obscurejavascript.tumblr.com) in an easy to download format. All of the code can be run in Node.js and most of it in a browser (what can't is noted below).
 
-*Just like the blog, there may be some examples that do not follow JavaScript patterns for demonstration purposes*
+*Just like the blog, there may be some examples that do not follow JavaScript patterns for demonstration purposes.*
 
 Example Explanations
 ====================
@@ -11,7 +11,7 @@ Example Explanations
 Each example corresponds directly to a blog post:
 
 * [autoExecutingRecursionFunctions.js](http://obscurejavascript.tumblr.com/post/73013181197/auto-executing-recursive-functions): How to create functions that can be called without parenthesis. Or other helpers.
-* [bracketFreeCall.js](http://obscurejavascript.tumblr.com/post/87575158896/paren-free-function-calls): How to create functions that can be called without parenthesis. Or other helpers.
+* [bracketFreeCall.js](http://obscurejavascript.tumblr.com/post/87491571318/paren-free-function-calls): How to create functions that can be called without parenthesis. Or other helpers.
 * [cleanSwitches.js](http://obscurejavascript.tumblr.com/post/83829086495/a-cleaner-way-to-do-switches-in-javascript): A cleaner way of long decision branches.
 * [cleanCallbacks.js](http://obscurejavascript.tumblr.com/post/79867797983/cleaning-up-javascript-callbacks): A clean way of ordering JS callbacks using an object.
 * [decorators.js](http://obscurejavascript.tumblr.com/post/82388140032/implementing-decorators-in-javascript-using-closures): How to implement decorators in JS using closures.

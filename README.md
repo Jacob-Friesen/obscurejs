@@ -10,6 +10,7 @@ Example Explanations
 
 Each example corresponds directly to a blog post:
 
+**2014:**
 * [autoExecutingRecursionFunctions.js](http://obscurejavascript.tumblr.com/post/73013181197/auto-executing-recursive-functions): How to create functions that can be called without parenthesis. Or other helpers.
 * [bracketFreeCall.js](http://obscurejavascript.tumblr.com/post/87491571318/paren-free-function-calls): How to create functions that can be called without parenthesis. Or other helpers.
 * [cleanSwitches.js](http://obscurejavascript.tumblr.com/post/83829086495/a-cleaner-way-to-do-switches-in-javascript): A cleaner way of long decision branches.
@@ -21,4 +22,28 @@ Each example corresponds directly to a blog post:
 * [stringInterpolation.js](http://obscurejavascript.tumblr.com/post/74389765835/javascript-string-interpolation): Implementing string interpolation.
 * [trackingJSStatistics.js](http://obscurejavascript.tumblr.com/post/80464717044/tracking-javascript-statistics): Building a simple function call tracker.
 * [toStringFunctionTriggers.js](http://obscurejavascript.tumblr.com/post/77487572765/tostring-based-function-triggers): Calling functions by using the '+' operator.
-* [withEmulation.js](http://obscurejavascript.tumblr.com/post/78333366271/emulating-the-with-statement-in-javascript): Emulating the JS with statement via a function. 
+* [withEmulation.js](http://obscurejavascript.tumblr.com/post/78333366271/emulating-the-with-statement-in-javascript): Emulating the JS with statement via a function.
+
+**2013**
+* [arrayInstantiations.js](http://obscurejavascript.tumblr.com/post/64389973002/hardcore-array-instantiations): A compact way to declare pre-initialized arrays in JS.
+* [batman.js](http://obscurejavascript.tumblr.com/post/51075341151/batman-arrays-and-javascript-collide): The weird behavior of Array.join demonstrated.
+* [chaining.js](http://obscurejavascript.tumblr.com/post/50657613243/chaining-javascript-self-invoking-function-calls): Chaining self invoking function calls to shorten code.
+* [defaults.js](http://obscurejavascript.tumblr.com/post/55779896076/clean-default-values-in-javascript): A much better way to do default values in JS.
+* [erlang.js](http://obscurejavascript.tumblr.com/post/56604431893/erlang-in-javascript): Emulating Erlang in JS.
+* [expressions.js](http://obscurejavascript.tumblr.com/post/61814998019/advanced-javascript-expressions): Using expressions to simplify code in JS.
+* [functionCallInheritance.js](hhttp://obscurejavascript.tumblr.com/post/66874710993/inheritance-with-function-call): How Function.call() can be used to create inheritance in JS.
+* [functionConstructor.js](http://obscurejavascript.tumblr.com/post/65893136656/the-javascript-function-constructor): How the Function constructor works.
+* [functionDeclerationOperations.js](http://obscurejavascript.tumblr.com/post/63861215073/operations-on-javascript-function-declerations): How function declerations (not just calls) can actually be used in arithmetic operations.
+* [innerFunctionTesting.js](http://obscurejavascript.tumblr.com/post/69080603746/easily-testing-inner-functions-in-js): How to test inner functions in JS.
+* [metaprogramming.js](http://obscurejavascript.tumblr.com/post/51730042465/javascript-metaprogramming) Using metaprogramming to simplify stuff in JS. **Browser Only** 
+* [multipleValueChecking.js](http://obscurejavascript.tumblr.com/post/65231120961/clean-mulitple-value-checking): A good way to check multiple values at once in JS.
+* [multipleReturnValues.js](http://obscurejavascript.tumblr.com/post/57795427130/multiple-return-values-in-javascript-a-new-way): A good way to return multiple variables in JS.
+* [labeledLoops.js](http://obscurejavascript.tumblr.com/post/53519194124/labeled-loops-in-javascript): Did you know that JavaScript has labeled loops?
+* [listOperationMagic.js](http://obscurejavascript.tumblr.com/post/59141181114/list-operator-magic): How to expliot JSs list operator to shorten code.
+* [obscureIntegers.js](http://obscurejavascript.tumblr.com/post/52302750125/extremely-obscure-javascript-strings) You should see it for yourself.
+* [overloadingArrayOperators.js](http://obscurejavascript.tumblr.com/post/60174354628/overloading-array-operators-in-javascript): What is possible by overloading array operators in JS. This led me to discover how to run functions paranthesis free. **Node.js Only**
+* [overloadingFunctions.js](http://obscurejavascript.tumblr.com/post/57179890654/overloading-functions-in-javascript): How to make overridable functions in JS.
+* [partials.js](http://obscurejavascript.tumblr.com/post/67961302246/partials-in-javascript): How to create partials and some applications.
+* [perl.js](http://obscurejavascript.tumblr.com/post/54101830984/imitating-perl-in-javascript): Emulation perl in JS.
+* [recursion.js](http://obscurejavascript.tumblr.com/post/62719895830/recursion-in-javascript-without-making-a-recursive-call): Recursion without making a recursive call. I'm not joking.
+* [scheme.js](http://obscurejavascript.tumblr.com/post/55175533448/imitating-scheme-lisp-dialect-in-javascript): Emulating scheme in JS.

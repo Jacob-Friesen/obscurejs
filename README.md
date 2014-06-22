@@ -3,7 +3,7 @@ Obscure JavaScript Examples
 
 Code from [obscurejavascript.tumblr.com](http://obscurejavascript.tumblr.com) in an easy to download format. All of the code can be run in Node.js and most of it in a browser (what can't is noted below).
 
-*Just like the blog, there may be some examples that do not follow JavaScript patterns for demonstration purposes.*
+*Just like the blog, there may be some examples that do not good follow JavaScript patterns for demonstration purposes.*
 
 Example Explanations
 ====================

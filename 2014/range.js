@@ -17,7 +17,7 @@ var range = function(expression) {
         result.push(i);
     }
 
-    if (!inclusive) {
+    if (inclusive) {
         result.push(+parts[1]);
     }
 
@@ -31,4 +31,4 @@ console.log(range('1...5'));// [1, 2, 3, 4, 5]
 
 (range('10..15')).forEach(function(index) {
     console.log(index);
-});// 10\n11\n12\n13\n14\n15
+});// 10\n11\n12\n13\n14

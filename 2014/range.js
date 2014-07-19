@@ -4,9 +4,9 @@
 var range = function(expression) {
     var result = [],
         parts = [],
-        inclusive = expression.indexOf('...') > -1;
+        exclusive = expression.indexOf('...') > -1;
 
-    if (inclusive){
+    if (exclusive){
         parts = expression.split('...');
     } else {
         parts = expression.split('..');
@@ -17,18 +17,18 @@ var range = function(expression) {
         result.push(i);
     }
 
-    if (inclusive) {
+    if (!exclusive) {
         result.push(+parts[1]);
     }
 
     return result;
 };
 
-console.log(range('1..5'));// [1, 2, 3, 4]
-console.log(range('1...5'));// [1, 2, 3, 4, 5]
+console.log(range('1..5'));// [1, 2, 3, 4, 5]
+console.log(range('1...5'));// [1, 2, 3, 4]
 
 // Better for loop like syntax (But much more inefficient)
 
 (range('10..15')).forEach(function(index) {
     console.log(index);
-});// 10\n11\n12\n13\n14
+});// 10\n11\n12\n13\n14\n15

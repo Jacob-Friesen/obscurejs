@@ -17,6 +17,7 @@ Each example corresponds directly to a blog post:
 * [chaiAndParenFree.js](http://obscurejavascript.tumblr.com/post/87981579491/chai-js-and-paren-free-calls-in-javascript): How Chai.js uses bracket (parent) free calls.
 * [cleanSwitches.js](http://obscurejavascript.tumblr.com/post/83829086495/a-cleaner-way-to-do-switches-in-javascript): A cleaner way of long decision branches.
 * [cleanCallbacks.js](http://obscurejavascript.tumblr.com/post/79867797983/cleaning-up-javascript-callbacks): A clean way of ordering JS callbacks using an object.
+* [comprehensions.js](#): A quick way to do list operations in JS, list comprehensions. Commonly, used in other scripting languages.
 * [date.js](http://obscurejavascript.tumblr.com/post/91548405930/dates-in-javascript): JavaScript date comparions.
 * [decorators.js](http://obscurejavascript.tumblr.com/post/82388140032/implementing-decorators-in-javascript-using-closures): How to implement decorators in JS using closures.
 * [explicitBooleanConversion.js](http://obscurejavascript.tumblr.com/post/76532933108/explicit-boolean-coercion): Using explicit Boolean conversion to save time.

@@ -18,7 +18,7 @@ Each example corresponds directly to a blog post:
 * [cleanSwitches.js](http://obscurejavascript.tumblr.com/post/83829086495/a-cleaner-way-to-do-switches-in-javascript): A cleaner way of long decision branches.
 * [cleanCallbacks.js](http://obscurejavascript.tumblr.com/post/79867797983/cleaning-up-javascript-callbacks): A clean way of ordering JS callbacks using an object.
 * [comprehensions.js](http://obscurejavascript.tumblr.com/post/92833095461/javascript-list-comprehensions): A quick way to do list operations in JS, list comprehensions. Commonly, used in other scripting languages.
-* [computedProperties.js](#): A proposal for computed property literals in JavaScript and how to implement a near equivalent.
+* [computedProperties.js](http://obscurejavascript.tumblr.com/post/93680556182/computed-property-values-in-literals): A proposal for computed property literals in JavaScript and how to implement a near equivalent.
 * [date.js](http://obscurejavascript.tumblr.com/post/91548405930/dates-in-javascript): JavaScript date comparions.
 * [decorators.js](http://obscurejavascript.tumblr.com/post/82388140032/implementing-decorators-in-javascript-using-closures): How to implement decorators in JS using closures.
 * [explicitBooleanConversion.js](http://obscurejavascript.tumblr.com/post/76532933108/explicit-boolean-coercion): Using explicit Boolean conversion to save time.
@@ -30,6 +30,7 @@ Each example corresponds directly to a blog post:
 * [range.js](http://obscurejavascript.tumblr.com/post/92238246124/a-range-operator-for-javascript): A range operator in JavaScript.
 * [ruby.js](http://obscurejavascript.tumblr.com/post/90251062581/imitating-ruby-in-javascript): A close aproximation to Ruby's syntax in JavaScript.
 * [rubyMethodSyntax.js](http://obscurejavascript.tumblr.com/post/85524888334/rubys-math-method-syntax-in-javascript): How to use ruby math method like syntax in JS.
+* [spread.js](#): JS next spread and a close alternative.
 * [stringInterpolation.js](http://obscurejavascript.tumblr.com/post/74389765835/javascript-string-interpolation): Implementing string interpolation.
 * [trackingJSStatistics.js](http://obscurejavascript.tumblr.com/post/80464717044/tracking-javascript-statistics): Building a simple function call tracker.
 * [toStringFunctionTriggers.js](http://obscurejavascript.tumblr.com/post/77487572765/tostring-based-function-triggers): Calling functions by using the '+' operator.

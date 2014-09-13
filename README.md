@@ -19,6 +19,7 @@ Each example corresponds directly to a blog post:
 * [cleanCallbacks.js](http://obscurejavascript.tumblr.com/post/79867797983/cleaning-up-javascript-callbacks): A clean way of ordering JS callbacks using an object.
 * [comprehensions.js](http://obscurejavascript.tumblr.com/post/92833095461/javascript-list-comprehensions): A quick way to do list operations in JS, list comprehensions. Commonly, used in other scripting languages.
 * [computedProperties.js](http://obscurejavascript.tumblr.com/post/93680556182/computed-property-values-in-literals): A proposal for computed property literals in JavaScript and how to implement a near equivalent.
+* [constant.js](#): How to implement real constants in JavaScript.
 * [date.js](http://obscurejavascript.tumblr.com/post/91548405930/dates-in-javascript): JavaScript date comparions.
 * [decorators.js](http://obscurejavascript.tumblr.com/post/82388140032/implementing-decorators-in-javascript-using-closures): How to implement decorators in JS using closures.
 * [explicitBooleanConversion.js](http://obscurejavascript.tumblr.com/post/76532933108/explicit-boolean-coercion): Using explicit Boolean conversion to save time.
@@ -26,7 +27,7 @@ Each example corresponds directly to a blog post:
 * [flatten.js](http://obscurejavascript.tumblr.com/post/89552294013/flatten-in-javascript): How to write a simple array flattening function.
 * [fold.js](http://obscurejavascript.tumblr.com/post/89068550361/folds-in-javascript): A useful higher order function explained.
 * [nodePolyglot.js](http://obscurejavascript.tumblr.com/post/86791947037/node-polyglots): How to use Bash in combination with Node.js to make the script executable without a node command across multiple OSs. **Node.js Only**
-* [objectInitializerShorthand.js](#): An implementation of JS.next's object initializer shorthand.
+* [objectInitializerShorthand.js](http://obscurejavascript.tumblr.com/post/95642604521/traceur-object-initializer-shorthand-in-current-js): An implementation of JS.next's object initializer shorthand.
 * [private.js](http://obscurejavascript.tumblr.com/post/90848733484/private-variables-in-javascript): Private Variables in JavaScript and their uses.
 * [range.js](http://obscurejavascript.tumblr.com/post/92238246124/a-range-operator-for-javascript): A range operator in JavaScript.
 * [restParameters.js](http://obscurejavascript.tumblr.com/post/95097113886/traceur-rest-parameters-in-current-js): Implementing JS.next's rest parameters in vanilla 

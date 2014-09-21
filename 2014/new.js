@@ -12,7 +12,7 @@ var A = function() {
 var a = A();
 console.log(a);// {<Properties from global scope>, message: 'test' }
 
-// The instantiation just set global properties
+// Choose between node or browser globals
 console.log(typeof global !== 'undefined' ? global.message : window.message)// test
 
 var a2 = new A();// { message: 'test' }
@@ -24,13 +24,14 @@ console.log(a2);
 var A = function() {
     var self = {};
 
-    self.message = 'test';
+    self.message2 = 'test';
 
     return self;
 };
 
 var a = A();
-console.log(a);// { message: 'test' }
+console.log(a);// { message2: 'test' }
+console.log(typeof global !== 'undefined' ? global.message2 : window.message2)// test
 
-var a2 = new A();// { message: 'test' }
+var a2 = new A();// { message2: 'test' }
 console.log(a2);

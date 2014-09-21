@@ -31,7 +31,7 @@ var A = function() {
 
 var a = A();
 console.log(a);// { message2: 'test' }
-console.log(typeof global !== 'undefined' ? global.message2 : window.message2)// test
+console.log(typeof global !== 'undefined' ? global.message2 : window.message2)// undefined
 
 var a2 = new A();// { message2: 'test' }
 console.log(a2);

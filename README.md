@@ -26,7 +26,7 @@ Each example corresponds directly to a blog post:
 * fibonacci.rb: A fibonacci sequence in Ruby. Syntax emulated in ruby.js.
 * [flatten.js](http://obscurejavascript.tumblr.com/post/89552294013/flatten-in-javascript): How to write a simple array flattening function.
 * [fold.js](http://obscurejavascript.tumblr.com/post/89068550361/folds-in-javascript): A useful higher order function explained.
-* [functionalInheritance.js](#): How functional inheritance works. 
+* [functionalInheritance.js](http://obscurejavascript.tumblr.com/post/98733772655/javascript-inheritance-strategy-1-functional): How functional inheritance works. 
 * [constant.js](http://obscurejavascript.tumblr.com/post/97472306093/real-constants-in-javascript): An explanation of the potiential issues of not using new for object instantiations and a way to combat it.
 * [new.js](http://obscurejavascript.tumblr.com/post/98144418406/using-new-vs-not-using-new-in-javascript): The pitfalls of not using new before object initializations and an alternative.
 * [nodePolyglot.js](http://obscurejavascript.tumblr.com/post/86791947037/node-polyglots): How to use Bash in combination with Node.js to make the script executable without a node command across multiple OSs. **Node.js Only**

@@ -32,6 +32,7 @@ Each example corresponds directly to a blog post:
 * [nodePolyglot.js](http://obscurejavascript.tumblr.com/post/86791947037/node-polyglots): How to use Bash in combination with Node.js to make the script executable without a node command across multiple OSs. **Node.js Only**
 * [objectInitializerShorthand.js](http://obscurejavascript.tumblr.com/post/95642604521/traceur-object-initializer-shorthand-in-current-js): An implementation of JS.next's object initializer shorthand.
 * [private.js](http://obscurejavascript.tumblr.com/post/90848733484/private-variables-in-javascript): Private Variables in JavaScript and their uses.
+* [prototypalInheritance.js](#) How Prototypal Inheritance works.
 * [psuedoClassicalInheritance.js](http://obscurejavascript.tumblr.com/post/99247110986/javascript-inheritance-strategy-2-pseudoclassical) How Psuedoclassical Inheritance works.
 * [range.js](http://obscurejavascript.tumblr.com/post/92238246124/a-range-operator-for-javascript): A range operator in JavaScript.
 * [restParameters.js](http://obscurejavascript.tumblr.com/post/95097113886/traceur-rest-parameters-in-current-js): Implementing JS.next's rest parameters in vanilla 

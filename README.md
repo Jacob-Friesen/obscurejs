@@ -26,6 +26,7 @@ Each example corresponds directly to a blog post:
 * fibonacci.rb: A fibonacci sequence in Ruby. Syntax emulated in ruby.js.
 * [flatten.js](http://obscurejavascript.tumblr.com/post/89552294013/flatten-in-javascript): How to write a simple array flattening function.
 * [fold.js](http://obscurejavascript.tumblr.com/post/89068550361/folds-in-javascript): A useful higher order function explained.
+* [functionExpressionsVsDeclarationss.js](#): A subtle difference between function expressions and declarations.
 * [functionalInheritance.js](http://obscurejavascript.tumblr.com/post/98733772655/javascript-inheritance-strategy-1-functional): How functional inheritance works. 
 * [constant.js](http://obscurejavascript.tumblr.com/post/97472306093/real-constants-in-javascript): An explanation of the potiential issues of not using new for object instantiations and a way to combat it.
 * [multipleInheritance.js](http://obscurejavascript.tumblr.com/post/100430383994/multiple-inheritance-in-javascript): One way to implement multiple inheritance.
@@ -42,7 +43,7 @@ Each example corresponds directly to a blog post:
 * [spread.js](http://obscurejavascript.tumblr.com/post/94247680464/spread-vs-apply-in-javascript): JS.next spread and a close alternative.
 * [stringInterpolation.js](http://obscurejavascript.tumblr.com/post/74389765835/javascript-string-interpolation): Implementing string interpolation.
 * [super.js](http://obscurejavascript.tumblr.com/post/101001619389/super-in-javascript): Implementing super in JavaScript (using functional inheritance).
-* [superThatIsEfficient.js](#): Implementing super in JavaScript in a more efficient way. Specifically, using PsuedoClassical Inheritance.
+* [superThatIsEfficient.js](http://obscurejavascript.tumblr.com/post/101608780722/efficient-super-calls-in-javascript): Implementing super in JavaScript in a more efficient way. Specifically, using PsuedoClassical Inheritance.
 * [trackingJSStatistics.js](http://obscurejavascript.tumblr.com/post/80464717044/tracking-javascript-statistics): Building a simple function call tracker.
 * [toStringFunctionTriggers.js](http://obscurejavascript.tumblr.com/post/77487572765/tostring-based-function-triggers): Calling functions by using the '+' operator.
 * [withEmulation.js](http://obscurejavascript.tumblr.com/post/78333366271/emulating-the-with-statement-in-javascript): Emulating the JS with statement via a function.

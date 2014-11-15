@@ -14,6 +14,7 @@ Each example corresponds directly to a blog post:
 <hr/>
 * [autoExecutingRecursionFunctions.js](http://obscurejavascript.tumblr.com/post/73013181197/auto-executing-recursive-functions): How to create functions that can be called without parenthesis. Or other helpers.
 * [bracketFreeCall.js](http://obscurejavascript.tumblr.com/post/87491571318/paren-free-function-calls): How to create functions that can be called without parenthesis. Or other helpers.
+* [caseForLinting.js](#): Example of why linting should be used in JavaScript. See blog post for more info.
 * [chaiAndParenFree.js](http://obscurejavascript.tumblr.com/post/87981579491/chai-js-and-paren-free-calls-in-javascript): How Chai.js uses bracket (parent) free calls.
 * [cleanSwitches.js](http://obscurejavascript.tumblr.com/post/83829086495/a-cleaner-way-to-do-switches-in-javascript): A cleaner way of long decision branches.
 * [cleanCallbacks.js](http://obscurejavascript.tumblr.com/post/79867797983/cleaning-up-javascript-callbacks): A clean way of ordering JS callbacks using an object.
@@ -26,7 +27,7 @@ Each example corresponds directly to a blog post:
 * fibonacci.rb: A fibonacci sequence in Ruby. Syntax emulated in ruby.js.
 * [flatten.js](http://obscurejavascript.tumblr.com/post/89552294013/flatten-in-javascript): How to write a simple array flattening function.
 * [fold.js](http://obscurejavascript.tumblr.com/post/89068550361/folds-in-javascript): A useful higher order function explained.
-* [functionExpressionsVsDeclarationss.js](#): A subtle difference between function expressions and declarations.
+* [functionExpressionsVsDeclarationss.js](http://obscurejavascript.tumblr.com/post/102207548636/the-difference-between-function-declarations-and): A subtle difference between function expressions and declarations.
 * [functionalInheritance.js](http://obscurejavascript.tumblr.com/post/98733772655/javascript-inheritance-strategy-1-functional): How functional inheritance works. 
 * [constant.js](http://obscurejavascript.tumblr.com/post/97472306093/real-constants-in-javascript): An explanation of the potiential issues of not using new for object instantiations and a way to combat it.
 * [multipleInheritance.js](http://obscurejavascript.tumblr.com/post/100430383994/multiple-inheritance-in-javascript): One way to implement multiple inheritance.

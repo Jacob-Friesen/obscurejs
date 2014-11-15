@@ -12,8 +12,8 @@
     };
 
     var isChecked = {};
-    console.log('defined?', isDefined(isChecked));// true
-    console.log('defined?', isDefined(isChecked.property));// false
+    console.log(isDefined(isChecked));// true
+    console.log(isDefined(isChecked.property));// false
 
     // vs
 
@@ -22,6 +22,6 @@
     };
 
     isChecked = {};
-    console.log('defined?', isDefined(isChecked));// false
-    console.log('defined?', isDefined(isChecked.property));// false
+    console.log(isDefined(isChecked));// false
+    console.log(isDefined(isChecked.property));// false
 })();

@@ -35,7 +35,7 @@ Each example corresponds directly to a blog post:
 * [new.js](http://obscurejavascript.tumblr.com/post/98144418406/using-new-vs-not-using-new-in-javascript): The pitfalls of not using new before object initializations and an alternative.
 * [nodePolyglot.js](http://obscurejavascript.tumblr.com/post/86791947037/node-polyglots): How to use Bash in combination with Node.js to make the script executable without a node command across multiple OSs. **Node.js Only**
 * [objectInitializerShorthand.js](http://obscurejavascript.tumblr.com/post/95642604521/traceur-object-initializer-shorthand-in-current-js): An implementation of JS.next's object initializer shorthand.
-* [once.js](#): An implementation and usage example of a once function. 
+* [once.js](http://obscurejavascript.tumblr.com/post/104606556389/once-in-javascript): An implementation and usage example of a once function. 
 * [private.js](http://obscurejavascript.tumblr.com/post/90848733484/private-variables-in-javascript): Private Variables in JavaScript and their uses.
 * [prototypalInheritance.js](http://obscurejavascript.tumblr.com/post/99651761063/javascript-inheritance-strategy-3-prototypal) How Prototypal Inheritance works.
 * [psuedoClassicalInheritance.js](http://obscurejavascript.tumblr.com/post/99247110986/javascript-inheritance-strategy-2-pseudoclassical) How Psuedoclassical Inheritance works.

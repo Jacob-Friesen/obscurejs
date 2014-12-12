@@ -12,6 +12,7 @@ Each example corresponds directly to a blog post:
 
 <h5>2014</h5>
 <hr/>
+* [assign.js](#): How to use and implement a function that merges objects.
 * [autoExecutingRecursionFunctions.js](http://obscurejavascript.tumblr.com/post/73013181197/auto-executing-recursive-functions): How to create functions that can be called without parenthesis. Or other helpers.
 * [bracketFreeCall.js](http://obscurejavascript.tumblr.com/post/87491571318/paren-free-function-calls): How to create functions that can be called without parenthesis. Or other helpers.
 * [caseForLinting.js](http://obscurejavascript.tumblr.com/post/102806165655/a-case-for-linting-in-javascript): Example of why linting should be used in JavaScript. See blog post for more info.

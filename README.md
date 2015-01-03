@@ -10,6 +10,10 @@ Example Explanations
 
 Each example corresponds directly to a blog post:
 
+<h5>2015</h5>
+<hr/>
+* [zip.js](#): How to use a function that automatically structures raw array data.
+
 <h5>2014</h5>
 <hr/>
 * [assign.js](http://obscurejavascript.tumblr.com/post/105199465669/assign-in-javascript): How to use and implement a function that merges objects.

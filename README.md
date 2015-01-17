@@ -12,7 +12,8 @@ Each example corresponds directly to a blog post:
 
 <h5>2015</h5>
 <hr/>
-* [bind.js](#): Bind and an example of it in JavaScript.
+* [bind.js](http://obscurejavascript.tumblr.com/post/107819323140/bind-in-javascript): Bind and an example of it in JavaScript.
+* [where.js](#): Code for the JavaScript where function.
 * [zip.js](http://obscurejavascript.tumblr.com/post/107136419970/zip-in-javascript): How to use a function that automatically structures raw array data.
 
 <h5>2014</h5>

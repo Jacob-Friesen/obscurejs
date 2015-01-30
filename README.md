@@ -13,8 +13,9 @@ Each example corresponds directly to a blog post:
 <h5>2015</h5>
 <hr/>
 * [bind.js](http://obscurejavascript.tumblr.com/post/107819323140/bind-in-javascript): Bind and an example of it in JavaScript.
+* [monad.js](#): Defining a data structure that defines how something should be executed.
 * [where.js](http://obscurejavascript.tumblr.com/post/108473136150/where-in-javascript): Code for the JavaScript where function.
-* [unionAndIntersection.js](#): Code for the intersection and union array manipulation functions and the unifyling function.
+* [unionAndIntersection.js](http://obscurejavascript.tumblr.com/post/109132410484/intersection-and-union-in-javascript): Code for the intersection and union array manipulation functions and the unifyling function.
 * [zip.js](http://obscurejavascript.tumblr.com/post/107136419970/zip-in-javascript): How to use a function that automatically structures raw array data.
 
 <h5>2014</h5>

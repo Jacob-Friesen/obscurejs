@@ -14,7 +14,7 @@ var makeCellSentence = function(name, width) {
 console.log(makeCellSentence('2D Matrix', 5));
 // A 2D Matrix has 25 cells
 
-// Using a (very trivial) Monad for dependency inversion
+// Using getCells for dependency inversion
 
 var makeCellSentence = function(name, getCells) {
     return 'A ' + name + ' has ' + getCells() + ' cells';
@@ -33,4 +33,4 @@ var getCells = undefined;
 console.log(makeCellSentence('3D Matrix', function() {
     return getCells2(5);
 }));
-// A 2D Matrix has 25 cells
+// A 3D Matrix has 25 cells

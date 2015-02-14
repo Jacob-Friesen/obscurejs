@@ -54,7 +54,7 @@ var decorate = function(obj, toRunFirst) {
                 var oldFunc = obj[property];
                 obj[property] = function() {
                     toRunFirst();
-                    return oldFunc.apply(null, Array.prototype.slice.call(arguments));
+                    return oldFunc.apply(obj, Array.prototype.slice.call(arguments));
                 }
             })(property);
         }

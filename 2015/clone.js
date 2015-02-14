@@ -30,7 +30,7 @@ b.property2.property3 = 'valueB';
 var clone = function(obj) {
     // No point in loop through primitives e.g. strings
     if (typeof obj !== 'object' || obj === null){
-        return obj
+        return obj;
     }
 
     var newObj = Array.isArray(obj) ? [] : {};

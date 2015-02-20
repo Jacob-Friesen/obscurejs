@@ -3,78 +3,77 @@
 
 // The object to search through
 
-var cars = {
-    property1: 1,
-    property2: {
-        property1: 'a',
-        property2: {
-            property1: 'A',
-            property2: 'B',
-            property3: 'C'
+var car = {
+    name: 'mx-5',
+    parts: {
+        wheels: 4,
+        engine: {
+            hp: 167,
+            displacement: 2,// L
         },
-        property3: 'b'
+        weight: 3122
     },
-    property3: 3
+    type: car
 };
 
-// The generic approach
+// The standard approach
+
 var shortSpec = [];
-shortSpec.push(cars.property1);
-shortSpec.push(cars.property2.property3);
-shortSpec.push(cars.property2.property2.property2);
+shortSpec.push(car.name);
+shortSpec.push(car.parts.weight);
+shortSpec.push(car.parts.engine.hp);
 
-console.log(shortSpec);// [1, 'b', 'B']
+console.log(shortSpec);// [mx-5, 3122, 167]
 
-// Using a Monad; Reduces error potential
+// Using a Monad; Increases maintainability...
 
 var Find = function(wait) {
     return {
         // (nextLevel == bind)
         nextLevel: function(callback) {
-            return Find(callback(wait));
+            return Find(callback.call(this, wait));
         }
     };
 };
 
 var shortSpec = [];
-Find(cars).nextLevel(function(section) {
-    shortSpec.push(section.property1);
-    return section.property2;
+Find(car).nextLevel(function(section) {
+    shortSpec.push(section.name);
+    return section.parts;
 }).nextLevel(function(section) {
-    shortSpec.push(section.property3);
-    return section.property2;
+    shortSpec.push(section.weight);
+    return section.engine;
 }).nextLevel(function(section) {
-    shortSpec.push(section.property2);
+    shortSpec.push(section.hp);
 });
 
-console.log(shortSpec);// [1, 'b', 'B']
+console.log(shortSpec);// [mx-5, 3122, 167]
 
-// Easy to change later. If one of the top values is modified, the above strategy requires changing all those names.
+// ...for example, if 'parts' changes to 'components':
 
-var cars = {
-    property1: 1,
-    propertyX: {
-        property1: 'a',
-        property2: {
-            property1: 'A',
-            property2: 'B',
-            property3: 'C'
+var modifiedCar = {
+    name: 'mx-5',
+    components: {
+        wheels: 4,
+        engine: {
+            hp: 167,
+            displacement: 2,// L
         },
-        property3: 'b'
+        weight: 3122
     },
-    property3: 3
+    type: car
 };
 
-var shortSpec = [];
-Find(cars).nextLevel(function(section) {
-    shortSpec.push(section.property1);
-    return section.propertyX;
+shortSpec = [];
+Find(modifiedCar).nextLevel(function(section) {
+    shortSpec.push(section.name);
+    return section.components;
 }).nextLevel(function(section) {
-    shortSpec.push(section.property3);
-    return section.property2;
+    shortSpec.push(section.weight);
+    return section.engine;
 }).nextLevel(function(section) {
-    shortSpec.push(section.property2);
+    shortSpec.push(section.hp);
 });
 
-console.log(shortSpec);// [1, 'b', 'B']
+console.log(shortSpec);// [mx-5, 3122, 167]
 

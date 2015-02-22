@@ -15,6 +15,7 @@ Each example corresponds directly to a blog post:
 * [bind.js](http://obscurejavascript.tumblr.com/post/107819323140/bind-in-javascript): Bind and an example of it in JavaScript.
 * [clone.js](http://obscurejavascript.tumblr.com/post/110468721243/deep-copy-in-javascript): How to deep copy objects in JavaScript.
 * [dependencyInversion.js](http://obscurejavascript.tumblr.com/post/109803267466/monads-in-javascript): Screwed up the monad post. So just the dependency inversion part will be kept.
+* [interatedAsyncCalls.js](#): How to solve a seemingly wierd issue while passing state to multiple asynchronous calls in JavaScript.
 * [memoize.js](http://obscurejavascript.tumblr.com/post/111106381319/memoize-in-javascript): A way to automatically cache function calls.
 * [monad.js](#): Defining a chainable specification of operations.
 * [where.js](http://obscurejavascript.tumblr.com/post/108473136150/where-in-javascript): Code for the JavaScript where function.

@@ -19,7 +19,7 @@ var car = {
 // The standard approach
 
 var shortSpec = [];
-shortSpec.push(car.name);
+shortSpec.push(car.name)
 shortSpec.push(car.parts.weight);
 shortSpec.push(car.parts.engine.hp);
 
@@ -27,11 +27,11 @@ console.log(shortSpec);// [mx-5, 3122, 167]
 
 // Using a Monad; Increases maintainability...
 
-var Find = function(wait) {
+var Find = function(obj) {
     return {
         // (nextLevel == bind)
         nextLevel: function(callback) {
-            return Find(callback.call(this, wait));
+            return callback.call(this, obj);
         }
     };
 };
@@ -39,10 +39,10 @@ var Find = function(wait) {
 var shortSpec = [];
 Find(car).nextLevel(function(section) {
     shortSpec.push(section.name);
-    return section.parts;
+    return Find(section.parts);
 }).nextLevel(function(section) {
     shortSpec.push(section.weight);
-    return section.engine;
+    return Find(section.engine);
 }).nextLevel(function(section) {
     shortSpec.push(section.hp);
 });
@@ -67,13 +67,12 @@ var modifiedCar = {
 shortSpec = [];
 Find(modifiedCar).nextLevel(function(section) {
     shortSpec.push(section.name);
-    return section.components;
+    return Find(section.components);
 }).nextLevel(function(section) {
     shortSpec.push(section.weight);
-    return section.engine;
+    return Find(section.engine);
 }).nextLevel(function(section) {
     shortSpec.push(section.hp);
 });
 
 console.log(shortSpec);// [mx-5, 3122, 167]
-

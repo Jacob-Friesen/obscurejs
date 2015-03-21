@@ -14,20 +14,21 @@ var apiCall = function(options) {
 };
 
 delete options.other;
-apiCall(options);
+apiCall(options);// calling with { page: 0, number: 10 }
 
 // Also, note that the delete modifies in place
-console.log('options are now', options) 
+console.log('options are now', options); // options are now { page: 0, number: 10 }
 
 // Omit
-console.log('With Omit')
+console.log('With Omit');
 
 var omit = function(obj, key) {
     var newObj = {};
 
     for (var name in obj){
-        if (name === key) continue;
-        newObj[name] = obj[name];
+        if (name !== key) {
+            newObj[name] = obj[name];
+        }
     }
 
     return newObj;
@@ -39,5 +40,5 @@ options = {
     other: 'other'
 };
 
-apiCall(omit(options, 'other'));
-console.log('options are now', options);
+apiCall(omit(options, 'other'));// calling with { page: 0, number: 10 }
+console.log('options are now', options);// options are now { page: 0, number: 10, other: 'other' }

@@ -19,7 +19,6 @@ var debounce = function(callback, delay) {
 
 var simulateTyping = function(callback) {
     var text = 'cats and dogs';
-        letterStart = 97;// a is ASCII code 97
 
     var loopedCall = function(i, to, onFinish) {
         if (i > to) {

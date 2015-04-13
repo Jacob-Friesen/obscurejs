@@ -19,7 +19,7 @@ function function1Declaration() {
 };
 function1Declaration();// (All properties in global)
 
-// When 'this' refers to the function scope:
+// When 'this' refers to the function itself:
 
 var function2 = function() {
     this.property1 = 'test';
@@ -68,13 +68,23 @@ if (typeof window !== 'undefined') {
 
     ele.click();
 
-    // except when the event handler is added to the object, then it is global:
+    // Except when the event handler is added to the object, then it is global (provided that doClick is used without
+    // any of the *this* modifiers):
     // <div id='test2' onClick='doClick()'></div>
 
     var doClick = function () {
         console.log(this);// window object
     };
     document.getElementById('test2').click();
+
+    // If the doClick function is not global then it will refer to the object it is part of without *this* modifiers:
+    var obj = {
+        doClick: function () {
+            console.log(this);// window object
+        }
+    }
+    document.getElementById('test3').click();
+
 } else {
     console.log('The event listener example can only be run in browsers (or browser like environments)');
 }

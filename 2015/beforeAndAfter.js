@@ -5,10 +5,9 @@ var before = function(times, callback) {
     var called = 0;
     return function() {
         if (called < times) {
-            callback.apply(this, arguments);
+            called += 1;
+            return callback.apply(this, arguments);
         }
-
-        called += 1;
     };
 };
 
@@ -31,13 +30,12 @@ simulateClicksOn(before(4, function() {
 
 var clickNum = function(isAfter) {
     return function(times, callback) {
-        var called = isAfter ? 0 : 1;// after is ONLY after times calls
+        var called = isAfter ? -1 : 0;// after is ONLY after times calls
         return function() {
-            if ((called > times) === isAfter) {
-                callback.apply(this, arguments);
-            }
-
             called += 1;
+            if ((called > times) === isAfter) {
+                return callback.apply(this, arguments);
+            }
         };
     };
 };

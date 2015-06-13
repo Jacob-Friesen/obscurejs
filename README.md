@@ -23,10 +23,11 @@ Each example corresponds directly to a blog post:
 * [interatedAsyncCalls.js](http://obscurejavascript.tumblr.com/post/112442518446/issues-with-iterated-asynchronous-calls-in): How to solve a seemingly wierd issue while passing state to multiple asynchronous calls in JavaScript.
 * [memoize.js](http://obscurejavascript.tumblr.com/post/111106381319/memoize-in-javascript): A way to automatically cache function calls.
 * [monad.js](http://obscurejavascript.tumblr.com/post/111788543345/monads-in-javascript): Defining a chainable specification of operations.
+* [multiIf.js](#): Making complex conditionals more readable by using an expression and chaining conditions.
 * [omit.js](http://obscurejavascript.tumblr.com/post/114336196594/omit-in-javascript): Return an object with properties removed with no side effects.
 * [promise.js](http://obscurejavascript.tumblr.com/post/117449806524/promises-in-javascript): Create an object that represents future state.
 * [undefined.js](http://obscurejavascript.tumblr.com/post/116842290598/undefined-in-javascript): An explanation of the undefined type.
-* [repl.js](#): A REPL of JavaScript in JavaScript using streams. **Node.js Only**
+* [repl.js](http://obscurejavascript.tumblr.com/post/120957199678/a-repl-for-javascript-in-javascript): A REPL of JavaScript in JavaScript using streams. **Node.js Only**
 * [server.js](http://obscurejavascript.tumblr.com/post/119785644766/4-line-node-js-http-test-server): A 4 line http server using connect.js and serve-static.js **Node.js Only**
 * [stream.js](http://obscurejavascript.tumblr.com/post/120374509401/node-js-streams): A simple example of streams **Node.js Only**
 * [thisKeyword.js](http://obscurejavascript.tumblr.com/post/116172560774/how-this-can-be-modified-in-javascript): An attempt of defining all the possible ways that the *this* context is defined.

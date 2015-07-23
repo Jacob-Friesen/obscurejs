@@ -27,6 +27,7 @@ Each example corresponds directly to a blog post:
 * [mapOrRemove.js](http://obscurejavascript.tumblr.com/post/123911209628/map-or-remove-in-javascript): A function used to filter and modify objects.
 * [mapsThirdArgument.js](#): How the 3rd argument in map() can be used to operate on multiple array elements at once.
 * [memoize.js](http://obscurejavascript.tumblr.com/post/111106381319/memoize-in-javascript): A way to automatically cache function calls.
+* [sortsAndNan.js](http://obscurejavascript.tumblr.com/post/124508304377/maps-third-argument-in-javascript): What NaN return values do to JavaScript's default sort.
 * [monad.js](http://obscurejavascript.tumblr.com/post/111788543345/monads-in-javascript): Defining a chainable specification of operations.
 * [multiIf.js](http://obscurejavascript.tumblr.com/post/121526887468/cleaning-up-complex-conditionals-with-chaining): Making complex conditionals more readable by using an expression and chaining conditions.
 * [omit.js](http://obscurejavascript.tumblr.com/post/114336196594/omit-in-javascript): Return an object with properties removed with no side effects.

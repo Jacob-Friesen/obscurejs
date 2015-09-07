@@ -28,7 +28,7 @@ Each example corresponds directly to a blog post:
 * [functionExpressionProperties.js](http://obscurejavascript.tumblr.com/post/127416893771/using-named-function-expressions-properties-in): How properties on object can be used to simplify code. Specifically, with named Function Expressions.
 * [genericChaining.js](http://obscurejavascript.tumblr.com/post/125694248566/generic-chaining-in-javascript): An explanation of a simple generic pattern for creating chainable objects.
 * [interatedAsyncCalls.js](http://obscurejavascript.tumblr.com/post/112442518446/issues-with-iterated-asynchronous-calls-in): How to solve a seemingly wierd issue while passing state to multiple asynchronous calls in JavaScript.
-* [lazyFunctionDefinition.js](#): Caching values without using conditionals. This is useful for calls that need to be made multiple times.
+* [lazyFunctionDefinition.js](http://obscurejavascript.tumblr.com/post/128172325331/lazy-function-definitions-in-javascript): Caching values without using conditionals. This is useful for calls that need to be made multiple times.
 * [mapOrRemove.js](http://obscurejavascript.tumblr.com/post/123911209628/map-or-remove-in-javascript): A function used to filter and modify objects.
 * [mapsThirdArgument.js](http://obscurejavascript.tumblr.com/post/124508304377/maps-third-argument-in-javascript): How the 3rd argument in map() can be used to operate on multiple array elements at once.
 * [memoize.js](http://obscurejavascript.tumblr.com/post/111106381319/memoize-in-javascript): A way to automatically cache function calls.
@@ -37,6 +37,7 @@ Each example corresponds directly to a blog post:
 * [monad.js](http://obscurejavascript.tumblr.com/post/111788543345/monads-in-javascript): Defining a chainable specification of operations.
 * [multiIf.js](http://obscurejavascript.tumblr.com/post/121526887468/cleaning-up-complex-conditionals-with-chaining): Making complex conditionals more readable by using an expression and chaining conditions.
 * [omit.js](http://obscurejavascript.tumblr.com/post/114336196594/omit-in-javascript): Return an object with properties removed with no side effects.
+* [primitiveCoercion.js](#): A brief explanation of automatic primitive coercion in JavaScript.
 * [promise.js](http://obscurejavascript.tumblr.com/post/117449806524/promises-in-javascript): Create an object that represents future state.
 * [undefined.js](http://obscurejavascript.tumblr.com/post/116842290598/undefined-in-javascript): An explanation of the undefined type.
 * [repl.js](http://obscurejavascript.tumblr.com/post/120957199678/a-repl-for-javascript-in-javascript): A REPL of JavaScript in JavaScript using streams. **Node.js Only**

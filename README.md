@@ -23,6 +23,7 @@ Each example corresponds directly to a blog post:
 * [debounce.js](http://obscurejavascript.tumblr.com/post/115595038489/debounce-in-javascript): Create a wrappped function so that the function it wraps is only called after it stops being triggered every n milliseconds.
 * [defer.js](http://obscurejavascript.tumblr.com/post/113091822041/defer-in-javascript): Run a function after all processing is done in the current callstack.
 * [dependencyInversion.js](http://obscurejavascript.tumblr.com/post/109803267466/monads-in-javascript): Screwed up the monad post. So just the dependency inversion part will be kept.
+* [floatingPointArithmetic.js](#): A simple algorithm strategy for reliably calculating decimal based numbers.
 * [flow.js](http://obscurejavascript.tumblr.com/post/113715151349/flow-in-javascript): This is used to string functions that use each others results in a chain.
 * [functionDecompilation.js](http://obscurejavascript.tumblr.com/post/119214042002/function-decompilation): Function decompilation, Angular.js and simplified dependency injector for it.
 * [functionExpressionProperties.js](http://obscurejavascript.tumblr.com/post/127416893771/using-named-function-expressions-properties-in): How properties on object can be used to simplify code. Specifically, with named Function Expressions.

@@ -30,16 +30,17 @@ Each example corresponds directly to a blog post:
 * [genericChaining.js](http://obscurejavascript.tumblr.com/post/125694248566/generic-chaining-in-javascript): An explanation of a simple generic pattern for creating chainable objects.
 * [interatedAsyncCalls.js](http://obscurejavascript.tumblr.com/post/112442518446/issues-with-iterated-asynchronous-calls-in): How to solve a seemingly wierd issue while passing state to multiple asynchronous calls in JavaScript.
 * [lazyFunctionDefinition.js](http://obscurejavascript.tumblr.com/post/128172325331/lazy-function-definitions-in-javascript): Caching values without using conditionals. This is useful for calls that need to be made multiple times.
+* [mapOrRemove.js](#): An implementation of the map object in ES6 in less than ES6 JavaScript.
 * [mapOrRemove.js](http://obscurejavascript.tumblr.com/post/123911209628/map-or-remove-in-javascript): A function used to filter and modify objects.
 * [mapsThirdArgument.js](http://obscurejavascript.tumblr.com/post/124508304377/maps-third-argument-in-javascript): How the 3rd argument in map() can be used to operate on multiple array elements at once.
 * [memoize.js](http://obscurejavascript.tumblr.com/post/111106381319/memoize-in-javascript): A way to automatically cache function calls.
-* [nonMutatingAssign.js](#): Showing the implementation of a function similar to Lodash assign and how to not mutate with it. 
+* [nonMutatingAssign.js](http://obscurejavascript.tumblr.com/post/129512291001/non-mutating-assign-in-javascript): Showing the implementation of a function similar to Lodash assign and how to not mutate with it. 
 * [oneLineRandomText.js](http://obscurejavascript.tumblr.com/post/125694248566/generic-chaining-in-javascript): How to generate short random text codes in JavaScript in one line using no library functions.
 * [sortsAndNan.js](http://obscurejavascript.tumblr.com/post/125103356483/sorts-and-nan-in-javascript): What NaN return values do to JavaScript's default sort.
 * [monad.js](http://obscurejavascript.tumblr.com/post/111788543345/monads-in-javascript): Defining a chainable specification of operations.
 * [multiIf.js](http://obscurejavascript.tumblr.com/post/121526887468/cleaning-up-complex-conditionals-with-chaining): Making complex conditionals more readable by using an expression and chaining conditions.
 * [omit.js](http://obscurejavascript.tumblr.com/post/114336196594/omit-in-javascript): Return an object with properties removed with no side effects.
-* [primitiveCoercion.js](#): A brief explanation of automatic primitive coercion in JavaScript.
+* [primitiveCoercion.js](http://obscurejavascript.tumblr.com/post/128642547205/primitive-coercion-in-javascript): A brief explanation of automatic primitive coercion in JavaScript.
 * [promise.js](http://obscurejavascript.tumblr.com/post/117449806524/promises-in-javascript): Create an object that represents future state.
 * [undefined.js](http://obscurejavascript.tumblr.com/post/116842290598/undefined-in-javascript): An explanation of the undefined type.
 * [repl.js](http://obscurejavascript.tumblr.com/post/120957199678/a-repl-for-javascript-in-javascript): A REPL of JavaScript in JavaScript using streams. **Node.js Only**

@@ -40,22 +40,22 @@ if (typeof Set !== 'undefined') {
 console.log('\nUsing a simulated Map object');
 
 var Set2 = function() {
-    this.values = [];
+    this._values = [];
 };
 
 Object.defineProperty(Set2.prototype, 'size', {
     get: function() {
-        return this.values.length;
+        return this._values.length;
     }
 });
 
 Set2.prototype.add = function(value) {
-    this.values.push(value);
+    this._values.push(value);
 };
 
 Set2.prototype.has = function(value) {                                                            
-    for (var i = 0; i < this.values.length; i += 1) {
-        if (this.values[i] === value) {
+    for (var i = 0; i < this._values.length; i += 1) {
+        if (this._values[i] === value) {
             return true;
         }
     }
@@ -63,17 +63,17 @@ Set2.prototype.has = function(value) {
 };
 
 Set2.prototype.delete = function(value) {                                                            
-    for (var i = 0; i < this.values.length; i += 1) {
-        if (this.values[i] === value) {
-            this.values.splice(i, 1);
+    for (var i = 0; i < this._values.length; i += 1) {
+        if (this._values[i] === value) {
+            this._values.splice(i, 1);
             return;
         }
     }
 };
 
 Set2.prototype.forEach = function(callback) {                                                            
-    for (var i = 0; i < this.values.length; i += 1) {
-        callback(this.values[i], this);
+    for (var i = 0; i < this._values.length; i += 1) {
+        callback(this._values[i], this);
     }
 };
 

@@ -12,8 +12,8 @@ Each example corresponds directly to a blog post:
 
 <h5>2015</h5>
 <hr/>
-* [oneLineRandomText.js](http://obscurejavascript.tumblr.com/post/126274746705/1-line-random-text-code-generator-in-javascript): Generating short random texts using just one short line of JavaScript.
 * [argumentParameterBinding.js](http://obscurejavascript.tumblr.com/post/122101479376/javascript-arguments-and-function-parameter): A demonstration of a little known arguments object quirk.
+* [arrowFunctions.js](#): How to implement arrow functions in pre ES6 JavaScript.
 * [beforeAndAfter.js](http://obscurejavascript.tumblr.com/post/118047746815/before-and-after-in-javascript): A before function with an extension into an after one.
 * [bind.js](http://obscurejavascript.tumblr.com/post/107819323140/bind-in-javascript): Bind and an example of it in JavaScript.
 * [chainify.js](http://obscurejavascript.tumblr.com/post/126848395566/a-function-to-make-any-object-chainable): How to build a generic chaining method that can add chaining to any object.
@@ -29,7 +29,7 @@ Each example corresponds directly to a blog post:
 * [functionExpressionProperties.js](http://obscurejavascript.tumblr.com/post/127416893771/using-named-function-expressions-properties-in): How properties on object can be used to simplify code. Specifically, with named Function Expressions.
 * [genericChaining.js](http://obscurejavascript.tumblr.com/post/125694248566/generic-chaining-in-javascript): An explanation of a simple generic pattern for creating chainable objects.
 * [interatedAsyncCalls.js](http://obscurejavascript.tumblr.com/post/112442518446/issues-with-iterated-asynchronous-calls-in): How to solve a seemingly wierd issue while passing state to multiple asynchronous calls in JavaScript.
-* [iterator.js](#): A simple implementation of the ES6 iterator abstraction in non ES6 JavaScript (without an Iterable implementation).
+* [iterator.js](http://obscurejavascript.tumblr.com/post/131438691771/iterators-in-es6-javascript): A simple implementation of the ES6 iterator abstraction in non ES6 JavaScript (without an Iterable implementation).
 * [lazyFunctionDefinition.js](http://obscurejavascript.tumblr.com/post/128172325331/lazy-function-definitions-in-javascript): Caching values without using conditionals. This is useful for calls that need to be made multiple times.
 * [mapObject.js](http://obscurejavascript.tumblr.com/post/130495034293/the-map-object-in-es6-javascript): An implementation of the map object in ES6 in less than ES6 JavaScript.
 * [mapOrRemove.js](http://obscurejavascript.tumblr.com/post/123911209628/map-or-remove-in-javascript): A function used to filter and modify objects.

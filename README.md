@@ -13,7 +13,7 @@ Each example corresponds directly to a blog post:
 <h5>2015</h5>
 <hr/>
 * [argumentParameterBinding.js](http://obscurejavascript.tumblr.com/post/122101479376/javascript-arguments-and-function-parameter): A demonstration of a little known arguments object quirk.
-* [arrowFunctions.js](#): How to implement arrow functions in pre ES6 JavaScript.
+* [arrowFunctions.js](http://obscurejavascript.tumblr.com/post/131956254400/arrow-functions-in-es6-javascript): How to implement arrow functions in pre ES6 JavaScript.
 * [beforeAndAfter.js](http://obscurejavascript.tumblr.com/post/118047746815/before-and-after-in-javascript): A before function with an extension into an after one.
 * [bind.js](http://obscurejavascript.tumblr.com/post/107819323140/bind-in-javascript): Bind and an example of it in JavaScript.
 * [chainify.js](http://obscurejavascript.tumblr.com/post/126848395566/a-function-to-make-any-object-chainable): How to build a generic chaining method that can add chaining to any object.
@@ -38,6 +38,7 @@ Each example corresponds directly to a blog post:
 * [nonMutatingAssign.js](http://obscurejavascript.tumblr.com/post/129512291001/non-mutating-assign-in-javascript): Showing the implementation of a function similar to Lodash assign and how to not mutate with it. 
 * [oneLineRandomText.js](http://obscurejavascript.tumblr.com/post/125694248566/generic-chaining-in-javascript): How to generate short random text codes in JavaScript in one line using no library functions.
 * [sortsAndNan.js](http://obscurejavascript.tumblr.com/post/125103356483/sorts-and-nan-in-javascript): What NaN return values do to JavaScript's default sort.
+* [templateStrings.js](#): Evaluating strings with expressions in JavaScript similar to ES6 templates.
 * [monad.js](http://obscurejavascript.tumblr.com/post/111788543345/monads-in-javascript): Defining a chainable specification of operations.
 * [multiIf.js](http://obscurejavascript.tumblr.com/post/121526887468/cleaning-up-complex-conditionals-with-chaining): Making complex conditionals more readable by using an expression and chaining conditions.
 * [omit.js](http://obscurejavascript.tumblr.com/post/114336196594/omit-in-javascript): Return an object with properties removed with no side effects.

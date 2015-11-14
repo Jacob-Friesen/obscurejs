@@ -39,6 +39,7 @@ Each example corresponds directly to a blog post:
 * [oneLineRandomText.js](http://obscurejavascript.tumblr.com/post/125694248566/generic-chaining-in-javascript): How to generate short random text codes in JavaScript in one line using no library functions.
 * [sortsAndNan.js](http://obscurejavascript.tumblr.com/post/125103356483/sorts-and-nan-in-javascript): What NaN return values do to JavaScript's default sort.
 * [templateStrings.js](http://obscurejavascript.tumblr.com/post/132413275313/template-strings-in-es6-javascript): Evaluating strings with expressions in JavaScript similar to ES6 templates.
+* [let.js](#): The ES6 let statement and how to emulate close aproximations.
 * [monad.js](http://obscurejavascript.tumblr.com/post/111788543345/monads-in-javascript): Defining a chainable specification of operations.
 * [multiIf.js](http://obscurejavascript.tumblr.com/post/121526887468/cleaning-up-complex-conditionals-with-chaining): Making complex conditionals more readable by using an expression and chaining conditions.
 * [omit.js](http://obscurejavascript.tumblr.com/post/114336196594/omit-in-javascript): Return an object with properties removed with no side effects.
@@ -49,7 +50,7 @@ Each example corresponds directly to a blog post:
 * [server.js](http://obscurejavascript.tumblr.com/post/119785644766/4-line-node-js-http-test-server): A 4 line http server using connect.js and serve-static.js **Node.js Only**
 * [setObject.js](http://obscurejavascript.tumblr.com/post/130966866306/the-set-object-in-es6-javascript): An implementation of the set object in ES6 in less than ES6 JavaScript.
 * [stream.js](http://obscurejavascript.tumblr.com/post/120374509401/node-js-streams): A simple example of streams **Node.js Only**
-* [symbol.js](#): Implementing ES6 Symbols in pre ES6 syntax.
+* [symbol.js](http://obscurejavascript.tumblr.com/post/132877236317/symbols-in-es6-javascript): Implementing ES6 Symbols in pre ES6 syntax.
 * [thisKeyword.js](http://obscurejavascript.tumblr.com/post/116172560774/how-this-can-be-modified-in-javascript): An attempt of defining all the possible ways that the *this* context is defined.
 * [throttle.js](http://obscurejavascript.tumblr.com/post/114959169455/throttle-in-javascript): Create a wrappped function so that the function it wraps is called at most every n milliseconds.
 * [where.js](http://obscurejavascript.tumblr.com/post/108473136150/where-in-javascript): Code for the JavaScript where function.

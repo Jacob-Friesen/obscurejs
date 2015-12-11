@@ -21,6 +21,7 @@ Each example corresponds directly to a blog post:
 * [circularReferencePositives.js](http://obscurejavascript.tumblr.com/post/123302560591/circular-references-the-positives): Positives of circular references.
 * [class.js](http://obscurejavascript.tumblr.com/post/134216232213/classes-in-es6-javascript): Classes in ES6 and how to create a close equivalent.
 * [clone.js](http://obscurejavascript.tumblr.com/post/110468721243/deep-copy-in-javascript): How to deep copy objects in JavaScript.
+* [const.js](#): The const keyword in ES6 and how to create a close equivalent.
 * [debounce.js](http://obscurejavascript.tumblr.com/post/115595038489/debounce-in-javascript): Create a wrappped function so that the function it wraps is only called after it stops being triggered every n milliseconds.
 * [defer.js](http://obscurejavascript.tumblr.com/post/113091822041/defer-in-javascript): Run a function after all processing is done in the current callstack.
 * [dependencyInversion.js](http://obscurejavascript.tumblr.com/post/109803267466/monads-in-javascript): Screwed up the monad post. So just the dependency inversion part will be kept.
@@ -28,7 +29,7 @@ Each example corresponds directly to a blog post:
 * [flow.js](http://obscurejavascript.tumblr.com/post/113715151349/flow-in-javascript): This is used to string functions that use each others results in a chain.
 * [functionDecompilation.js](http://obscurejavascript.tumblr.com/post/119214042002/function-decompilation): Function decompilation, Angular.js and simplified dependency injector for it.
 * [functionExpressionProperties.js](http://obscurejavascript.tumblr.com/post/127416893771/using-named-function-expressions-properties-in): How properties on object can be used to simplify code. Specifically, with named Function Expressions.
-* [generator.js](#): How to implement a relatively close equivalent of generators in pre ES6 JavaScript.
+* [generator.js](http://obscurejavascript.tumblr.com/post/133745153006/generators-in-es6-javascript): How to implement a relatively close equivalent of generators in pre ES6 JavaScript.
 * [genericChaining.js](http://obscurejavascript.tumblr.com/post/125694248566/generic-chaining-in-javascript): An explanation of a simple generic pattern for creating chainable objects.
 * [interatedAsyncCalls.js](http://obscurejavascript.tumblr.com/post/112442518446/issues-with-iterated-asynchronous-calls-in): How to solve a seemingly wierd issue while passing state to multiple asynchronous calls in JavaScript.
 * [iterator.js](http://obscurejavascript.tumblr.com/post/131438691771/iterators-in-es6-javascript): A simple implementation of the ES6 iterator abstraction in non ES6 JavaScript (without an Iterable implementation).
@@ -44,7 +45,7 @@ Each example corresponds directly to a blog post:
 * [let.js](http://obscurejavascript.tumblr.com/post/133287385450/let-in-es6-javascript): The ES6 let statement and how to emulate close aproximations.
 * [monad.js](http://obscurejavascript.tumblr.com/post/111788543345/monads-in-javascript): Defining a chainable specification of operations.
 * [multiIf.js](http://obscurejavascript.tumblr.com/post/121526887468/cleaning-up-complex-conditionals-with-chaining): Making complex conditionals more readable by using an expression and chaining conditions.
-* [multicore.js](http://obscurejavascript.tumblr.com/post/133745153006/generators-in-es6-javascript): Multicore node.js code. **Node.js Only**
+* [multicore.js](http://obscurejavascript.tumblr.com/post/134675242340/multicore-javascript-with-nodejs): Multicore node.js code. **Node.js Only**
 * [omit.js](http://obscurejavascript.tumblr.com/post/114336196594/omit-in-javascript): Return an object with properties removed with no side effects.
 * [primitiveCoercion.js](http://obscurejavascript.tumblr.com/post/128642547205/primitive-coercion-in-javascript): A brief explanation of automatic primitive coercion in JavaScript.
 * [promise.js](http://obscurejavascript.tumblr.com/post/117449806524/promises-in-javascript): Create an object that represents future state.

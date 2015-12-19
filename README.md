@@ -21,7 +21,7 @@ Each example corresponds directly to a blog post:
 * [circularReferencePositives.js](http://obscurejavascript.tumblr.com/post/123302560591/circular-references-the-positives): Positives of circular references.
 * [class.js](http://obscurejavascript.tumblr.com/post/134216232213/classes-in-es6-javascript): Classes in ES6 and how to create a close equivalent.
 * [clone.js](http://obscurejavascript.tumblr.com/post/110468721243/deep-copy-in-javascript): How to deep copy objects in JavaScript.
-* [const.js](#): The const keyword in ES6 and how to create a close equivalent.
+* [const.js](http://obscurejavascript.tumblr.com/post/135135024082/const-in-es6-javascript): The const keyword in ES6 and how to create a close equivalent.
 * [debounce.js](http://obscurejavascript.tumblr.com/post/115595038489/debounce-in-javascript): Create a wrappped function so that the function it wraps is only called after it stops being triggered every n milliseconds.
 * [defer.js](http://obscurejavascript.tumblr.com/post/113091822041/defer-in-javascript): Run a function after all processing is done in the current callstack.
 * [dependencyInversion.js](http://obscurejavascript.tumblr.com/post/109803267466/monads-in-javascript): Screwed up the monad post. So just the dependency inversion part will be kept.
@@ -57,6 +57,7 @@ Each example corresponds directly to a blog post:
 * [symbol.js](http://obscurejavascript.tumblr.com/post/132877236317/symbols-in-es6-javascript): Implementing ES6 Symbols in pre ES6 syntax.
 * [thisKeyword.js](http://obscurejavascript.tumblr.com/post/116172560774/how-this-can-be-modified-in-javascript): An attempt of defining all the possible ways that the *this* context is defined.
 * [throttle.js](http://obscurejavascript.tumblr.com/post/114959169455/throttle-in-javascript): Create a wrappped function so that the function it wraps is called at most every n milliseconds.
+* [trim.js](#): The trim string function and polyfills for trimLeft and trimRight.
 * [where.js](http://obscurejavascript.tumblr.com/post/108473136150/where-in-javascript): Code for the JavaScript where function.
 * [unionAndIntersection.js](http://obscurejavascript.tumblr.com/post/109132410484/intersection-and-union-in-javascript): Code for the intersection and union array manipulation functions and the unifyling function.
 * [variableChaining.js](http://obscurejavascript.tumblr.com/post/118630892587/variable-chaining-and-globals-in-javascript): How variable chaining can create globals and how global creation can be avoided.

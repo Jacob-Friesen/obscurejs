@@ -10,6 +10,10 @@ Example Explanations
 
 Each example corresponds directly to a blog post:
 
+<h5>2016</h5>
+<hr/>
+* [observable.js](#): How to treate data that arrives over time in an array like structure.
+
 <h5>2015</h5>
 <hr/>
 * [argumentParameterBinding.js](http://obscurejavascript.tumblr.com/post/122101479376/javascript-arguments-and-function-parameter): A demonstration of a little known arguments object quirk.
@@ -58,7 +62,7 @@ Each example corresponds directly to a blog post:
 * [thisKeyword.js](http://obscurejavascript.tumblr.com/post/116172560774/how-this-can-be-modified-in-javascript): An attempt of defining all the possible ways that the *this* context is defined.
 * [throttle.js](http://obscurejavascript.tumblr.com/post/114959169455/throttle-in-javascript): Create a wrappped function so that the function it wraps is called at most every n milliseconds.
 * [trim.js](http://obscurejavascript.tumblr.com/post/135590649158/trim-in-javascript): The trim string function and polyfills for trimLeft and trimRight.
-* [typedArray.js](#): A simple demonstration of the differences between Array and a Typed Array.
+* [typedArray.js](http://obscurejavascript.tumblr.com/post/137036713404/typed-arrays-in-javascript): A simple demonstration of the differences between Array and a Typed Array.
 * [where.js](http://obscurejavascript.tumblr.com/post/108473136150/where-in-javascript): Code for the JavaScript where function.
 * [unionAndIntersection.js](http://obscurejavascript.tumblr.com/post/109132410484/intersection-and-union-in-javascript): Code for the intersection and union array manipulation functions and the unifyling function.
 * [variableChaining.js](http://obscurejavascript.tumblr.com/post/118630892587/variable-chaining-and-globals-in-javascript): How variable chaining can create globals and how global creation can be avoided.

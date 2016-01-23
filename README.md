@@ -12,7 +12,8 @@ Each example corresponds directly to a blog post:
 
 <h5>2016</h5>
 <hr/>
-* [observable.js](#): How to treate data that arrives over time in an array like structure.
+* [observable.js](http://obscurejavascript.tumblr.com/post/137500537300/observables-in-javascript): How to treate data that arrives over time in an array like fashion.
+* [stub.js](#): A simple one function method of stubbing functions including asynchronous ones.
 
 <h5>2015</h5>
 <hr/>

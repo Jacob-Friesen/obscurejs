@@ -12,9 +12,10 @@ Each example corresponds directly to a blog post:
 
 <h5>2016</h5>
 <hr/>
-* [observable.js](http://obscurejavascript.tumblr.com/post/137500537300/observables-in-javascript): How to treate data that arrives over time in an array like fashion.
-* [proxy.js](#): How to change JavaScript syntax on given objects via the Proxy API.
+* [observable.js](http://obscurejavascript.tumblr.com/post/137500537300/observables-in-javascript): How to treat data that arrives over time in an array like fashion.
+* [proxy.js](http://obscurejavascript.tumblr.com/post/138429574082/proxies-in-javascript): How to change JavaScript syntax on given objects via the Proxy API.
 * [stub.js](http://obscurejavascript.tumblr.com/post/137969738765/simple-asynchronous-javascript-stubs): A simple one function method of stubbing functions including asynchronous ones.
+* [void.js](#): Uses of the void keyword. Best understood in conjunction with the blog post in this case.
 
 <h5>2015</h5>
 <hr/>

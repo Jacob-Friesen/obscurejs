@@ -14,8 +14,9 @@ Each example corresponds directly to a blog post:
 <hr/>
 * [observable.js](http://obscurejavascript.tumblr.com/post/137500537300/observables-in-javascript): How to treat data that arrives over time in an array like fashion.
 * [proxy.js](http://obscurejavascript.tumblr.com/post/138429574082/proxies-in-javascript): How to change JavaScript syntax on given objects via the Proxy API.
+* [replace3rdArg.js](#): How to use the little known ability of String.replace to accept callbacks.
 * [stub.js](http://obscurejavascript.tumblr.com/post/137969738765/simple-asynchronous-javascript-stubs): A simple one function method of stubbing functions including asynchronous ones.
-* [void.js](#): Uses of the void keyword. Best understood in conjunction with the blog post in this case.
+* [void.js](http://obscurejavascript.tumblr.com/post/138877228983/void-in-javascript): Uses of the void keyword. Best understood in conjunction with the blog post in this case.
 
 <h5>2015</h5>
 <hr/>

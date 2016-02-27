@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Jacob-Friesen/obscurejs/issues"
   },
-  "homepage": "https://github.com/Jacob-Friesen/obscurejs"
+  "homepage": "https://github.com/Jacob-Friesen/obscurejs",
+  "devDependencies": {
+    "lodash": "^4.5.1"
+  }
 }

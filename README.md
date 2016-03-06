@@ -12,7 +12,7 @@ Each example corresponds directly to a blog post:
 
 <h5>2016</h5>
 <hr/>
-* [compose.js](#): A function to store functions to be called later.
+* [callLater.js](#): A function to store functions to be called later.
 * [functionToString.js](https://github.com/Jacob-Friesen/obscurejs/blob/master/2016/functionToString.js): About the Function.toString method and how it can be used for debugging and function regeneration.
 * [observable.js](http://obscurejavascript.tumblr.com/post/137500537300/observables-in-javascript): How to treat data that arrives over time in an array like fashion.
 * [proxy.js](http://obscurejavascript.tumblr.com/post/138429574082/proxies-in-javascript): How to change JavaScript syntax on given objects via the Proxy API.

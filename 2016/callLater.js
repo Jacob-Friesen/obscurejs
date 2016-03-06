@@ -42,9 +42,9 @@ setTimeout(function() {
 }, 600);
 
 
-// The call prepended with a function using a preCall
+// The call prepended with a function using a callLater function.
 
-var compose = function() {
+var callLater = function() {
   var callbacks = Array.prototype.slice.call(arguments);
 
   return function() {
@@ -58,10 +58,10 @@ var compose = function() {
 };
 
 setTimeout(function() {
-  console.log('\nAdded a prepended function with compose:');
+  console.log('\nAdded a prepended function with callLater:');
 
   wrappedApiCall = function() {
-    apiCall(compose(preSuccessMessage, success));
+    apiCall(callLater(preSuccessMessage, success));
     // Calling before success
     // received results: [ 'some', 'results' ]
   };

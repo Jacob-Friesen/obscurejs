@@ -19,7 +19,7 @@ Each example corresponds directly to a blog post:
 * [nonMutatedLists.js](#): A simple way to make list operations not mutate their lists.
 * [proxy.js](http://obscurejavascript.tumblr.com/post/138429574082/proxies-in-javascript): How to change JavaScript syntax on given objects via the Proxy API.
 * [replace3rdArg.js](http://obscurejavascript.tumblr.com/post/139312155038/the-stringreplace-callback-in-javascript): How to use the little known ability of String.replace to accept callbacks.
-* [reverseLater.js](#): Return a function that calls the passed in callback with reversed arguments.
+* [reverseLater.js](http://obscurejavascript.tumblr.com/post/141384784768/reverselater-in-javascript): Return a function that calls the passed in callback with reversed arguments.
 * [selfRegeneration.js](http://obscurejavascript.tumblr.com/post/139742651734/object-self-regeneration-in-javascript): How an object can regenerate itself. This is useful when the object constructor is lost.
 * [stub.js](http://obscurejavascript.tumblr.com/post/137969738765/simple-asynchronous-javascript-stubs): A simple one function method of stubbing functions including asynchronous ones.
 * [void.js](http://obscurejavascript.tumblr.com/post/138877228983/void-in-javascript): Uses of the void keyword. Best understood in conjunction with the blog post in this case.

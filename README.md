@@ -24,6 +24,7 @@ Each example corresponds directly to a blog post:
 * [selfRegeneration.js](http://obscurejavascript.tumblr.com/post/139742651734/object-self-regeneration-in-javascript): How an object can regenerate itself. This is useful when the object constructor is lost.
 * [stub.js](http://obscurejavascript.tumblr.com/post/137969738765/simple-asynchronous-javascript-stubs): A simple one function method of stubbing functions including asynchronous ones.
 * [void.js](http://obscurejavascript.tumblr.com/post/138877228983/void-in-javascript): Uses of the void keyword. Best understood in conjunction with the blog post in this case.
+* [zipObj.js](#): A function that maps a list of keys to a list of values. This shows an example of why that is important.
 
 <h5>2015</h5>
 <hr/>

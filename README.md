@@ -16,7 +16,8 @@ Each example corresponds directly to a blog post:
 * [compose.js](http://obscurejavascript.tumblr.com/post/140984777408/compose-in-javascript): A function used to simplify sequences of functions.
 * [functionToString.js](https://github.com/Jacob-Friesen/obscurejs/blob/master/2016/functionToString.js): About the Function.toString method and how it can be used for debugging and function regeneration.
 * [observable.js](http://obscurejavascript.tumblr.com/post/137500537300/observables-in-javascript): How to treat data that arrives over time in an array like fashion.
-* [oneLineForLoop.js](#): An explanation of for loop structure by using one line for loops only.
+* [objOf.js](#): A shorthand way to create objects with dynamic property names in pre-es6 JavaScript.
+* [oneLineForLoop.js](http://obscurejavascript.tumblr.com/post/142193257215/one-line-for-loop): An explanation of for loop structure by using one line for loops only.
 * [nonMutatedLists.js](http://obscurejavascript.tumblr.com/post/141792956222/non-mutating-list-operations): A simple way to make list operations not mutate their lists.
 * [proxy.js](http://obscurejavascript.tumblr.com/post/138429574082/proxies-in-javascript): How to change JavaScript syntax on given objects via the Proxy API.
 * [replace3rdArg.js](http://obscurejavascript.tumblr.com/post/139312155038/the-stringreplace-callback-in-javascript): How to use the little known ability of String.replace to accept callbacks.
@@ -24,7 +25,7 @@ Each example corresponds directly to a blog post:
 * [selfRegeneration.js](http://obscurejavascript.tumblr.com/post/139742651734/object-self-regeneration-in-javascript): How an object can regenerate itself. This is useful when the object constructor is lost.
 * [stub.js](http://obscurejavascript.tumblr.com/post/137969738765/simple-asynchronous-javascript-stubs): A simple one function method of stubbing functions including asynchronous ones.
 * [void.js](http://obscurejavascript.tumblr.com/post/138877228983/void-in-javascript): Uses of the void keyword. Best understood in conjunction with the blog post in this case.
-* [zipObj.js](#): A function that maps a list of keys to a list of values. This shows an example of why that is important.
+* [zipObj.js](http://obscurejavascript.tumblr.com/post/142586570436/zipping-objects-in-javascript): A function that maps a list of keys to a list of values. This shows an example of why that is important.
 
 <h5>2015</h5>
 <hr/>

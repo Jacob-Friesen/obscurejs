@@ -14,7 +14,7 @@ var BaseAPI = function() {
 
   self.baseUrl = '/test/:location';
 
-  self.getUrl = null;// Set by child;
+  self.getUrl = null;// Set by child
 
   self.send = function(callback) {
     var url = this.baseUrl;
@@ -57,7 +57,7 @@ var part2 = function() {
 
     self.baseUrl = '/test/:location';
 
-    self.getUrl = null;// Set by child;
+    self.getUrl = identity;
 
     self.send = function(callback) {
       var url = this.getUrl(this.baseUrl);

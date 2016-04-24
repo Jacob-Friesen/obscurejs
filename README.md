@@ -15,8 +15,9 @@ Each example corresponds directly to a blog post:
 * [callLater.js](http://obscurejavascript.tumblr.com/post/140584717376/calllater-in-javascript): A function to store functions to be called later.
 * [compose.js](http://obscurejavascript.tumblr.com/post/140984777408/compose-in-javascript): A function used to simplify sequences of functions.
 * [functionToString.js](https://github.com/Jacob-Friesen/obscurejs/blob/master/2016/functionToString.js): About the Function.toString method and how it can be used for debugging and function regeneration.
+* [identity.js](#): How the identity function can be useful.
 * [observable.js](http://obscurejavascript.tumblr.com/post/137500537300/observables-in-javascript): How to treat data that arrives over time in an array like fashion.
-* [objOf.js](#): A shorthand way to create objects with dynamic property names in pre-es6 JavaScript.
+* [objOf.js](http://obscurejavascript.tumblr.com/post/142965398258/object-of): A shorthand way to create objects with dynamic property names in pre-es6 JavaScript.
 * [oneLineForLoop.js](http://obscurejavascript.tumblr.com/post/142193257215/one-line-for-loop): An explanation of for loop structure by using one line for loops only.
 * [nonMutatedLists.js](http://obscurejavascript.tumblr.com/post/141792956222/non-mutating-list-operations): A simple way to make list operations not mutate their lists.
 * [proxy.js](http://obscurejavascript.tumblr.com/post/138429574082/proxies-in-javascript): How to change JavaScript syntax on given objects via the Proxy API.

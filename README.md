@@ -15,7 +15,7 @@ Each example corresponds directly to a blog post:
 * [callLater.js](http://obscurejavascript.tumblr.com/post/140584717376/calllater-in-javascript): A function to store functions to be called later.
 * [compose.js](http://obscurejavascript.tumblr.com/post/140984777408/compose-in-javascript): A function used to simplify sequences of functions.
 * [functionToString.js](https://github.com/Jacob-Friesen/obscurejs/blob/master/2016/functionToString.js): About the Function.toString method and how it can be used for debugging and function regeneration.
-* [identity.js](#): How the identity function can be useful.
+* [identity.js](http://obscurejavascript.tumblr.com/post/143335631545/how-identity-functions-are-useful-in-javascript): How the identity function can be useful.
 * [observable.js](http://obscurejavascript.tumblr.com/post/137500537300/observables-in-javascript): How to treat data that arrives over time in an array like fashion.
 * [objOf.js](http://obscurejavascript.tumblr.com/post/142965398258/object-of): A shorthand way to create objects with dynamic property names in pre-es6 JavaScript.
 * [oneLineForLoop.js](http://obscurejavascript.tumblr.com/post/142193257215/one-line-for-loop): An explanation of for loop structure by using one line for loops only.
@@ -25,6 +25,7 @@ Each example corresponds directly to a blog post:
 * [reverseLater.js](http://obscurejavascript.tumblr.com/post/141384784768/reverselater-in-javascript): Return a function that calls the passed in callback with reversed arguments.
 * [selfRegeneration.js](http://obscurejavascript.tumblr.com/post/139742651734/object-self-regeneration-in-javascript): How an object can regenerate itself. This is useful when the object constructor is lost.
 * [stub.js](http://obscurejavascript.tumblr.com/post/137969738765/simple-asynchronous-javascript-stubs): A simple one function method of stubbing functions including asynchronous ones.
+* [stringify.js](#): How to use stringify to pretty print JavaScript objects in a customizable way.
 * [void.js](http://obscurejavascript.tumblr.com/post/138877228983/void-in-javascript): Uses of the void keyword. Best understood in conjunction with the blog post in this case.
 * [zipObj.js](http://obscurejavascript.tumblr.com/post/142586570436/zipping-objects-in-javascript): A function that maps a list of keys to a list of values. This shows an example of why that is important.
 

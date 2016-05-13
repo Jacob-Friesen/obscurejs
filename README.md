@@ -14,7 +14,7 @@ Each example corresponds directly to a blog post:
 <hr/>
 * [callLater.js](http://obscurejavascript.tumblr.com/post/140584717376/calllater-in-javascript): A function to store functions to be called later.
 * [compose.js](http://obscurejavascript.tumblr.com/post/140984777408/compose-in-javascript): A function used to simplify sequences of functions.
-* [flatMap.js](#): A map function that allows multiple values to be return and merged as returns.
+* [flatMap.js](#): A map function that allows multiple values or no values to be returned for each array element. Allows returns that are shorter than the original array.
 * [functionToString.js](https://github.com/Jacob-Friesen/obscurejs/blob/master/2016/functionToString.js): About the Function.toString method and how it can be used for debugging and function regeneration.
 * [identity.js](http://obscurejavascript.tumblr.com/post/143335631545/how-identity-functions-are-useful-in-javascript): How the identity function can be useful.
 * [observable.js](http://obscurejavascript.tumblr.com/post/137500537300/observables-in-javascript): How to treat data that arrives over time in an array like fashion.

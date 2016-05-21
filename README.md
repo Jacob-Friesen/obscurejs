@@ -14,7 +14,7 @@ Each example corresponds directly to a blog post:
 <hr/>
 * [callLater.js](http://obscurejavascript.tumblr.com/post/140584717376/calllater-in-javascript): A function to store functions to be called later.
 * [compose.js](http://obscurejavascript.tumblr.com/post/140984777408/compose-in-javascript): A function used to simplify sequences of functions.
-* [flatMap.js](#): A map function that allows multiple values or no values to be returned for each array element. Allows returns that are shorter than the original array.
+* [flatMap.js](http://obscurejavascript.tumblr.com/post/144412398726/flatmap-in-javascript): A map function that allows multiple values or no values to be returned for each array element. Allows returns that are shorter than the original array.
 * [functionToString.js](https://github.com/Jacob-Friesen/obscurejs/blob/master/2016/functionToString.js): About the Function.toString method and how it can be used for debugging and function regeneration.
 * [identity.js](http://obscurejavascript.tumblr.com/post/143335631545/how-identity-functions-are-useful-in-javascript): How the identity function can be useful.
 * [observable.js](http://obscurejavascript.tumblr.com/post/137500537300/observables-in-javascript): How to treat data that arrives over time in an array like fashion.
@@ -28,6 +28,7 @@ Each example corresponds directly to a blog post:
 * [selfRegeneration.js](http://obscurejavascript.tumblr.com/post/139742651734/object-self-regeneration-in-javascript): How an object can regenerate itself. This is useful when the object constructor is lost.
 * [stub.js](http://obscurejavascript.tumblr.com/post/137969738765/simple-asynchronous-javascript-stubs): A simple one function method of stubbing functions including asynchronous ones.
 * [stringify.js](http://obscurejavascript.tumblr.com/post/143697853679/pretty-printing-in-javascript): How to use stringify to pretty print JavaScript objects in a customizable way.
+* [quickObj.js](#): A recursive function to quickly create high depth objects for unit and other tests.
 * [void.js](http://obscurejavascript.tumblr.com/post/138877228983/void-in-javascript): Uses of the void keyword. Best understood in conjunction with the blog post in this case.
 * [zipObj.js](http://obscurejavascript.tumblr.com/post/142586570436/zipping-objects-in-javascript): A function that maps a list of keys to a list of values. This shows an example of why that is important.
 

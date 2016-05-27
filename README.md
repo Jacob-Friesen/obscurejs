@@ -12,6 +12,7 @@ Each example corresponds directly to a blog post:
 
 <h5>2016</h5>
 <hr/>
+* [at.js](#): A function to reduce the time to get values from potentially empty deep objects.
 * [callLater.js](http://obscurejavascript.tumblr.com/post/140584717376/calllater-in-javascript): A function to store functions to be called later.
 * [compose.js](http://obscurejavascript.tumblr.com/post/140984777408/compose-in-javascript): A function used to simplify sequences of functions.
 * [flatMap.js](http://obscurejavascript.tumblr.com/post/144412398726/flatmap-in-javascript): A map function that allows multiple values or no values to be returned for each array element. Allows returns that are shorter than the original array.
@@ -28,7 +29,7 @@ Each example corresponds directly to a blog post:
 * [selfRegeneration.js](http://obscurejavascript.tumblr.com/post/139742651734/object-self-regeneration-in-javascript): How an object can regenerate itself. This is useful when the object constructor is lost.
 * [stub.js](http://obscurejavascript.tumblr.com/post/137969738765/simple-asynchronous-javascript-stubs): A simple one function method of stubbing functions including asynchronous ones.
 * [stringify.js](http://obscurejavascript.tumblr.com/post/143697853679/pretty-printing-in-javascript): How to use stringify to pretty print JavaScript objects in a customizable way.
-* [quickObj.js](#): A recursive function to quickly create high depth objects for unit and other tests.
+* [quickObj.js](http://obscurejavascript.tumblr.com/post/144766469500/faster-object-mocking-with-quick-object-in): A recursive function to quickly create high depth objects for unit and other tests.
 * [void.js](http://obscurejavascript.tumblr.com/post/138877228983/void-in-javascript): Uses of the void keyword. Best understood in conjunction with the blog post in this case.
 * [zipObj.js](http://obscurejavascript.tumblr.com/post/142586570436/zipping-objects-in-javascript): A function that maps a list of keys to a list of values. This shows an example of why that is important.
 

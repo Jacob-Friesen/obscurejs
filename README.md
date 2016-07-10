@@ -12,11 +12,12 @@ Each example corresponds directly to a blog post:
 
 <h5>2016</h5>
 <hr/>
-* [at.js](#): A function to drastically reduce syntax for asynchronous object property updates.
+* [assignTo.js](http://obscurejavascript.tumblr.com/post/146858921210/assignto-in-javascript): A function to drastically reduce syntax for asynchronous object property updates.
 * [at.js](http://obscurejavascript.tumblr.com/post/145114905723/easily-reading-deep-objects-in-javascript): A function to reduce the time to get values from potentially empty deep objects.
 * [callLater.js](http://obscurejavascript.tumblr.com/post/140584717376/calllater-in-javascript): A function to store functions to be called later.
 * [callbackWith.js](http://obscurejavascript.tumblr.com/post/145817349940/simplifying-asynchonous-unit-tests-in-javascript): A way to simplify unit tests by making a function that provides a quick way to mock out functions that call calbacks. Also includes an argsAtSync utility.
 * [compose.js](http://obscurejavascript.tumblr.com/post/140984777408/compose-in-javascript): A function used to simplify sequences of functions.
+* [curry.js](#): A function that only gets called when passed all arguments otherwise it returns a curry.
 * [flatMap.js](http://obscurejavascript.tumblr.com/post/144412398726/flatmap-in-javascript): A map function that allows multiple values or no values to be returned for each array element. Allows returns that are shorter than the original array.
 * [functionToString.js](https://github.com/Jacob-Friesen/obscurejs/blob/master/2016/functionToString.js): About the Function.toString method and how it can be used for debugging and function regeneration.
 * [identity.js](http://obscurejavascript.tumblr.com/post/143335631545/how-identity-functions-are-useful-in-javascript): How the identity function can be useful.

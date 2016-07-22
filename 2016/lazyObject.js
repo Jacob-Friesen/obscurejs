@@ -27,7 +27,7 @@ store.add('hp', '155');
 console.log(store.get('car'));// miata
 console.log(store.get('hp'));// 155
 
-// Basic Store
+// Lazy Store
 console.log('\nLazy object store:');
 
 var store = function(key, value) {
@@ -50,7 +50,7 @@ console.log(store('car'));// miata
 console.log(store('hp'));// 155
 
 
-// Basic Store
+// Extended Lazy Store
 console.log('\nExtended Lazy object store:');
 
 var store = function create(key, value) {

@@ -31,13 +31,14 @@ Each example corresponds directly to a blog post:
 * [oneLineForLoop.js](http://obscurejavascript.tumblr.com/post/142193257215/one-line-for-loop): An explanation of for loop structure by using one line for loops only.
 * [mixins.js](http://obscurejavascript.tumblr.com/post/145467239320/javascript-mixins): A simple way to implement mixins in JavaScript.
 * [nonMutatedLists.js](http://obscurejavascript.tumblr.com/post/141792956222/non-mutating-list-operations): A simple way to make list operations not mutate their lists.
+* [multiLineJoinString.js](#): Less cumbersome syntax for multi-line strings in ES5 or less environments.
 * [lazyObject.js](http://obscurejavascript.tumblr.com/post/147554515317/lazy-objects-in-javascript): Creating objects that can create more objects or can just be used with no instantiation.
 * [proxy.js](http://obscurejavascript.tumblr.com/post/138429574082/proxies-in-javascript): How to change JavaScript syntax on given objects via the Proxy API.
 * [replace3rdArg.js](http://obscurejavascript.tumblr.com/post/139312155038/the-stringreplace-callback-in-javascript): How to use the little known ability of String.replace to accept callbacks.
 * [returnWrap.js](http://obscurejavascript.tumblr.com/post/144056079633/merging-chaining-objects-in-javascript): How a return wrapper function can be used to merge objects that chain.
 * [reverseLater.js](http://obscurejavascript.tumblr.com/post/141384784768/reverselater-in-javascript): Return a function that calls the passed in callback with reversed arguments.
 * [selfRegeneration.js](http://obscurejavascript.tumblr.com/post/139742651734/object-self-regeneration-in-javascript): How an object can regenerate itself. This is useful when the object constructor is lost.
-* [seriesGeneration.js](#): Simplifying series generation via Functional Programming principles.
+* [seriesGeneration.js](http://obscurejavascript.tumblr.com/post/148601552791/simplifying-series-generation-in-javascript): Simplifying series generation via Functional Programming principles.
 * [stoppingForEachLoops.js](http://obscurejavascript.tumblr.com/post/146514355630/stopping-foreach-loops-in-javascript): How to stop forEach loops without using an exception and a better strategy.
 * [stub.js](http://obscurejavascript.tumblr.com/post/137969738765/simple-asynchronous-javascript-stubs): A simple one function method of stubbing functions including asynchronous ones.
 * [stringify.js](http://obscurejavascript.tumblr.com/post/143697853679/pretty-printing-in-javascript): How to use stringify to pretty print JavaScript objects in a customizable way.

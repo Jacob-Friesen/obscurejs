@@ -31,8 +31,9 @@ Each example corresponds directly to a blog post:
 * [oneLineForLoop.js](http://obscurejavascript.tumblr.com/post/142193257215/one-line-for-loop): An explanation of for loop structure by using one line for loops only.
 * [mixins.js](http://obscurejavascript.tumblr.com/post/145467239320/javascript-mixins): A simple way to implement mixins in JavaScript.
 * [nonMutatedLists.js](http://obscurejavascript.tumblr.com/post/141792956222/non-mutating-list-operations): A simple way to make list operations not mutate their lists.
-* [multiLineJoinString.js](#): Less cumbersome syntax for multi-line strings in ES5 or less environments.
+* [multiLineJoinString.js](http://obscurejavascript.tumblr.com/post/148943508230/multi-line-join-strings): Less cumbersome syntax for multi-line strings in ES5 or less environments.
 * [lazyObject.js](http://obscurejavascript.tumblr.com/post/147554515317/lazy-objects-in-javascript): Creating objects that can create more objects or can just be used with no instantiation.
+* [propertyMap.js](#): A function to group properties from a set of objects. Also has a tactic to avoid array.push in maps.
 * [proxy.js](http://obscurejavascript.tumblr.com/post/138429574082/proxies-in-javascript): How to change JavaScript syntax on given objects via the Proxy API.
 * [replace3rdArg.js](http://obscurejavascript.tumblr.com/post/139312155038/the-stringreplace-callback-in-javascript): How to use the little known ability of String.replace to accept callbacks.
 * [returnWrap.js](http://obscurejavascript.tumblr.com/post/144056079633/merging-chaining-objects-in-javascript): How a return wrapper function can be used to merge objects that chain.

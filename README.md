@@ -14,6 +14,7 @@ Each example corresponds directly to a blog post:
 
 <h5>2016</h5>
 <hr/>
+* [applyApiCalls.js](#): How Array.apply can be used as a general pattern to add more functionality to base API calls.
 * [assignTo.js](http://obscurejavascript.tumblr.com/post/146858921210/assignto-in-javascript): A function to drastically reduce syntax for asynchronous object property updates.
 * [at.js](http://obscurejavascript.tumblr.com/post/145114905723/easily-reading-deep-objects-in-javascript): A function to reduce the time to get values from potentially empty deep objects.
 * [attempt.js](http://obscurejavascript.tumblr.com/post/147906605359/attempt-in-javascript): A function to simplify try and catch. See the corresponding blog post for why this is useful.
@@ -29,7 +30,7 @@ Each example corresponds directly to a blog post:
 * [observable.js](http://obscurejavascript.tumblr.com/post/137500537300/observables-in-javascript): How to treat data that arrives over time in an array like fashion.
 * [objOf.js](http://obscurejavascript.tumblr.com/post/142965398258/object-of): A shorthand way to create objects with dynamic property names in pre-es6 JavaScript.
 * [oneLineForLoop.js](http://obscurejavascript.tumblr.com/post/142193257215/one-line-for-loop): An explanation of for loop structure by using one line for loops only.
-* [maxDate.js](#): Using one line of code to find the maximum date.
+* [maxDate.js](http://obscurejavascript.tumblr.com/post/149614290872/finding-max-date-in-one-line-in-javascript): Using one line of code to find the maximum date.
 * [mixins.js](http://obscurejavascript.tumblr.com/post/145467239320/javascript-mixins): A simple way to implement mixins in JavaScript.
 * [nonMutatedLists.js](http://obscurejavascript.tumblr.com/post/141792956222/non-mutating-list-operations): A simple way to make list operations not mutate their lists.
 * [multiLineJoinString.js](http://obscurejavascript.tumblr.com/post/148943508230/multi-line-join-strings): Less cumbersome syntax for multi-line strings in ES5 or less environments.

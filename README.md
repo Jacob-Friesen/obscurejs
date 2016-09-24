@@ -11,7 +11,7 @@ Each example corresponds directly to a blog post:
 
 <h5>2016</h5>
 <hr/>
-* [applyApiCalls.js](http://obscurejavascript.tumblr.com/post/149943760977/apply-to-api-calls-in-javascript): How Array.apply can be used as a general pattern to add more functionality to base API calls.
+* [applyApiCalls.js](http://obs curejavascript.tumblr.com/post/149943760977/apply-to-api-calls-in-javascript): How Array.apply can be used as a general pattern to add more functionality to base API calls.
 * [assignTo.js](http://obscurejavascript.tumblr.com/post/146858921210/assignto-in-javascript): A function to drastically reduce syntax for asynchronous object property updates.
 * [at.js](http://obscurejavascript.tumblr.com/post/145114905723/easily-reading-deep-objects-in-javascript): A function to reduce the time to get values from potentially empty deep objects.
 * [attempt.js](http://obscurejavascript.tumblr.com/post/147906605359/attempt-in-javascript): A function to simplify try and catch. See the corresponding blog post for why this is useful.
@@ -21,10 +21,11 @@ Each example corresponds directly to a blog post:
 * [curry.js](http://obscurejavascript.tumblr.com/post/147200074182/curries-in-javascript): A function that only gets called when passed all arguments otherwise it returns a curry.
 * [flatMap.js](http://obscurejavascript.tumblr.com/post/144412398726/flatmap-in-javascript): A map function that allows multiple values or no values to be returned for each array element. Allows returns that are shorter than the original array.
 * [functionToString.js](https://github.com/Jacob-Friesen/obscurejs/blob/master/2016/functionToString.js): About the Function.toString method and how it can be used for debugging and function regeneration.
+* [groupBy.js](#): An array of object grouping function and what it can be applied to.
 * [identity.js](http://obscurejavascript.tumblr.com/post/143335631545/how-identity-functions-are-useful-in-javascript): How the identity function can be useful.
 * [intersection.js](http://obscurejavascript.tumblr.com/post/146168218170/intersection-in-javascript): A function that returns the common elements of 2 array, gives an example of where this is useful.
 * [is.js](http://obscurejavascript.tumblr.com/post/148258712814/is-functions-for-debugging-in-javascript): How a function to check object type is useful.
-* [objectTypeAndEquality.js](#): When objects with identical properties and printouts are not equal.
+* [objectTypeAndEquality.js](http://obscurejavascript.tumblr.com/post/150597990278/when-javascript-objects-with-identical-properties): When objects with identical properties and printouts are not equal.
 * [observable.js](http://obscurejavascript.tumblr.com/post/137500537300/observables-in-javascript): How to treat data that arrives over time in an array like fashion.
 * [objOf.js](http://obscurejavascript.tumblr.com/post/142965398258/object-of): A shorthand way to create objects with dynamic property names in pre-es6 JavaScript.
 * [oneLineForLoop.js](http://obscurejavascript.tumblr.com/post/142193257215/one-line-for-loop): An explanation of for loop structure by using one line for loops only.

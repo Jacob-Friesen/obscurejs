@@ -21,7 +21,7 @@ Each example corresponds directly to a blog post:
 * [curry.js](http://obscurejavascript.tumblr.com/post/147200074182/curries-in-javascript): A function that only gets called when passed all arguments otherwise it returns a curry.
 * [flatMap.js](http://obscurejavascript.tumblr.com/post/144412398726/flatmap-in-javascript): A map function that allows multiple values or no values to be returned for each array element. Allows returns that are shorter than the original array.
 * [functionToString.js](https://github.com/Jacob-Friesen/obscurejs/blob/master/2016/functionToString.js): About the Function.toString method and how it can be used for debugging and function regeneration.
-* [groupBy.js](#): An array of object grouping function and what it can be applied to.
+* [groupBy.js](http://obscurejavascript.tumblr.com/post/150924290090/group-by-in-javascript): An array of object grouping function and what it can be applied to.
 * [identity.js](http://obscurejavascript.tumblr.com/post/143335631545/how-identity-functions-are-useful-in-javascript): How the identity function can be useful.
 * [intersection.js](http://obscurejavascript.tumblr.com/post/146168218170/intersection-in-javascript): A function that returns the common elements of 2 array, gives an example of where this is useful.
 * [is.js](http://obscurejavascript.tumblr.com/post/148258712814/is-functions-for-debugging-in-javascript): How a function to check object type is useful.
@@ -31,6 +31,7 @@ Each example corresponds directly to a blog post:
 * [oneLineForLoop.js](http://obscurejavascript.tumblr.com/post/142193257215/one-line-for-loop): An explanation of for loop structure by using one line for loops only.
 * [mapValues.js](http://obscurejavascript.tumblr.com/post/150273646551/map-values-in-javascript): Object traversal operations (mapValue and mapKeys) that iterate through objects like Array.map.
 * [maxDate.js](http://obscurejavascript.tumblr.com/post/149614290872/finding-max-date-in-one-line-in-javascript): Using one line of code to find the maximum date.
+* [negate.js](#): How a simple closure based negate function can simplify code.
 * [mixins.js](http://obscurejavascript.tumblr.com/post/145467239320/javascript-mixins): A simple way to implement mixins in JavaScript.
 * [nonMutatedLists.js](http://obscurejavascript.tumblr.com/post/141792956222/non-mutating-list-operations): A simple way to make list operations not mutate their lists.
 * [multiLineJoinString.js](http://obscurejavascript.tumblr.com/post/148943508230/multi-line-join-strings): Less cumbersome syntax for multi-line strings in ES5 or less environments.

@@ -31,7 +31,7 @@ Each example corresponds directly to a blog post:
 * [oneLineForLoop.js](http://obscurejavascript.tumblr.com/post/142193257215/one-line-for-loop): An explanation of for loop structure by using one line for loops only.
 * [mapValues.js](http://obscurejavascript.tumblr.com/post/150273646551/map-values-in-javascript): Object traversal operations (mapValue and mapKeys) that iterate through objects like Array.map.
 * [maxDate.js](http://obscurejavascript.tumblr.com/post/149614290872/finding-max-date-in-one-line-in-javascript): Using one line of code to find the maximum date.
-* [negate.js](#): How a simple closure based negate function can simplify code.
+* [negate.js](http://obscurejavascript.tumblr.com/post/151251547176/negate-in-javascript): How a simple closure based negate function can simplify code.
 * [mixins.js](http://obscurejavascript.tumblr.com/post/145467239320/javascript-mixins): A simple way to implement mixins in JavaScript.
 * [nonMutatedLists.js](http://obscurejavascript.tumblr.com/post/141792956222/non-mutating-list-operations): A simple way to make list operations not mutate their lists.
 * [multiLineJoinString.js](http://obscurejavascript.tumblr.com/post/148943508230/multi-line-join-strings): Less cumbersome syntax for multi-line strings in ES5 or less environments.
@@ -46,6 +46,7 @@ Each example corresponds directly to a blog post:
 * [stoppingForEachLoops.js](http://obscurejavascript.tumblr.com/post/146514355630/stopping-foreach-loops-in-javascript): How to stop forEach loops without using an exception and a better strategy.
 * [stub.js](http://obscurejavascript.tumblr.com/post/137969738765/simple-asynchronous-javascript-stubs): A simple one function method of stubbing functions including asynchronous ones.
 * [stringify.js](http://obscurejavascript.tumblr.com/post/143697853679/pretty-printing-in-javascript): How to use stringify to pretty print JavaScript objects in a customizable way.
+* [tap.js](#): How to use the tap and thru methods to customize chained behavior and make debugging much easier.
 * [quickObj.js](http://obscurejavascript.tumblr.com/post/144766469500/faster-object-mocking-with-quick-object-in): A recursive function to quickly create high depth objects for unit and other tests.
 * [void.js](http://obscurejavascript.tumblr.com/post/138877228983/void-in-javascript): Uses of the void keyword. Best understood in conjunction with the blog post in this case.
 * [zipObj.js](http://obscurejavascript.tumblr.com/post/142586570436/zipping-objects-in-javascript): A function that maps a list of keys to a list of values. This shows an example of why that is important.

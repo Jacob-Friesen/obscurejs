@@ -19,7 +19,7 @@ Each example corresponds directly to a blog post:
 * [callbackWith.js](http://obscurejavascript.tumblr.com/post/145817349940/simplifying-asynchonous-unit-tests-in-javascript): A way to simplify unit tests by making a function that provides a quick way to mock out functions that call calbacks. Also includes an argsAtSync utility.
 * [compose.js](http://obscurejavascript.tumblr.com/post/140984777408/compose-in-javascript): A function used to simplify sequences of functions.
 * [curry.js](http://obscurejavascript.tumblr.com/post/147200074182/curries-in-javascript): A function that only gets called when passed all arguments otherwise it returns a curry.
-* [extendLodash.js](#): How to extend Lodash with details for chaining and how it is used across imports.
+* [extendLodash.js](http://obscurejavascript.tumblr.com/post/151895919972/extending-lodash): How to extend Lodash with details for chaining and how it is used across imports.
 * [flatMap.js](http://obscurejavascript.tumblr.com/post/144412398726/flatmap-in-javascript): A map function that allows multiple values or no values to be returned for each array element. Allows returns that are shorter than the original array.
 * [functionToString.js](https://github.com/Jacob-Friesen/obscurejs/blob/master/2016/functionToString.js): About the Function.toString method and how it can be used for debugging and function regeneration.
 * [groupBy.js](http://obscurejavascript.tumblr.com/post/150924290090/group-by-in-javascript): An array of object grouping function and what it can be applied to.
@@ -28,6 +28,7 @@ Each example corresponds directly to a blog post:
 * [is.js](http://obscurejavascript.tumblr.com/post/148258712814/is-functions-for-debugging-in-javascript): How a function to check object type is useful.
 * [objectTypeAndEquality.js](http://obscurejavascript.tumblr.com/post/150597990278/when-javascript-objects-with-identical-properties): When objects with identical properties and printouts are not equal.
 * [observable.js](http://obscurejavascript.tumblr.com/post/137500537300/observables-in-javascript): How to treat data that arrives over time in an array like fashion.
+* [objectFreeze.js](#): How to use const and Object.freeze to create completely immutable objects.
 * [objOf.js](http://obscurejavascript.tumblr.com/post/142965398258/object-of): A shorthand way to create objects with dynamic property names in pre-es6 JavaScript.
 * [oneLineForLoop.js](http://obscurejavascript.tumblr.com/post/142193257215/one-line-for-loop): An explanation of for loop structure by using one line for loops only.
 * [mapValues.js](http://obscurejavascript.tumblr.com/post/150273646551/map-values-in-javascript): Object traversal operations (mapValue and mapKeys) that iterate through objects like Array.map.

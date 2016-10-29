@@ -28,7 +28,7 @@ Each example corresponds directly to a blog post:
 * [is.js](http://obscurejavascript.tumblr.com/post/148258712814/is-functions-for-debugging-in-javascript): How a function to check object type is useful.
 * [objectTypeAndEquality.js](http://obscurejavascript.tumblr.com/post/150597990278/when-javascript-objects-with-identical-properties): When objects with identical properties and printouts are not equal.
 * [observable.js](http://obscurejavascript.tumblr.com/post/137500537300/observables-in-javascript): How to treat data that arrives over time in an array like fashion.
-* [objectFreeze.js](#): How to use const and Object.freeze to create completely immutable objects.
+* [objectFreeze.js]((http://obscurejavascript.tumblr.com/post/152213315637/constants-and-objectfreeze-in-javascript): How to use const and Object.freeze to create completely immutable objects.
 * [objOf.js](http://obscurejavascript.tumblr.com/post/142965398258/object-of): A shorthand way to create objects with dynamic property names in pre-es6 JavaScript.
 * [oneLineForLoop.js](http://obscurejavascript.tumblr.com/post/142193257215/one-line-for-loop): An explanation of for loop structure by using one line for loops only.
 * [mapValues.js](http://obscurejavascript.tumblr.com/post/150273646551/map-values-in-javascript): Object traversal operations (mapValue and mapKeys) that iterate through objects like Array.map.

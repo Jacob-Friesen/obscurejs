@@ -15,7 +15,7 @@ Each example corresponds directly to a blog post:
 * [assignTo.js](http://obscurejavascript.tumblr.com/post/146858921210/assignto-in-javascript): A function to drastically reduce syntax for asynchronous object property updates.
 * [at.js](http://obscurejavascript.tumblr.com/post/145114905723/easily-reading-deep-objects-in-javascript): A function to reduce the time to get values from potentially empty deep objects.
 * [attempt.js](http://obscurejavascript.tumblr.com/post/147906605359/attempt-in-javascript): A function to simplify try and catch. See the corresponding blog post for why this is useful.
-* [bitwise.js](#) A simple example of when bitwise operations can lead to large performance advantages.
+* [bitwise.js](http://obscurejavascript.tumblr.com/post/152824422976/when-bitwise-operations-are-useful-in-javascript) A simple example of when bitwise operations can lead to large performance advantages.
 * [callLater.js](http://obscurejavascript.tumblr.com/post/140584717376/calllater-in-javascript): A function to store functions to be called later.
 * [callbackWith.js](http://obscurejavascript.tumblr.com/post/145817349940/simplifying-asynchonous-unit-tests-in-javascript): A way to simplify unit tests by making a function that provides a quick way to mock out functions that call calbacks. Also includes an argsAtSync utility.
 * [compose.js](http://obscurejavascript.tumblr.com/post/140984777408/compose-in-javascript): A function used to simplify sequences of functions.
@@ -41,6 +41,7 @@ Each example corresponds directly to a blog post:
 * [lazyObject.js](http://obscurejavascript.tumblr.com/post/147554515317/lazy-objects-in-javascript): Creating objects that can create more objects or can just be used with no instantiation.
 * [propertyMap.js](http://obscurejavascript.tumblr.com/post/149282855871/property-map-in-javascript): A function to group properties from a set of objects. Also has a tactic to avoid array.push in maps.
 * [proxy.js](http://obscurejavascript.tumblr.com/post/138429574082/proxies-in-javascript): How to change JavaScript syntax on given objects via the Proxy API.
+* [proxyNumberValidation.js](#): How to implement JS type checking without setters by using the Proxy API.
 * [replace3rdArg.js](http://obscurejavascript.tumblr.com/post/139312155038/the-stringreplace-callback-in-javascript): How to use the little known ability of String.replace to accept callbacks.
 * [returnWrap.js](http://obscurejavascript.tumblr.com/post/144056079633/merging-chaining-objects-in-javascript): How a return wrapper function can be used to merge objects that chain.
 * [reverseLater.js](http://obscurejavascript.tumblr.com/post/141384784768/reverselater-in-javascript): Return a function that calls the passed in callback with reversed arguments.

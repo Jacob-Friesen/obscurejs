@@ -23,6 +23,7 @@ Each example corresponds directly to a blog post:
 * [extendLodash.js](http://obscurejavascript.tumblr.com/post/151895919972/extending-lodash): How to extend Lodash with details for chaining and how it is used across imports.
 * [flatMap.js](http://obscurejavascript.tumblr.com/post/144412398726/flatmap-in-javascript): A map function that allows multiple values or no values to be returned for each array element. Allows returns that are shorter than the original array.
 * [functionToString.js](https://github.com/Jacob-Friesen/obscurejs/blob/master/2016/functionToString.js): About the Function.toString method and how it can be used for debugging and function regeneration.
+* [getters.js](#): Getters and Setters similar to other Object Oriented Languages in JavaScript.
 * [groupBy.js](http://obscurejavascript.tumblr.com/post/150924290090/group-by-in-javascript): An array of object grouping function and what it can be applied to.
 * [identity.js](http://obscurejavascript.tumblr.com/post/143335631545/how-identity-functions-are-useful-in-javascript): How the identity function can be useful.
 * [intersection.js](http://obscurejavascript.tumblr.com/post/146168218170/intersection-in-javascript): A function that returns the common elements of 2 array, gives an example of where this is useful.
@@ -41,7 +42,7 @@ Each example corresponds directly to a blog post:
 * [lazyObject.js](http://obscurejavascript.tumblr.com/post/147554515317/lazy-objects-in-javascript): Creating objects that can create more objects or can just be used with no instantiation.
 * [propertyMap.js](http://obscurejavascript.tumblr.com/post/149282855871/property-map-in-javascript): A function to group properties from a set of objects. Also has a tactic to avoid array.push in maps.
 * [proxy.js](http://obscurejavascript.tumblr.com/post/138429574082/proxies-in-javascript): How to change JavaScript syntax on given objects via the Proxy API.
-* [proxyNumberValidation.js](#): How to implement JS type checking without setters by using the Proxy API.
+* [proxyNumberValidation.js](http://obscurejavascript.tumblr.com/post/153139216051/validating-object-property-types-without-setters): How to implement JS type checking without setters by using the Proxy API.
 * [replace3rdArg.js](http://obscurejavascript.tumblr.com/post/139312155038/the-stringreplace-callback-in-javascript): How to use the little known ability of String.replace to accept callbacks.
 * [returnWrap.js](http://obscurejavascript.tumblr.com/post/144056079633/merging-chaining-objects-in-javascript): How a return wrapper function can be used to merge objects that chain.
 * [reverseLater.js](http://obscurejavascript.tumblr.com/post/141384784768/reverselater-in-javascript): Return a function that calls the passed in callback with reversed arguments.

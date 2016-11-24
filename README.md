@@ -23,7 +23,8 @@ Each example corresponds directly to a blog post:
 * [extendLodash.js](http://obscurejavascript.tumblr.com/post/151895919972/extending-lodash): How to extend Lodash with details for chaining and how it is used across imports.
 * [flatMap.js](http://obscurejavascript.tumblr.com/post/144412398726/flatmap-in-javascript): A map function that allows multiple values or no values to be returned for each array element. Allows returns that are shorter than the original array.
 * [functionToString.js](https://github.com/Jacob-Friesen/obscurejs/blob/master/2016/functionToString.js): About the Function.toString method and how it can be used for debugging and function regeneration.
-* [getters.js](#): Getters and Setters similar to other Object Oriented Languages in JavaScript.
+* [generator.js](#): How to significantly reduce the number of callbacks for asynchronous operations by using generators.
+* [getters.js](http://obscurejavascript.tumblr.com/post/153440752580/getters-and-setters-in-javascript): Getters and Setters similar to other Object Oriented Languages in JavaScript.
 * [groupBy.js](http://obscurejavascript.tumblr.com/post/150924290090/group-by-in-javascript): An array of object grouping function and what it can be applied to.
 * [identity.js](http://obscurejavascript.tumblr.com/post/143335631545/how-identity-functions-are-useful-in-javascript): How the identity function can be useful.
 * [intersection.js](http://obscurejavascript.tumblr.com/post/146168218170/intersection-in-javascript): A function that returns the common elements of 2 array, gives an example of where this is useful.

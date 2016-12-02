@@ -1,7 +1,7 @@
 // Browser only
 'use strict';
 
-// View the JSFiddle version here: https://jsfiddle.net/jacobfriesen/0n0qov2r/1/
+// View the JSFiddle version here: https://jsfiddle.net/jacobfriesen/0n0qov2r/4/
 // 
 // HTML:
 // <div class='main-box'>

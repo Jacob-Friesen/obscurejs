@@ -24,7 +24,7 @@ Each example corresponds directly to a blog post:
 * [flatMap.js](http://obscurejavascript.tumblr.com/post/144412398726/flatmap-in-javascript): A map function that allows multiple values or no values to be returned for each array element. Allows returns that are shorter than the original array.
 * [functionToString.js](https://github.com/Jacob-Friesen/obscurejs/blob/master/2016/functionToString.js): About the Function.toString method and how it can be used for debugging and function regeneration.
 * [generator.js](http://obscurejavascript.tumblr.com/post/153742848043/generators-and-async-operations-in-javascript): How to significantly reduce the number of callbacks for asynchronous operations by using generators.
-* [getPagePosition.js](#): How to get an HTML elements position in the page no matter where it is. **Browser Only**
+* [getPagePosition.js](http://obscurejavascript.tumblr.com/post/154043676094/getting-an-elements-absolute-page-position-in): How to get an HTML elements position in the page no matter where it is. **Browser Only**
 * [getters.js](http://obscurejavascript.tumblr.com/post/153440752580/getters-and-setters-in-javascript): Getters and Setters similar to other Object Oriented Languages in JavaScript.
 * [groupBy.js](http://obscurejavascript.tumblr.com/post/150924290090/group-by-in-javascript): An array of object grouping function and what it can be applied to.
 * [identity.js](http://obscurejavascript.tumblr.com/post/143335631545/how-identity-functions-are-useful-in-javascript): How the identity function can be useful.
@@ -45,6 +45,7 @@ Each example corresponds directly to a blog post:
 * [propertyMap.js](http://obscurejavascript.tumblr.com/post/149282855871/property-map-in-javascript): A function to group properties from a set of objects. Also has a tactic to avoid array.push in maps.
 * [proxy.js](http://obscurejavascript.tumblr.com/post/138429574082/proxies-in-javascript): How to change JavaScript syntax on given objects via the Proxy API.
 * [proxyNumberValidation.js](http://obscurejavascript.tumblr.com/post/153139216051/validating-object-property-types-without-setters): How to implement JS type checking without setters by using the Proxy API.
+* [publishSubscribeAutomation.js](): How to use an abstracted publisher to implement more advanced publish-subscribe patterns.
 * [replace3rdArg.js](http://obscurejavascript.tumblr.com/post/139312155038/the-stringreplace-callback-in-javascript): How to use the little known ability of String.replace to accept callbacks.
 * [returnWrap.js](http://obscurejavascript.tumblr.com/post/144056079633/merging-chaining-objects-in-javascript): How a return wrapper function can be used to merge objects that chain.
 * [reverseLater.js](http://obscurejavascript.tumblr.com/post/141384784768/reverselater-in-javascript): Return a function that calls the passed in callback with reversed arguments.

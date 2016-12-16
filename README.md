@@ -35,6 +35,7 @@ Each example corresponds directly to a blog post:
 * [objectFreeze.js]((http://obscurejavascript.tumblr.com/post/152213315637/constants-and-objectfreeze-in-javascript): How to use const and Object.freeze to create completely immutable objects.
 * [objOf.js](http://obscurejavascript.tumblr.com/post/142965398258/object-of): A shorthand way to create objects with dynamic property names in pre-es6 JavaScript.
 * [oneLineForLoop.js](http://obscurejavascript.tumblr.com/post/142193257215/one-line-for-loop): An explanation of for loop structure by using one line for loops only.
+* [mapJoin.js](#): Using the abstraction of splitting then mapping then joining to simplify string set manipulation.
 * [mapValues.js](http://obscurejavascript.tumblr.com/post/150273646551/map-values-in-javascript): Object traversal operations (mapValue and mapKeys) that iterate through objects like Array.map.
 * [maxDate.js](http://obscurejavascript.tumblr.com/post/149614290872/finding-max-date-in-one-line-in-javascript): Using one line of code to find the maximum date.
 * [negate.js](http://obscurejavascript.tumblr.com/post/151251547176/negate-in-javascript): How a simple closure based negate function can simplify code.
@@ -45,7 +46,7 @@ Each example corresponds directly to a blog post:
 * [propertyMap.js](http://obscurejavascript.tumblr.com/post/149282855871/property-map-in-javascript): A function to group properties from a set of objects. Also has a tactic to avoid array.push in maps.
 * [proxy.js](http://obscurejavascript.tumblr.com/post/138429574082/proxies-in-javascript): How to change JavaScript syntax on given objects via the Proxy API.
 * [proxyNumberValidation.js](http://obscurejavascript.tumblr.com/post/153139216051/validating-object-property-types-without-setters): How to implement JS type checking without setters by using the Proxy API.
-* [publishSubscribeAutomation.js](): How to use an abstracted publisher to implement more advanced publish-subscribe patterns.
+* [publishSubscribeAutomation.js](http://obscurejavascript.tumblr.com/post/154343249184/automating-the-publishsubscribe-pattern-in): How to use an abstracted publisher to implement more advanced publish-subscribe patterns.
 * [replace3rdArg.js](http://obscurejavascript.tumblr.com/post/139312155038/the-stringreplace-callback-in-javascript): How to use the little known ability of String.replace to accept callbacks.
 * [returnWrap.js](http://obscurejavascript.tumblr.com/post/144056079633/merging-chaining-objects-in-javascript): How a return wrapper function can be used to merge objects that chain.
 * [reverseLater.js](http://obscurejavascript.tumblr.com/post/141384784768/reverselater-in-javascript): Return a function that calls the passed in callback with reversed arguments.

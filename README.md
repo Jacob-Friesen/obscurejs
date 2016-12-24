@@ -35,7 +35,7 @@ Each example corresponds directly to a blog post:
 * [objectFreeze.js]((http://obscurejavascript.tumblr.com/post/152213315637/constants-and-objectfreeze-in-javascript): How to use const and Object.freeze to create completely immutable objects.
 * [objOf.js](http://obscurejavascript.tumblr.com/post/142965398258/object-of): A shorthand way to create objects with dynamic property names in pre-es6 JavaScript.
 * [oneLineForLoop.js](http://obscurejavascript.tumblr.com/post/142193257215/one-line-for-loop): An explanation of for loop structure by using one line for loops only.
-* [mapJoin.js](#): Using the abstraction of splitting then mapping then joining to simplify string set manipulation.
+* [mapJoin.js](http://obscurejavascript.tumblr.com/post/154644602093/the-map-join-pattern-javascript): Using the abstraction of splitting then mapping then joining to simplify string set manipulation.
 * [mapValues.js](http://obscurejavascript.tumblr.com/post/150273646551/map-values-in-javascript): Object traversal operations (mapValue and mapKeys) that iterate through objects like Array.map.
 * [maxDate.js](http://obscurejavascript.tumblr.com/post/149614290872/finding-max-date-in-one-line-in-javascript): Using one line of code to find the maximum date.
 * [negate.js](http://obscurejavascript.tumblr.com/post/151251547176/negate-in-javascript): How a simple closure based negate function can simplify code.
@@ -57,6 +57,7 @@ Each example corresponds directly to a blog post:
 * [stub.js](http://obscurejavascript.tumblr.com/post/137969738765/simple-asynchronous-javascript-stubs): A simple one function method of stubbing functions including asynchronous ones.
 * [stringify.js](http://obscurejavascript.tumblr.com/post/143697853679/pretty-printing-in-javascript): How to use stringify to pretty print JavaScript objects in a customizable way.
 * [tap.js](http://obscurejavascript.tumblr.com/post/151574254573/tap-and-thru-in-javascript): How to use the tap and thru methods to customize chained behavior and make debugging much easier.
+* [timing.js](#): The various ways of timing function calls in JavaScript. Starting with the oldest methods.
 * [quickObj.js](http://obscurejavascript.tumblr.com/post/144766469500/faster-object-mocking-with-quick-object-in): A recursive function to quickly create high depth objects for unit and other tests.
 * [void.js](http://obscurejavascript.tumblr.com/post/138877228983/void-in-javascript): Uses of the void keyword. Best understood in conjunction with the blog post in this case.
 * [zipObj.js](http://obscurejavascript.tumblr.com/post/142586570436/zipping-objects-in-javascript): A function that maps a list of keys to a list of values. This shows an example of why that is important.

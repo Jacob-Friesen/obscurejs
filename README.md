@@ -9,9 +9,13 @@ Example Explanations
 ====================
 Each example corresponds directly to a blog post:
 
+<h5>2017</h5>
+<hr/>
+* [webWorker.js](#): A simple example of how Web Workers make interfaces responsive when doing complex operations. **Browser Only**
+
 <h5>2016</h5>
 <hr/>
-* [applyApiCalls.js](http://obs curejavascript.tumblr.com/post/149943760977/apply-to-api-calls-in-javascript): How Array.apply can be used as a general pattern to add more functionality to base API calls.
+* [applyApiCalls.js](http://obscurejavascript.tumblr.com/post/149943760977/apply-to-api-calls-in-javascript): How Array.apply can be used as a general pattern to add more functionality to base API calls.
 * [assignTo.js](http://obscurejavascript.tumblr.com/post/146858921210/assignto-in-javascript): A function to drastically reduce syntax for asynchronous object property updates.
 * [at.js](http://obscurejavascript.tumblr.com/post/145114905723/easily-reading-deep-objects-in-javascript): A function to reduce the time to get values from potentially empty deep objects.
 * [attempt.js](http://obscurejavascript.tumblr.com/post/147906605359/attempt-in-javascript): A function to simplify try and catch. See the corresponding blog post for why this is useful.
@@ -57,7 +61,7 @@ Each example corresponds directly to a blog post:
 * [stub.js](http://obscurejavascript.tumblr.com/post/137969738765/simple-asynchronous-javascript-stubs): A simple one function method of stubbing functions including asynchronous ones.
 * [stringify.js](http://obscurejavascript.tumblr.com/post/143697853679/pretty-printing-in-javascript): How to use stringify to pretty print JavaScript objects in a customizable way.
 * [tap.js](http://obscurejavascript.tumblr.com/post/151574254573/tap-and-thru-in-javascript): How to use the tap and thru methods to customize chained behavior and make debugging much easier.
-* [timing.js](#): The various ways of timing function calls in JavaScript. Starting with the oldest methods.
+* [timing.js](http://obscurejavascript.tumblr.com/post/155910342704/timing-functions-in-javascript): The various ways of timing function calls in JavaScript. Starting with the oldest methods.
 * [quickObj.js](http://obscurejavascript.tumblr.com/post/144766469500/faster-object-mocking-with-quick-object-in): A recursive function to quickly create high depth objects for unit and other tests.
 * [void.js](http://obscurejavascript.tumblr.com/post/138877228983/void-in-javascript): Uses of the void keyword. Best understood in conjunction with the blog post in this case.
 * [zipObj.js](http://obscurejavascript.tumblr.com/post/142586570436/zipping-objects-in-javascript): A function that maps a list of keys to a list of values. This shows an example of why that is important.

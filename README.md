@@ -11,8 +11,9 @@ Each example corresponds directly to a blog post:
 
 <h5>2017</h5>
 <hr/>
+* [infinity.js](#): Infinity and JS calculation error handling.
 * [webWorker.js](http://obscurejavascript.tumblr.com/post/156229458463/web-workers-in-javascript): A simple example of how Web Workers make interfaces responsive when doing complex operations. **Browser Only**
-* [throw.js](#): Examples of throws, Error based objects and how they relate to stack traces.
+* [throw.js](http://obscurejavascript.tumblr.com/post/156546898095/throw-and-custom-errors-in-javascript): Examples of throws, Error based objects and how they relate to stack traces.
 
 <h5>2016</h5>
 <hr/>

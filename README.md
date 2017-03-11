@@ -14,9 +14,10 @@ Each example corresponds directly to a blog post:
 * [constructor.js](http://obscurejavascript.tumblr.com/post/157159010351/constructors-in-javascript): How the constructor property in ever JS object is useful.
 * [infinity.js](http://obscurejavascript.tumblr.com/post/156857118520/infinity-in-javascript): Infinity and JS calculation error handling.
 * [letAndConstUsage.js](http://obscurejavascript.tumblr.com/post/157452525608/when-to-use-let-and-const-in-javascript): When to use `let` and `const` in JS.
+* [newImplementation.js](#): Demonstrating how `new` works with a polyfill-like implementation.
 * [protoVsPrototype.js](http://obscurejavascript.tumblr.com/post/157746968556/proto-vs-prototype-in-javascript): The difference between `__proto__` and `prototype` and their usage.
 * [throw.js](http://obscurejavascript.tumblr.com/post/156546898095/throw-and-custom-errors-in-javascript): Examples of throws, Error based objects and how they relate to stack traces.
-* [valueOf.js](#): How to specify an Objects value when used in numeric operations and how it can be useful.
+* [valueOf.js](http://obscurejavascript.tumblr.com/post/158036766746/valueof-in-javascript): How to specify an Objects value when used in numeric operations and how it can be useful.
 * [webWorker.js](http://obscurejavascript.tumblr.com/post/156229458463/web-workers-in-javascript): A simple example of how Web Workers make interfaces responsive when doing complex operations. **Browser Only**
 
 <h5>2016</h5>

@@ -12,10 +12,11 @@ Each example corresponds directly to a blog post:
 <h5>2017</h5>
 <hr/>
 * [constructor.js](http://obscurejavascript.tumblr.com/post/157159010351/constructors-in-javascript): How the constructor property in ever JS object is useful.
+* [fluentInterface.js](#): An explanation of fluent interfaces and how repeater methods can be added to them.
 * [infinity.js](http://obscurejavascript.tumblr.com/post/156857118520/infinity-in-javascript): Infinity and JS calculation error handling.
 * [letAndConstUsage.js](http://obscurejavascript.tumblr.com/post/157452525608/when-to-use-let-and-const-in-javascript): When to use `let` and `const` in JS.
 * [newImplementation.js](http://obscurejavascript.tumblr.com/post/158320067365/new-explained-in-javascript): Demonstrating how `new` works with a polyfill-like implementation.
-* [notification.js](#): Demonstrating the Notification API.
+* [notification.js](http://obscurejavascript.tumblr.com/post/158597389283/the-notification-api-in-javascript): Demonstrating the Notification API. **Browser Only**
 * [protoVsPrototype.js](http://obscurejavascript.tumblr.com/post/157746968556/proto-vs-prototype-in-javascript): The difference between `__proto__` and `prototype` and their usage.
 * [throw.js](http://obscurejavascript.tumblr.com/post/156546898095/throw-and-custom-errors-in-javascript): Examples of throws, Error based objects and how they relate to stack traces.
 * [valueOf.js](http://obscurejavascript.tumblr.com/post/158036766746/valueof-in-javascript): How to specify an Objects value when used in numeric operations and how it can be useful.

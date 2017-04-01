@@ -12,7 +12,8 @@ Each example corresponds directly to a blog post:
 <h5>2017</h5>
 <hr/>
 * [constructor.js](http://obscurejavascript.tumblr.com/post/157159010351/constructors-in-javascript): How the constructor property in ever JS object is useful.
-* [fluentInterface.js](#): An explanation of fluent interfaces and how repeater methods can be added to them.
+* [fluentInterface.js](http://obscurejavascript.tumblr.com/post/158860952073/fluent-interfaces-in-javascript): An explanation of fluent interfaces and how repeater methods can be added to them.
+* [getterSetterAutomation.js](#): How to automate getters and setters for functions.
 * [infinity.js](http://obscurejavascript.tumblr.com/post/156857118520/infinity-in-javascript): Infinity and JS calculation error handling.
 * [letAndConstUsage.js](http://obscurejavascript.tumblr.com/post/157452525608/when-to-use-let-and-const-in-javascript): When to use `let` and `const` in JS.
 * [newImplementation.js](http://obscurejavascript.tumblr.com/post/158320067365/new-explained-in-javascript): Demonstrating how `new` works with a polyfill-like implementation.

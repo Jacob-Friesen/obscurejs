@@ -3,37 +3,41 @@
 'use strict';
 
 const Promise = function(callback) {
-  let catchResult = null;
+  return function() {
+    let catchResult = null,
+      resolveResult = null,
+      rejectResult = null;
 
-  const self = {
-    callback: callback,
-    then: function(resolveCallback, rejectCallback) {
-      const resolve = function(result) {
-        resolveCallback(result);
-      }
+    const self = {
+      catchResult: null,
+      then: function(resolveCallback, rejectCallback) {
+        const resolve = function(result) {
+          resolveCallback(result);
+        };
 
-      const reject = function(result) {
-        if (typeof rejectCallback === 'function') {
-          rejectCallback(result);
+        const reject = function(result) {
+          if (typeof rejectCallback === 'function') {
+            rejectCallback(result);
+          }
+        };
+
+        try {
+          callback(resolve, reject);
+        } catch (e) {
+          self.catchResult = e;
+        }
+
+        return self;
+      },
+      catch: function(callback) {
+        if (self.catchResult !== null) {
+          callback(self.catchResult);
         }
       }
+    };
 
-      try {
-        callback(resolve, reject);
-      } catch (e) {
-        catchResult = e;
-      }
-
-      return self;
-    },
-    catch: function(callback) {
-      if (catchResult !== null) {
-        callback(catchResult);
-      }
-    }
-  }
-
-  return self;
+    return self;
+  };
 };
 
 const promise1 = new Promise(function(resolve, reject) {
@@ -47,19 +51,19 @@ const promise3 = new Promise(function(resolve, reject) {
 });
 
 console.log('Basic Promise:');
-promise1.then(function(result) {
+promise1().then(function(result) {
   console.log(result);
 });
 // Promise 1 result
 
-promise2.then(function(result) {
+promise2().then(function(result) {
   console.log('Should not appear');
 }).catch(function(err) {
   console.log('Error message:', err.message);
 });
 // Error message An error
 
-promise3.then(function(result) {
+promise3().then(function(result) {
   console.log('Should not appear');
 }, function(result) {
   console.log(result);
@@ -101,15 +105,15 @@ const promiseAll = function(promises) {
       }
 
       promises.forEach(function(promise, callbackIndex) {
-        try {
-          // Pass in the callback position to resolve so that the results can
-          // return in the right order.
-          promise.callback(function() {
-            const args = []
-            resolve.apply(this, [callbackIndex].concat(Array.from(arguments)));
-          }, reject);
-        } catch (e) {
-          catchResult = e;
+        // Pass in the callback position to resolve so that the results can
+        // return in the right order.
+        promise.then(function() {
+          const args = []
+          resolve.apply(this, [callbackIndex].concat(Array.from(arguments)));
+        }, reject);
+
+        if (promise.catchResult) {
+          catchResult = promise.catchResult;
           toFind = Infinity;
         }
       });
@@ -127,8 +131,8 @@ const promiseAll = function(promises) {
 };
 
 console.log('\nPromise.all:')
-promiseAll([promise4, promise5, promise4]).then(function(results) {
-  console.info('Recieved: ', results);
+promiseAll([promise4(), promise5(), promise4()]).then(function(results) {
+  console.log('Recieved: ', results);
   extraCatchCheck(extraRejectCheck);
 });
 // Recieved:  [ 'Promise 4 result', 'Promise 5 result', 'Promise 4 result' ]
@@ -140,12 +144,13 @@ function extraCatchCheck(callback) {
     throw(new Error('Promise 6 error'));
   });
 
-  promiseAll([promise4, promise6, promise4]).then(function(results) {
-    console.info('Should not appear');
+  promiseAll([promise4(), promise6(), promise4()]).then(function(results) {
+    console.log('Should not appear');
   }).catch(function(err) {
     console.log('ERROR', err);
     callback();
   });
+  // (Exact error message display will vary per environment)
   //ERROR Error: Promise 6 error
   // at Object.callback (/Users/jacobfriesen/Documents/obscurejs/2017/promiseAll.js:138:11)
   // at /Users/jacobfriesen/Documents/obscurejs/2017/promiseAll.js:106:19
@@ -166,12 +171,12 @@ function extraRejectCheck() {
     reject('Promise 7 reject');
   });
 
-  promiseAll([promise4, promise7, promise4]).then(function(results) {
-    console.info('Should not appear');
+  promiseAll([promise4(), promise7(), promise4()]).then(function(results) {
+    console.log('Should not appear');
   }, function(promise7) {
-    console.info('REJECT:', promise7)
+    console.log('REJECT:', promise7)
   }).catch(function(err) {
     console.log('ERROR', err);
   });
+  // Promise 7 reject
 };
-

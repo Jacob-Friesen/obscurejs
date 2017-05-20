@@ -11,6 +11,7 @@ Each example corresponds directly to a blog post:
 
 <h5>2017</h5>
 <hr/>
+
 * [arrayFrom.js](http://obscurejavascript.tumblr.com/post/160414597180/arrayfrom-in-javascript): Array.from and how it simplifies multiple types of array conversions.
 * [constructor.js](http://obscurejavascript.tumblr.com/post/157159010351/constructors-in-javascript): How the constructor property in ever JS object is useful.
 * [destructuringAssignment.js](#): Assigning to multiple variables by mapping directly to an object.
@@ -32,6 +33,7 @@ Each example corresponds directly to a blog post:
 
 <h5>2016</h5>
 <hr/>
+
 * [applyApiCalls.js](http://obscurejavascript.tumblr.com/post/149943760977/apply-to-api-calls-in-javascript): How Array.apply can be used as a general pattern to add more functionality to base API calls.
 * [assignTo.js](http://obscurejavascript.tumblr.com/post/146858921210/assignto-in-javascript): A function to drastically reduce syntax for asynchronous object property updates.
 * [at.js](http://obscurejavascript.tumblr.com/post/145114905723/easily-reading-deep-objects-in-javascript): A function to reduce the time to get values from potentially empty deep objects.
@@ -85,6 +87,7 @@ Each example corresponds directly to a blog post:
 
 <h5>2015</h5>
 <hr/>
+
 * [argumentParameterBinding.js](http://obscurejavascript.tumblr.com/post/122101479376/javascript-arguments-and-function-parameter): A demonstration of a little known arguments object quirk.
 * [arrowFunctions.js](http://obscurejavascript.tumblr.com/post/131956254400/arrow-functions-in-es6-javascript): How to implement arrow functions in pre ES6 JavaScript.
 * [beforeAndAfter.js](http://obscurejavascript.tumblr.com/post/118047746815/before-and-after-in-javascript): A before function with an extension into an after one.
@@ -139,6 +142,7 @@ Each example corresponds directly to a blog post:
 
 <h5>2014</h5>
 <hr/>
+
 * [assign.js](http://obscurejavascript.tumblr.com/post/105199465669/assign-in-javascript): How to use and implement a function that merges objects.
 * [autoExecutingRecursionFunctions.js](http://obscurejavascript.tumblr.com/post/73013181197/auto-executing-recursive-functions): How to create functions that can be called without parenthesis. Or other helpers.
 * [bracketFreeCall.js](http://obscurejavascript.tumblr.com/post/87491571318/paren-free-function-calls): How to create functions that can be called without parenthesis. Or other helpers.
@@ -182,6 +186,7 @@ Each example corresponds directly to a blog post:
 
 <h5>2013</h5>
 <hr/>
+
 * [arrayInstantiations.js](http://obscurejavascript.tumblr.com/post/64389973002/hardcore-array-instantiations): A compact way to declare pre-initialized arrays in JS.
 * [batman.js](http://obscurejavascript.tumblr.com/post/51075341151/batman-arrays-and-javascript-collide): The weird behavior of Array.join demonstrated.
 * [chaining.js](http://obscurejavascript.tumblr.com/post/50657613243/chaining-javascript-self-invoking-function-calls): Chaining self invoking function calls to shorten code.

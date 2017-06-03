@@ -18,10 +18,11 @@ Each example corresponds directly to a blog post:
 * [fluentInterface.js](http://obscurejavascript.tumblr.com/post/158860952073/fluent-interfaces-in-javascript): An explanation of fluent interfaces and how repeater methods can be added to them.
 * [forOf.js](http://obscurejavascript.tumblr.com/post/159384822891/forof-in-javascript): What `for...of` loops are.
 * [getterSetterAutomation.js](http://obscurejavascript.tumblr.com/post/159121952199/gettersetter-automation-in-javascript): How to automate getters and setters for functions.
+* [hasDecimals.js](#): A quick way to check for decimals for all types.
 * [infinity.js](http://obscurejavascript.tumblr.com/post/156857118520/infinity-in-javascript): Infinity and JS calculation error handling.
 * [letAndConstUsage.js](http://obscurejavascript.tumblr.com/post/157452525608/when-to-use-let-and-const-in-javascript): When to use `let` and `const` in JS.
 * [mapObject.js](http://obscurejavascript.tumblr.com/post/159909708344/javascripts-map-object): An example of the `Map` object and how it can be useful compared to plain objects
-* [nodeExec.js](#) Executing external system commands in Node.js. **Node.js Only**
+* [nodeExec.js](http://obscurejavascript.tumblr.com/post/161173230217/nodejs-exec) Executing external system commands in Node.js. **Node.js Only**
 * [newImplementation.js](http://obscurejavascript.tumblr.com/post/158320067365/new-explained-in-javascript): Demonstrating how `new` works with a polyfill-like implementation.
 * [notification.js](http://obscurejavascript.tumblr.com/post/158597389283/the-notification-api-in-javascript): Demonstrating the Notification API. **Browser Only**
 * [protoVsPrototype.js](http://obscurejavascript.tumblr.com/post/157746968556/proto-vs-prototype-in-javascript): The difference between `__proto__` and `prototype` and their usage.

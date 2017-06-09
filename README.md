@@ -29,6 +29,7 @@ Each example corresponds directly to a blog post:
 * [promiseAll.js](http://obscurejavascript.tumblr.com/post/160669781625/easily-handle-multiple-concurrent-requests-via): Easily managing multiple concurrent async requests using `Promise.all`.
 * [setObject.js](http://obscurejavascript.tumblr.com/post/160162150223/set-in-javascript): How the set object can be useful.
 * [splitLimit.js](http://obscurejavascript.tumblr.com/post/159648127511/javascript-split-and-the-limit-property): Split and the usefulness of the limit property.
+* [templateLiteral.js](http://obscurejavascript.tumblr.com/post/161436529424/checking-for-decimals-in-javascript): An easier way of doing multiple line strings are replaces.
 * [throw.js](http://obscurejavascript.tumblr.com/post/156546898095/throw-and-custom-errors-in-javascript): Examples of throws, Error based objects and how they relate to stack traces.
 * [valueOf.js](http://obscurejavascript.tumblr.com/post/158036766746/valueof-in-javascript): How to specify an Objects value when used in numeric operations and how it can be useful.
 * [webWorker.js](http://obscurejavascript.tumblr.com/post/156229458463/web-workers-in-javascript): A simple example of how Web Workers make interfaces responsive when doing complex operations. **Browser Only**

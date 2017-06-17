@@ -15,10 +15,11 @@ Each example corresponds directly to a blog post:
 * [arrayFrom.js](http://obscurejavascript.tumblr.com/post/160414597180/arrayfrom-in-javascript): Array.from and how it simplifies multiple types of array conversions.
 * [constructor.js](http://obscurejavascript.tumblr.com/post/157159010351/constructors-in-javascript): How the constructor property in ever JS object is useful.
 * [destructuringAssignment.js](http://obscurejavascript.tumblr.com/post/160918757847/destructuring-assignments-in-javascript): Assigning to multiple variables by mapping directly to an object.
+* [findAsyncInOrder.js](#): A quick pattern to find a set of async items that can be easily switched to other forms.
 * [fluentInterface.js](http://obscurejavascript.tumblr.com/post/158860952073/fluent-interfaces-in-javascript): An explanation of fluent interfaces and how repeater methods can be added to them.
 * [forOf.js](http://obscurejavascript.tumblr.com/post/159384822891/forof-in-javascript): What `for...of` loops are.
 * [getterSetterAutomation.js](http://obscurejavascript.tumblr.com/post/159121952199/gettersetter-automation-in-javascript): How to automate getters and setters for functions.
-* [hasDecimals.js](#): A quick way to check for decimals for all types.
+* [hasDecimals.js](http://obscurejavascript.tumblr.com/post/161436529424/checking-for-decimals-in-javascript): A quick way to check for decimals for all types.
 * [infinity.js](http://obscurejavascript.tumblr.com/post/156857118520/infinity-in-javascript): Infinity and JS calculation error handling.
 * [letAndConstUsage.js](http://obscurejavascript.tumblr.com/post/157452525608/when-to-use-let-and-const-in-javascript): When to use `let` and `const` in JS.
 * [mapObject.js](http://obscurejavascript.tumblr.com/post/159909708344/javascripts-map-object): An example of the `Map` object and how it can be useful compared to plain objects
@@ -29,7 +30,7 @@ Each example corresponds directly to a blog post:
 * [promiseAll.js](http://obscurejavascript.tumblr.com/post/160669781625/easily-handle-multiple-concurrent-requests-via): Easily managing multiple concurrent async requests using `Promise.all`.
 * [setObject.js](http://obscurejavascript.tumblr.com/post/160162150223/set-in-javascript): How the set object can be useful.
 * [splitLimit.js](http://obscurejavascript.tumblr.com/post/159648127511/javascript-split-and-the-limit-property): Split and the usefulness of the limit property.
-* [templateLiteral.js](http://obscurejavascript.tumblr.com/post/161436529424/checking-for-decimals-in-javascript): An easier way of doing multiple line strings are replaces.
+* [templateLiteral.js](http://obscurejavascript.tumblr.com/post/161705493376/template-literals-in-javascript): An easier way of doing multiple line strings are replaces.
 * [throw.js](http://obscurejavascript.tumblr.com/post/156546898095/throw-and-custom-errors-in-javascript): Examples of throws, Error based objects and how they relate to stack traces.
 * [valueOf.js](http://obscurejavascript.tumblr.com/post/158036766746/valueof-in-javascript): How to specify an Objects value when used in numeric operations and how it can be useful.
 * [webWorker.js](http://obscurejavascript.tumblr.com/post/156229458463/web-workers-in-javascript): A simple example of how Web Workers make interfaces responsive when doing complex operations. **Browser Only**

@@ -130,7 +130,6 @@ function handleClickLeft(e) {
 };
 leftBox.addEventListener('click', handleClickLeft);
 
-// Note that seperate functions must be defined for the deregister for both click handlers to work
 function handleClickRight(e) {
   if (e.offsetX > (leftBox.offsetWidth - 2)/2) {
       console.log('Right box clicked:', e);

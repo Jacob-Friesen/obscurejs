@@ -28,9 +28,10 @@ Each example corresponds directly to a blog post:
 * [newImplementation.js](http://obscurejavascript.tumblr.com/post/158320067365/new-explained-in-javascript): Demonstrating how `new` works with a polyfill-like implementation.
 * [notification.js](http://obscurejavascript.tumblr.com/post/158597389283/the-notification-api-in-javascript): Demonstrating the Notification API. **Browser Only**
 * [observable1.js](http://obscurejavascript.tumblr.com/post/162520142194/observables-in-javascript-api-simplification): A demonstration of Observable API simplification with a click event. Event is simulated in Node.js.
-* [observable2.js](#): A demonstration of Observable API abstraction centered around click events. Extented from observable1.js. **Browser Only**
+* [observable2.js](http://obscurejavascript.tumblr.com/post/162793479479/observables-in-javascript-abstraction): A demonstration of Observable API abstraction centered around click events. Extented from observable1.js. **Browser Only**
 * [protoVsPrototype.js](http://obscurejavascript.tumblr.com/post/157746968556/proto-vs-prototype-in-javascript): The difference between `__proto__` and `prototype` and their usage.
 * [promiseAll.js](http://obscurejavascript.tumblr.com/post/160669781625/easily-handle-multiple-concurrent-requests-via): Easily managing multiple concurrent async requests using `Promise.all`.
+* [regex.js](#): A demonstration of simple regex expressions and combining them.
 * [setObject.js](http://obscurejavascript.tumblr.com/post/160162150223/set-in-javascript): How the set object can be useful.
 * [splitLimit.js](http://obscurejavascript.tumblr.com/post/159648127511/javascript-split-and-the-limit-property): Split and the usefulness of the limit property.
 * [templateLiteral.js](http://obscurejavascript.tumblr.com/post/161705493376/template-literals-in-javascript): An easier way of doing multiple line strings are replaces.

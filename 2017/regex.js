@@ -32,12 +32,22 @@ console.log(checkPassword('Test1Test1'));
 console.log('\nCombined approach:');
 
 function checkPassword2(text) {
-  if (!/[\da-zA-Z]{8,}/.test(text)) {
+  // if (!/[\da-zA-Z]{8,}/.test(text)) {
+  //   return 'failed';
+  // }
+  // return 'success';
+
+  // if (/(?=\d)(?=[a-z])(?=[A-Z]){8,}/.test(text)) {
+  //   return 'failed';
+  // }
+  if (!/(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}/.test(text)) {
     return 'failed';
   }
   return 'success';
-} 
+}
 
+console.log(checkPassword2('11111111'));
+// failed
 console.log(checkPassword2('test'));
 // failed
 console.log(checkPassword2('test1'));
@@ -46,5 +56,10 @@ console.log(checkPassword2('TEST1'));
 // failed
 console.log(checkPassword2('Test1'));
 // failed
+console.log(checkPassword2('testtest'));
+// failed
 console.log(checkPassword2('Test1Test1'));
 // success
+
+// console.log('wrong checkPassword:', checkPassword('aaaaaaaa'));
+// console.log('wrong checkPassword2:', checkPassword2('aaaaaaaa'));

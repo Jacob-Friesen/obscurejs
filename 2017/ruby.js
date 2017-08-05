@@ -1,6 +1,6 @@
 #!/bin/sh
 ':' //; exec "$(command -v nodejs || command -v node)" "$0" "$@"
-// 'use strict'; The fib example works best without this
+// 'use strict'; The fib example works best without the usual strict mode
 
 console.info('Default JS fibonacci function:');
 

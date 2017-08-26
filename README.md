@@ -31,6 +31,7 @@ Each example corresponds directly to a blog post:
 * [notification.js](http://obscurejavascript.tumblr.com/post/158597389283/the-notification-api-in-javascript): Demonstrating the Notification API. **Browser Only**
 * [observable1.js](http://obscurejavascript.tumblr.com/post/162520142194/observables-in-javascript-api-simplification): A demonstration of Observable API simplification with a click event. Event is simulated in Node.js.
 * [observable2.js](http://obscurejavascript.tumblr.com/post/162793479479/observables-in-javascript-abstraction): A demonstration of Observable API abstraction centered around click events. Extented from observable1.js. **Browser Only**
+* [preciseAnimations.js](#): How to make JS animations precise via self adjusting timers. **Browser Only**
 * [protoVsPrototype.js](http://obscurejavascript.tumblr.com/post/157746968556/proto-vs-prototype-in-javascript): The difference between `__proto__` and `prototype` and their usage.
 * [promiseAll.js](http://obscurejavascript.tumblr.com/post/160669781625/easily-handle-multiple-concurrent-requests-via): Easily managing multiple concurrent async requests using `Promise.all`.
 * [reflect.js](#): How the ES6 `Reflect` API can be used as a single interface for many general JS operations.

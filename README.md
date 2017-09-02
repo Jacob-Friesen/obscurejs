@@ -31,14 +31,15 @@ Each example corresponds directly to a blog post:
 * [notification.js](http://obscurejavascript.tumblr.com/post/158597389283/the-notification-api-in-javascript): Demonstrating the Notification API. **Browser Only**
 * [observable1.js](http://obscurejavascript.tumblr.com/post/162520142194/observables-in-javascript-api-simplification): A demonstration of Observable API simplification with a click event. Event is simulated in Node.js.
 * [observable2.js](http://obscurejavascript.tumblr.com/post/162793479479/observables-in-javascript-abstraction): A demonstration of Observable API abstraction centered around click events. Extented from observable1.js. **Browser Only**
-* [preciseAnimations.js](#): How to make JS animations precise via self adjusting timers. **Browser Only**
+* [preciseAnimations.js](http://obscurejavascript.tumblr.com/post/164682092069/precise-animations-with-javascript): How to make JS animations precise via self adjusting timers. **Browser Only**
 * [protoVsPrototype.js](http://obscurejavascript.tumblr.com/post/157746968556/proto-vs-prototype-in-javascript): The difference between `__proto__` and `prototype` and their usage.
 * [promiseAll.js](http://obscurejavascript.tumblr.com/post/160669781625/easily-handle-multiple-concurrent-requests-via): Easily managing multiple concurrent async requests using `Promise.all`.
-* [reflect.js](#): How the ES6 `Reflect` API can be used as a single interface for many general JS operations.
+* [reflect.js](http://obscurejavascript.tumblr.com/post/164145395222/reflect-in-javascript): How the ES6 `Reflect` API can be used as a single interface for many general JS operations.
 * [regex.js](http://obscurejavascript.tumblr.com/post/163064136920/simplifying-checks-with-regexp-in-javascript): A demonstration of simple regex expressions and combining them.
 * [ruby.js](http://obscurejavascript.tumblr.com/post/163607837473/how-close-can-js-get-to-ruby): How close to Ruby syntax JS can get without parsing a source string. Technically, Node.js only, but just replace `global` with `window` and it will work with very modern browsers.
 * [setObject.js](http://obscurejavascript.tumblr.com/post/160162150223/set-in-javascript): How the set object can be useful.
 * [splitLimit.js](http://obscurejavascript.tumblr.com/post/159648127511/javascript-split-and-the-limit-property): Split and the usefulness of the limit property.
+* [spread.js](#): The spread syntax in JavaScript and how it simplifies function cals and array operations.
 * [templateLiteral.js](http://obscurejavascript.tumblr.com/post/161705493376/template-literals-in-javascript): An easier way of doing multiple line strings are replaces.
 * [throw.js](http://obscurejavascript.tumblr.com/post/156546898095/throw-and-custom-errors-in-javascript): Examples of throws, Error based objects and how they relate to stack traces.
 * [valueOf.js](http://obscurejavascript.tumblr.com/post/158036766746/valueof-in-javascript): How to specify an Objects value when used in numeric operations and how it can be useful.

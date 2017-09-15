@@ -39,9 +39,10 @@ Each example corresponds directly to a blog post:
 * [ruby.js](http://obscurejavascript.tumblr.com/post/163607837473/how-close-can-js-get-to-ruby): How close to Ruby syntax JS can get without parsing a source string. Technically, Node.js only, but just replace `global` with `window` and it will work with very modern browsers.
 * [setObject.js](http://obscurejavascript.tumblr.com/post/160162150223/set-in-javascript): How the set object can be useful.
 * [splitLimit.js](http://obscurejavascript.tumblr.com/post/159648127511/javascript-split-and-the-limit-property): Split and the usefulness of the limit property.
-* [spread.js](#): The spread syntax in JavaScript and how it simplifies function cals and array operations.
+* [spread.js](http://obscurejavascript.tumblr.com/post/164942398036/spread-syntax-in-javascript): The spread syntax in JavaScript and how it simplifies function cals and array operations.
 * [templateLiteral.js](http://obscurejavascript.tumblr.com/post/161705493376/template-literals-in-javascript): An easier way of doing multiple line strings are replaces.
 * [throw.js](http://obscurejavascript.tumblr.com/post/156546898095/throw-and-custom-errors-in-javascript): Examples of throws, Error based objects and how they relate to stack traces.
+* [unique.js](#): How simple unique value checking is implemented in JavaScript including with a callback.
 * [valueOf.js](http://obscurejavascript.tumblr.com/post/158036766746/valueof-in-javascript): How to specify an Objects value when used in numeric operations and how it can be useful.
 * [webWorker.js](http://obscurejavascript.tumblr.com/post/156229458463/web-workers-in-javascript): A simple example of how Web Workers make interfaces responsive when doing complex operations. **Browser Only**
 

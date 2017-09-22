@@ -13,6 +13,7 @@ Each example corresponds directly to a blog post:
 <hr/>
 
 * [arrayFrom.js](http://obscurejavascript.tumblr.com/post/160414597180/arrayfrom-in-javascript): Array.from and how it simplifies multiple types of array conversions.
+* [circularReferenceA.js](#): How Node.js shows circular references and strategies to deal with them. **Node.js Only**
 * [conditionalToHash.js](http://obscurejavascript.tumblr.com/post/163876444892/expressing-conditions-in-hashes-in-javascript): Simplify and automating logic with hashes.
 * [constructor.js](http://obscurejavascript.tumblr.com/post/157159010351/constructors-in-javascript): How the constructor property in ever JS object is useful.
 * [destructuringAssignment.js](http://obscurejavascript.tumblr.com/post/160918757847/destructuring-assignments-in-javascript): Assigning to multiple variables by mapping directly to an object.
@@ -42,7 +43,7 @@ Each example corresponds directly to a blog post:
 * [spread.js](http://obscurejavascript.tumblr.com/post/164942398036/spread-syntax-in-javascript): The spread syntax in JavaScript and how it simplifies function cals and array operations.
 * [templateLiteral.js](http://obscurejavascript.tumblr.com/post/161705493376/template-literals-in-javascript): An easier way of doing multiple line strings are replaces.
 * [throw.js](http://obscurejavascript.tumblr.com/post/156546898095/throw-and-custom-errors-in-javascript): Examples of throws, Error based objects and how they relate to stack traces.
-* [unique.js](#): How simple unique value checking is implemented in JavaScript including with a callback.
+* [unique.js](http://obscurejavascript.tumblr.com/post/165446144823/quick-unique-value-filter-in-javascript): How simple unique value checking is implemented in JavaScript including with a callback.
 * [valueOf.js](http://obscurejavascript.tumblr.com/post/158036766746/valueof-in-javascript): How to specify an Objects value when used in numeric operations and how it can be useful.
 * [webWorker.js](http://obscurejavascript.tumblr.com/post/156229458463/web-workers-in-javascript): A simple example of how Web Workers make interfaces responsive when doing complex operations. **Browser Only**
 

@@ -13,11 +13,12 @@ Each example corresponds directly to a blog post:
 <hr/>
 
 * [arrayFrom.js](http://obscurejavascript.tumblr.com/post/160414597180/arrayfrom-in-javascript): Array.from and how it simplifies multiple types of array conversions.
-* [circularReferenceA.js](#): How Node.js shows circular references and strategies to deal with them. **Node.js Only**
+* [circularReferenceA.js](http://obscurejavascript.tumblr.com/post/165697176198/circular-references-in-nodejs): How Node.js shows circular references and strategies to deal with them. **Node.js Only**
 * [conditionalToHash.js](http://obscurejavascript.tumblr.com/post/163876444892/expressing-conditions-in-hashes-in-javascript): Simplify and automating logic with hashes.
 * [constructor.js](http://obscurejavascript.tumblr.com/post/157159010351/constructors-in-javascript): How the constructor property in ever JS object is useful.
 * [destructuringAssignment.js](http://obscurejavascript.tumblr.com/post/160918757847/destructuring-assignments-in-javascript): Assigning to multiple variables by mapping directly to an object.
 * [findAsyncInOrder.js](http://obscurejavascript.tumblr.com/post/161975657381/finding-a-list-of-objects-asynchronously-in): A quick pattern to find a set of async items that can be easily switched to other forms.
+* [findIndex.js](#): How findIndex can be useful compared to find functions in some cases.
 * [fluentInterface.js](http://obscurejavascript.tumblr.com/post/158860952073/fluent-interfaces-in-javascript): An explanation of fluent interfaces and how repeater methods can be added to them.
 * [forOf.js](http://obscurejavascript.tumblr.com/post/159384822891/forof-in-javascript): What `for...of` loops are.
 * [getterSetterAutomation.js](http://obscurejavascript.tumblr.com/post/159121952199/gettersetter-automation-in-javascript): How to automate getters and setters for functions.

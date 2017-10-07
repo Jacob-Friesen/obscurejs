@@ -18,10 +18,11 @@ Each example corresponds directly to a blog post:
 * [constructor.js](http://obscurejavascript.tumblr.com/post/157159010351/constructors-in-javascript): How the constructor property in ever JS object is useful.
 * [destructuringAssignment.js](http://obscurejavascript.tumblr.com/post/160918757847/destructuring-assignments-in-javascript): Assigning to multiple variables by mapping directly to an object.
 * [findAsyncInOrder.js](http://obscurejavascript.tumblr.com/post/161975657381/finding-a-list-of-objects-asynchronously-in): A quick pattern to find a set of async items that can be easily switched to other forms.
-* [findIndex.js](#): How findIndex can be useful compared to find functions in some cases.
+* [findIndex.js](http://obscurejavascript.tumblr.com/post/165943221448/find-index-in-javascript): How findIndex can be useful compared to find functions in some cases.
 * [fluentInterface.js](http://obscurejavascript.tumblr.com/post/158860952073/fluent-interfaces-in-javascript): An explanation of fluent interfaces and how repeater methods can be added to them.
 * [forOf.js](http://obscurejavascript.tumblr.com/post/159384822891/forof-in-javascript): What `for...of` loops are.
 * [getterSetterAutomation.js](http://obscurejavascript.tumblr.com/post/159121952199/gettersetter-automation-in-javascript): How to automate getters and setters for functions.
+* [getterIssue.js](#): How assignment operations in JavaScript can fail due to assignment operation overwrites.
 * [hasDecimals.js](http://obscurejavascript.tumblr.com/post/161436529424/checking-for-decimals-in-javascript): A quick way to check for decimals for all types.
 * [infinity.js](http://obscurejavascript.tumblr.com/post/156857118520/infinity-in-javascript): Infinity and JS calculation error handling.
 * [jsonsExtraCharacters.js](http://obscurejavascript.tumblr.com/post/163336538660/json-supports-more-characters-than-javascript): How JSON supporting extra characters can mess with JavaScript. JSFiddle here: https://jsfiddle.net/jacobfriesen/cxgv37x4/1/

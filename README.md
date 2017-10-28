@@ -13,7 +13,7 @@ Each example corresponds directly to a blog post:
 <hr/>
 
 * [arrayFrom.js](http://obscurejavascript.tumblr.com/post/160414597180/arrayfrom-in-javascript): Array.from and how it simplifies multiple types of array conversions.
-* [callBind.js](#): How call and bind can be used to make `this` based functions easier to work with and can make them borrowable.
+* [callBind.js](http://obscurejavascript.tumblr.com/post/166682398581/javascript-function-borrowing): How call and bind can be used to make `this` based functions easier to work with and can make them borrowable.
 * [circularReferenceA.js](http://obscurejavascript.tumblr.com/post/165697176198/circular-references-in-nodejs): How Node.js shows circular references and strategies to deal with them. **Node.js Only**
 * [conditionalToHash.js](http://obscurejavascript.tumblr.com/post/163876444892/expressing-conditions-in-hashes-in-javascript): Simplify and automating logic with hashes.
 * [constructor.js](http://obscurejavascript.tumblr.com/post/157159010351/constructors-in-javascript): How the constructor property in ever JS object is useful.
@@ -40,6 +40,7 @@ Each example corresponds directly to a blog post:
 * [protoVsPrototype.js](http://obscurejavascript.tumblr.com/post/157746968556/proto-vs-prototype-in-javascript): The difference between `__proto__` and `prototype` and their usage.
 * [promiseAll.js](http://obscurejavascript.tumblr.com/post/160669781625/easily-handle-multiple-concurrent-requests-via): Easily managing multiple concurrent async requests using `Promise.all`.
 * [reflect.js](http://obscurejavascript.tumblr.com/post/164145395222/reflect-in-javascript): How the ES6 `Reflect` API can be used as a single interface for many general JS operations.
+* [restProperties.js](#): How Rest Properties can be used to simply object operations **Node 8+**.
 * [regex.js](http://obscurejavascript.tumblr.com/post/163064136920/simplifying-checks-with-regexp-in-javascript): A demonstration of simple regex expressions and combining them.
 * [ruby.js](http://obscurejavascript.tumblr.com/post/163607837473/how-close-can-js-get-to-ruby): How close to Ruby syntax JS can get without parsing a source string. Technically, Node.js only, but just replace `global` with `window` and it will work with very modern browsers.
 * [setObject.js](http://obscurejavascript.tumblr.com/post/160162150223/set-in-javascript): How the set object can be useful.

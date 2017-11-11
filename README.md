@@ -17,7 +17,7 @@ Each example corresponds directly to a blog post:
 * [circularReferenceA.js](http://obscurejavascript.tumblr.com/post/165697176198/circular-references-in-nodejs): How Node.js shows circular references and strategies to deal with them. **Node.js Only**
 * [conditionalToHash.js](http://obscurejavascript.tumblr.com/post/163876444892/expressing-conditions-in-hashes-in-javascript): Simplify and automating logic with hashes.
 * [constructor.js](http://obscurejavascript.tumblr.com/post/157159010351/constructors-in-javascript): How the constructor property in ever JS object is useful.
-* [defaultFunctionParameters.js](#): How specifying parameter defaults for functions can significantly reduce needed syntax.
+* [defaultFunctionParameters.js](http://obscurejavascript.tumblr.com/post/167168626535/default-parameters-for-functions-in-javascript): How specifying parameter defaults for functions can significantly reduce needed syntax.
 * [destructuringAssignment.js](http://obscurejavascript.tumblr.com/post/160918757847/destructuring-assignments-in-javascript): Assigning to multiple variables by mapping directly to an object.
 * [findAsyncInOrder.js](http://obscurejavascript.tumblr.com/post/161975657381/finding-a-list-of-objects-asynchronously-in): A quick pattern to find a set of async items that can be easily switched to other forms.
 * [findIndex.js](http://obscurejavascript.tumblr.com/post/165943221448/find-index-in-javascript): How findIndex can be useful compared to find functions in some cases.
@@ -49,6 +49,7 @@ Each example corresponds directly to a blog post:
 * [spread.js](http://obscurejavascript.tumblr.com/post/164942398036/spread-syntax-in-javascript): The spread syntax in JavaScript and how it simplifies function cals and array operations.
 * [templateLiteral.js](http://obscurejavascript.tumblr.com/post/161705493376/template-literals-in-javascript): An easier way of doing multiple line strings are replaces.
 * [throw.js](http://obscurejavascript.tumblr.com/post/156546898095/throw-and-custom-errors-in-javascript): Examples of throws, Error based objects and how they relate to stack traces.
+* [typeCoercion.js](#): When automatic type coercion can make code more readable.
 * [unique.js](http://obscurejavascript.tumblr.com/post/165446144823/quick-unique-value-filter-in-javascript): How simple unique value checking is implemented in JavaScript including with a callback.
 * [valueOf.js](http://obscurejavascript.tumblr.com/post/158036766746/valueof-in-javascript): How to specify an Objects value when used in numeric operations and how it can be useful.
 * [webWorker.js](http://obscurejavascript.tumblr.com/post/156229458463/web-workers-in-javascript): A simple example of how Web Workers make interfaces responsive when doing complex operations. **Browser Only**

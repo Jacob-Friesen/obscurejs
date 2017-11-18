@@ -50,7 +50,7 @@ Each example corresponds directly to a blog post:
 * [spread.js](http://obscurejavascript.tumblr.com/post/164942398036/spread-syntax-in-javascript): The spread syntax in JavaScript and how it simplifies function cals and array operations.
 * [templateLiteral.js](http://obscurejavascript.tumblr.com/post/161705493376/template-literals-in-javascript): An easier way of doing multiple line strings are replaces.
 * [throw.js](http://obscurejavascript.tumblr.com/post/156546898095/throw-and-custom-errors-in-javascript): Examples of throws, Error based objects and how they relate to stack traces.
-* [typeCoercion.js](#): When automatic type coercion can make code more readable.
+* [typeCoercion.js](http://obscurejavascript.tumblr.com/post/167422407608/when-type-coercion-is-useful-in-javascript): When automatic type coercion can make code more readable.
 * [unique.js](http://obscurejavascript.tumblr.com/post/165446144823/quick-unique-value-filter-in-javascript): How simple unique value checking is implemented in JavaScript including with a callback.
 * [valueOf.js](http://obscurejavascript.tumblr.com/post/158036766746/valueof-in-javascript): How to specify an Objects value when used in numeric operations and how it can be useful.
 * [webWorker.js](http://obscurejavascript.tumblr.com/post/156229458463/web-workers-in-javascript): A simple example of how Web Workers make interfaces responsive when doing complex operations. **Browser Only**

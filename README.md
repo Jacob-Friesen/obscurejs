@@ -13,6 +13,7 @@ Each example corresponds directly to a blog post:
 <hr/>
 
 * [arrayFrom.js](http://obscurejavascript.tumblr.com/post/160414597180/arrayfrom-in-javascript): Array.from and how it simplifies multiple types of array conversions.
+* [arrayMove.js](#): Move elements in arrays without having to create lots of variables and logic.
 * [callBind.js](http://obscurejavascript.tumblr.com/post/166682398581/javascript-function-borrowing): How call and bind can be used to make `this` based functions easier to work with and can make them borrowable.
 * [circularReferenceA.js](http://obscurejavascript.tumblr.com/post/165697176198/circular-references-in-nodejs): How Node.js shows circular references and strategies to deal with them. **Node.js Only**
 * [conditionalToHash.js](http://obscurejavascript.tumblr.com/post/163876444892/expressing-conditions-in-hashes-in-javascript): Simplify and automating logic with hashes.
@@ -40,7 +41,7 @@ Each example corresponds directly to a blog post:
 * [preciseAnimations.js](http://obscurejavascript.tumblr.com/post/164682092069/precise-animations-with-javascript): How to make JS animations precise via self adjusting timers. **Browser Only**
 * [protoVsPrototype.js](http://obscurejavascript.tumblr.com/post/157746968556/proto-vs-prototype-in-javascript): The difference between `__proto__` and `prototype` and their usage.
 * [promiseAll.js](http://obscurejavascript.tumblr.com/post/160669781625/easily-handle-multiple-concurrent-requests-via): Easily managing multiple concurrent async requests using `Promise.all`.
-* [promisify.js](#): How `util.promisify` can be used to transform async functions into promises.
+* [promisify.js](http://obscurejavascript.tumblr.com/post/167670657130/javascript-promisify): How `util.promisify` can be used to transform async functions into promises.
 * [reflect.js](http://obscurejavascript.tumblr.com/post/164145395222/reflect-in-javascript): How the ES6 `Reflect` API can be used as a single interface for many general JS operations.
 * [restProperties.js](http://obscurejavascript.tumblr.com/post/166918990519/javascript-spread-properties): How Rest Properties can be used to simply object operations **Node 8+**.
 * [regex.js](http://obscurejavascript.tumblr.com/post/163064136920/simplifying-checks-with-regexp-in-javascript): A demonstration of simple regex expressions and combining them.

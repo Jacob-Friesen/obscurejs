@@ -28,6 +28,7 @@ Each example corresponds directly to a blog post:
 * [getterIssue.js](http://obscurejavascript.tumblr.com/post/166189076070/when-assignments-dont-work-in-javascript): How assignment operations in JavaScript can fail due to assignment operation overwrites.
 * [hasDecimals.js](http://obscurejavascript.tumblr.com/post/161436529424/checking-for-decimals-in-javascript): A quick way to check for decimals for all types.
 * [infinity.js](http://obscurejavascript.tumblr.com/post/156857118520/infinity-in-javascript): Infinity and JS calculation error handling.
+* [import.js](http://obscurejavascript.tumblr.com/post/168402850108/making-this-based-apis-easier-to-use-in-javascript): How the ES6 import and export statements work. **Browser Only**
 * [jsonsExtraCharacters.js](http://obscurejavascript.tumblr.com/post/163336538660/json-supports-more-characters-than-javascript): How JSON supporting extra characters can mess with JavaScript. JSFiddle here: https://jsfiddle.net/jacobfriesen/cxgv37x4/1/
 * [letAndConstUsage.js](http://obscurejavascript.tumblr.com/post/157452525608/when-to-use-let-and-const-in-javascript): When to use `let` and `const` in JS.
 * [makeImmutable.js](http://obscurejavascript.tumblr.com/post/162247443799/making-any-object-fully-immutable-in-javascript): How to make any object in JavaScript immutable.

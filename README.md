@@ -20,6 +20,7 @@ Each example corresponds directly to a blog post:
 * [constructor.js](http://obscurejavascript.tumblr.com/post/157159010351/constructors-in-javascript): How the constructor property in ever JS object is useful.
 * [defaultFunctionParameters.js](http://obscurejavascript.tumblr.com/post/167168626535/default-parameters-for-functions-in-javascript): How specifying parameter defaults for functions can significantly reduce needed syntax.
 * [destructuringAssignment.js](http://obscurejavascript.tumblr.com/post/160918757847/destructuring-assignments-in-javascript): Assigning to multiple variables by mapping directly to an object.
+* [es6Class.js](#): A comparison of classes with and without the `class` keyword in JavaScript. 
 * [findAsyncInOrder.js](http://obscurejavascript.tumblr.com/post/161975657381/finding-a-list-of-objects-asynchronously-in): A quick pattern to find a set of async items that can be easily switched to other forms.
 * [findIndex.js](http://obscurejavascript.tumblr.com/post/165943221448/find-index-in-javascript): How findIndex can be useful compared to find functions in some cases.
 * [fluentInterface.js](http://obscurejavascript.tumblr.com/post/158860952073/fluent-interfaces-in-javascript): An explanation of fluent interfaces and how repeater methods can be added to them.
@@ -28,7 +29,7 @@ Each example corresponds directly to a blog post:
 * [getterIssue.js](http://obscurejavascript.tumblr.com/post/166189076070/when-assignments-dont-work-in-javascript): How assignment operations in JavaScript can fail due to assignment operation overwrites.
 * [hasDecimals.js](http://obscurejavascript.tumblr.com/post/161436529424/checking-for-decimals-in-javascript): A quick way to check for decimals for all types.
 * [infinity.js](http://obscurejavascript.tumblr.com/post/156857118520/infinity-in-javascript): Infinity and JS calculation error handling.
-* [import.js](http://obscurejavascript.tumblr.com/post/168402850108/making-this-based-apis-easier-to-use-in-javascript): How the ES6 import and export statements work. **Browser Only**
+* [import.js](http://obscurejavascript.tumblr.com/post/168651638118/es6-import-and-export-statements): How the ES6 import and export statements work. **Browser Only**
 * [jsonsExtraCharacters.js](http://obscurejavascript.tumblr.com/post/163336538660/json-supports-more-characters-than-javascript): How JSON supporting extra characters can mess with JavaScript. JSFiddle here: https://jsfiddle.net/jacobfriesen/cxgv37x4/1/
 * [letAndConstUsage.js](http://obscurejavascript.tumblr.com/post/157452525608/when-to-use-let-and-const-in-javascript): When to use `let` and `const` in JS.
 * [makeImmutable.js](http://obscurejavascript.tumblr.com/post/162247443799/making-any-object-fully-immutable-in-javascript): How to make any object in JavaScript immutable.

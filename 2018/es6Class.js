@@ -1,6 +1,3 @@
-#!/bin/sh
-':' //; exec "$(command -v nodejs || command -v node)" "$0" "$@"
-
 console.log('Without class syntax example:');
 
 // E.g. to abstract API calls

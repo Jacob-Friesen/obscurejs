@@ -9,6 +9,11 @@ Example Explanations
 ====================
 Each example corresponds directly to a blog post:
 
+<h5>2018</h5>
+<hr/>
+
+* [es6Class.js](#): A comparison of classes with and without the `class` keyword in JavaScript.
+
 <h5>2017</h5>
 <hr/>
 
@@ -19,8 +24,7 @@ Each example corresponds directly to a blog post:
 * [conditionalToHash.js](http://obscurejavascript.tumblr.com/post/163876444892/expressing-conditions-in-hashes-in-javascript): Simplify and automating logic with hashes.
 * [constructor.js](http://obscurejavascript.tumblr.com/post/157159010351/constructors-in-javascript): How the constructor property in ever JS object is useful.
 * [defaultFunctionParameters.js](http://obscurejavascript.tumblr.com/post/167168626535/default-parameters-for-functions-in-javascript): How specifying parameter defaults for functions can significantly reduce needed syntax.
-* [destructuringAssignment.js](http://obscurejavascript.tumblr.com/post/160918757847/destructuring-assignments-in-javascript): Assigning to multiple variables by mapping directly to an object.
-* [es6Class.js](#): A comparison of classes with and without the `class` keyword in JavaScript. 
+* [destructuringAssignment.js](http://obscurejavascript.tumblr.com/post/160918757847/destructuring-assignments-in-javascript): Assigning to multiple variables by mapping directly to an object. 
 * [findAsyncInOrder.js](http://obscurejavascript.tumblr.com/post/161975657381/finding-a-list-of-objects-asynchronously-in): A quick pattern to find a set of async items that can be easily switched to other forms.
 * [findIndex.js](http://obscurejavascript.tumblr.com/post/165943221448/find-index-in-javascript): How findIndex can be useful compared to find functions in some cases.
 * [fluentInterface.js](http://obscurejavascript.tumblr.com/post/158860952073/fluent-interfaces-in-javascript): An explanation of fluent interfaces and how repeater methods can be added to them.

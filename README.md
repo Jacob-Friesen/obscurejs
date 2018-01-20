@@ -12,7 +12,8 @@ Each example corresponds directly to a blog post:
 <h5>2018</h5>
 <hr/>
 
-* [es6Class.js](#): A comparison of classes with and without the `class` keyword in JavaScript.
+* [classInheritance.js](#): How the `class` syntax simplifies inheritance
+* [es6Class.js](http://obscurejavascript.tumblr.com/post/169705220740/es6-classes): A comparison of classes with and without the `class` keyword in JavaScript.
 
 <h5>2017</h5>
 <hr/>

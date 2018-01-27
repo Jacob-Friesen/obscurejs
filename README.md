@@ -12,13 +12,14 @@ Each example corresponds directly to a blog post:
 <h5>2018</h5>
 <hr/>
 
-* [classInheritance.js](#): How the `class` syntax simplifies inheritance
+* [classInheritance.js](http://obscurejavascript.tumblr.com/post/169971320661/es6-class-inheritance): How the `class` syntax simplifies inheritance
+* [customArrayOrder.js](#): How JavaScript's simple object construction and array usage combine to make a very simple custom ordering algorithm.
 * [es6Class.js](http://obscurejavascript.tumblr.com/post/169705220740/es6-classes): A comparison of classes with and without the `class` keyword in JavaScript.
 
 <h5>2017</h5>
 <hr/>
 
-* [arrayFrom.js](http://obscurejavascript.tumblr.com/post/160414597180/arrayfrom-in-javascript): Array.from and how it simplifies multiple types of array conversions.
+* [arrayFrom.js](http://obscure#javascript.tumblr.com/post/160414597180/arrayfrom-in-javascript): Array.from and how it simplifies multiple types of array conversions.
 * [arrayMove.js](http://obscurejavascript.tumblr.com/post/167914853934/simple-javascript-array-moves): Move elements in arrays without having to create lots of variables and logic.
 * [callBind.js](http://obscurejavascript.tumblr.com/post/166682398581/javascript-function-borrowing): How call and bind can be used to make `this` based functions easier to work with and can make them borrowable.
 * [circularReferenceA.js](http://obscurejavascript.tumblr.com/post/165697176198/circular-references-in-nodejs): How Node.js shows circular references and strategies to deal with them. **Node.js Only**

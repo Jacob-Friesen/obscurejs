@@ -16,12 +16,12 @@ function getListForTable(callback) {
     // Make it ordered like the UI is. In a real application this information
     // could then be displayed in a permission table.
     const uiOrder = ['dashboard', 'reports', 'admin'];
-    const orderMap = {};
-    uiOrder.forEach((name, index) => orderMap[name] = index);
+    //     const orderMap = {};
+    //     uiOrder.forEach((name, index) => orderMap[name] = index);
 
     const orderedPolicies = [];
     policies.forEach((policy) => {
-      const position = orderMap[policy.name];
+      const position = uiOrder.indexOf(policy.name); // skip orderMap
       orderedPolicies[position] = policy;
     });
 

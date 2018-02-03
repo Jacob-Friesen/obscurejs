@@ -13,7 +13,8 @@ Each example corresponds directly to a blog post:
 <hr/>
 
 * [classInheritance.js](http://obscurejavascript.tumblr.com/post/169971320661/es6-class-inheritance): How the `class` syntax simplifies inheritance
-* [customArrayOrder.js](#): How JavaScript's simple object construction and array usage combine to make a very simple custom ordering algorithm.
+* [customArrayOrder.js](http://obscurejavascript.tumblr.com/post/170237362243/custom-array-ordering-in-javascript): How JavaScript's simple object construction and array usage combine to make a very simple custom ordering algorithm.
+* [eNotation.js](#): JavaScript's Exponential Notation and how it makes reading and working with very large or very small numbers much easier.
 * [es6Class.js](http://obscurejavascript.tumblr.com/post/169705220740/es6-classes): A comparison of classes with and without the `class` keyword in JavaScript.
 
 <h5>2017</h5>

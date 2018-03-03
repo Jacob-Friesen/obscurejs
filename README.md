@@ -18,7 +18,8 @@ Each example corresponds directly to a blog post:
 * [eNotation.js](http://obscurejavascript.tumblr.com/post/170506488877/javascript-exponential-notation): JavaScript's Exponential Notation and how it makes reading and working with very large or very small numbers much easier.
 * [es6Class.js](http://obscurejavascript.tumblr.com/post/169705220740/es6-classes): A comparison of classes with and without the `class` keyword in JavaScript.
 * [iifeReplace.js](http://obscurejavascript.tumblr.com/post/170768910923/an-alternative-for-iifes-in-javascript): When and how IIFEs can be replaced by a simple block scope.
-* [rounding.js](#): How `toFixed` can be used to implement rounding and its other uses.
+* [naturalStringSort.js](#): A simple way to implement natural looking string sorts.
+* [rounding.js](http://obscurejavascript.tumblr.com/post/171282166800/simple-rounding-in-javascript): How `toFixed` can be used to implement rounding and its other uses.
 
 <h5>2017</h5>
 <hr/>

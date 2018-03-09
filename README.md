@@ -17,6 +17,7 @@ Each example corresponds directly to a blog post:
 * [customIterable.js](http://obscurejavascript.tumblr.com/post/171025564105/custom-iterables-in-javascript): How custom Iterables are implemented in JavaScript.
 * [eNotation.js](http://obscurejavascript.tumblr.com/post/170506488877/javascript-exponential-notation): JavaScript's Exponential Notation and how it makes reading and working with very large or very small numbers much easier.
 * [es6Class.js](http://obscurejavascript.tumblr.com/post/169705220740/es6-classes): A comparison of classes with and without the `class` keyword in JavaScript.
+* [functionName.js](http://obscurejavascript.tumblr.com/post/171529460144/natural-string-sorts-in-javascript): How to get class and function names in JavaScript which is useful for debugging and exploring 3rd party libraries.
 * [iifeReplace.js](http://obscurejavascript.tumblr.com/post/170768910923/an-alternative-for-iifes-in-javascript): When and how IIFEs can be replaced by a simple block scope.
 * [naturalStringSort.js](#): A simple way to implement natural looking string sorts.
 * [rounding.js](http://obscurejavascript.tumblr.com/post/171282166800/simple-rounding-in-javascript): How `toFixed` can be used to implement rounding and its other uses.

@@ -22,9 +22,10 @@ Each example corresponds directly to a blog post:
 * [es6Class.js](http://obscurejavascript.tumblr.com/post/169705220740/es6-classes): A comparison of classes with and without the `class` keyword in JavaScript.
 * [functionName.js](http://obscurejavascript.tumblr.com/post/171768070910/get-function-and-classnames-from-anywhere-in): How to get class and function names in JavaScript which is useful for debugging and exploring 3rd party libraries.
 * [iifeReplace.js](http://obscurejavascript.tumblr.com/post/170768910923/an-alternative-for-iifes-in-javascript): When and how IIFEs can be replaced by a simple block scope.
-* [mathMax.js](#): Math.max and how it can be used to simplify algorithms.
+* [mathMax.js](http://obscurejavascript.tumblr.com/post/172732215812/math-max-in-javascript): Math.max and how it can be used to simplify algorithms.
 * [naturalStringSort.js](http://obscurejavascript.tumblr.com/post/171529460144/natural-string-sorts-in-javascript): A simple way to implement natural looking string sorts.
 * [rounding.js](http://obscurejavascript.tumblr.com/post/171282166800/simple-rounding-in-javascript): How `toFixed` can be used to implement rounding and its other uses.
+* [jsShorthand.js](#): Shorthand conversion syntaxes and the slightly longer and more consistent versions of them.
 
 <h5>2017</h5>
 <hr/>

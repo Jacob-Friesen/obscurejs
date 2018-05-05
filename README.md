@@ -24,9 +24,11 @@ Each example corresponds directly to a blog post:
 * [iifeReplace.js](http://obscurejavascript.tumblr.com/post/170768910923/an-alternative-for-iifes-in-javascript): When and how IIFEs can be replaced by a simple block scope.
 * [mathMax.js](http://obscurejavascript.tumblr.com/post/172732215812/math-max-in-javascript): Math.max and how it can be used to simplify algorithms.
 * [naturalStringSort.js](http://obscurejavascript.tumblr.com/post/171529460144/natural-string-sorts-in-javascript): A simple way to implement natural looking string sorts.
-* [nodeEnvironmentVariables.js](http://obscurejavascript.tumblr.com/post/173200196881/when-variables-cannot-be-removed-in-javascript): Single setting and config files with Node.js environment variables.
+* [nodeEnvironmentVariables.js](http://obscurejavascript.tumblr.com/post/173424392295/nodejs-environment-variables): Single setting and config files with Node.js environment variables.
+* [noDeletion.js](http://obscurejavascript.tumblr.com/post/173200196881/when-variables-cannot-be-removed-in-javascript): When variables cannot be removed in JS.
 * [rounding.js](http://obscurejavascript.tumblr.com/post/171282166800/simple-rounding-in-javascript): How `toFixed` can be used to implement rounding and its other uses.
-* [jsShorthand.js](#): Shorthand conversion syntaxes and the slightly longer and more consistent versions of them.
+* [stringNormalize.js](#): How to deal with string characters that only appear as one character, but count as 2.
+* [jsShorthand.js](http://obscurejavascript.tumblr.com/post/172968549600/shorthand-javascript-conversion-syntax-and): Shorthand conversion syntaxes and the slightly longer and more consistent versions of them.
 
 <h5>2017</h5>
 <hr/>

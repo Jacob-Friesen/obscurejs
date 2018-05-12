@@ -27,8 +27,9 @@ Each example corresponds directly to a blog post:
 * [nodeEnvironmentVariables.js](http://obscurejavascript.tumblr.com/post/173424392295/nodejs-environment-variables): Single setting and config files with Node.js environment variables.
 * [noDeletion.js](http://obscurejavascript.tumblr.com/post/173200196881/when-variables-cannot-be-removed-in-javascript): When variables cannot be removed in JS.
 * [rounding.js](http://obscurejavascript.tumblr.com/post/171282166800/simple-rounding-in-javascript): How `toFixed` can be used to implement rounding and its other uses.
-* [stringNormalize.js](#): How to deal with string characters that only appear as one character, but count as 2.
+* [stringNormalize.js](http://obscurejavascript.tumblr.com/post/173645997088/string-normalize-in-javascript): How to deal with string characters that only appear as one character, but count as 2.
 * [jsShorthand.js](http://obscurejavascript.tumblr.com/post/172968549600/shorthand-javascript-conversion-syntax-and): Shorthand conversion syntaxes and the slightly longer and more consistent versions of them.
+* [valueOf.js](#): How any object can act like a number via the `valueOf` property. Newer syntax added since the 2017 post and a much better introduction.
 
 <h5>2017</h5>
 <hr/>

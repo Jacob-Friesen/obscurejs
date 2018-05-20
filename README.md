@@ -29,7 +29,8 @@ Each example corresponds directly to a blog post:
 * [rounding.js](http://obscurejavascript.tumblr.com/post/171282166800/simple-rounding-in-javascript): How `toFixed` can be used to implement rounding and its other uses.
 * [stringNormalize.js](http://obscurejavascript.tumblr.com/post/173645997088/string-normalize-in-javascript): How to deal with string characters that only appear as one character, but count as 2.
 * [jsShorthand.js](http://obscurejavascript.tumblr.com/post/172968549600/shorthand-javascript-conversion-syntax-and): Shorthand conversion syntaxes and the slightly longer and more consistent versions of them.
-* [valueOf.js](#): How any object can act like a number via the `valueOf` property. Newer syntax added since the 2017 post and a much better introduction.
+* [uniqify.js](#): A simple one line method to make arrays unique without libraries.
+* [valueOf.js](http://obscurejavascript.tumblr.com/post/173868722924/valueof-in-javascript): How any object can act like a number via the `valueOf` property. Newer syntax added since the 2017 post and a much better introduction.
 
 <h5>2017</h5>
 <hr/>

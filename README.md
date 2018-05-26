@@ -15,6 +15,7 @@ Each example corresponds directly to a blog post:
 * [arrayDelete.js](http://obscurejavascript.tumblr.com/post/172491066039/array-deletes-in-javascript): The most common ways of doing Array deletes in JavaScript along with the advantages/disadvantages of doing each.
 * [async.js](http://obscurejavascript.tumblr.com/post/172006278743/async-function-declarations-in-javascript): How the `async` function declarations can simplify async code. **Node 8+/Modern browsers only**
 * [classInheritance.js](http://obscurejavascript.tumblr.com/post/169971320661/es6-class-inheritance): How the `class` syntax simplifies inheritance
+* [computerPropertyNames.js](#): Examples of how Object Literal Computer Property Names can be useful.
 * [customArrayOrder.js](http://obscurejavascript.tumblr.com/post/170237362243/custom-array-ordering-in-javascript): How JavaScript's simple object construction and array usage combine to make a very simple custom ordering algorithm.
 * [customIterable.js](http://obscurejavascript.tumblr.com/post/171025564105/custom-iterables-in-javascript): How custom Iterables are implemented in JavaScript.
 * [destructParams.js](http://obscurejavascript.tumblr.com/post/172246570097/destructuring-function-parameters-in-javascript): How destructuring can be used for function parameters to simplify multi value callback returns.
@@ -29,13 +30,13 @@ Each example corresponds directly to a blog post:
 * [rounding.js](http://obscurejavascript.tumblr.com/post/171282166800/simple-rounding-in-javascript): How `toFixed` can be used to implement rounding and its other uses.
 * [stringNormalize.js](http://obscurejavascript.tumblr.com/post/173645997088/string-normalize-in-javascript): How to deal with string characters that only appear as one character, but count as 2.
 * [jsShorthand.js](http://obscurejavascript.tumblr.com/post/172968549600/shorthand-javascript-conversion-syntax-and): Shorthand conversion syntaxes and the slightly longer and more consistent versions of them.
-* [uniqify.js](#): A simple one line method to make arrays unique without libraries.
+* [uniqify.js](http://obscurejavascript.tumblr.com/post/174088971784/one-line-unique-array-creation-in-javascript): A simple one line method to make arrays unique without libraries.
 * [valueOf.js](http://obscurejavascript.tumblr.com/post/173868722924/valueof-in-javascript): How any object can act like a number via the `valueOf` property. Newer syntax added since the 2017 post and a much better introduction.
 
 <h5>2017</h5>
 <hr/>
 
-* [arrayFrom.js](http://obscure#javascript.tumblr.com/post/160414597180/arrayfrom-in-javascript): Array.from and how it simplifies multiple types of array conversions.
+* [arrayFrom.js](http://obscurejavascript.tumblr.com/post/160414597180/arrayfrom-in-javascript): Array.from and how it simplifies multiple types of array conversions.
 * [arrayMove.js](http://obscurejavascript.tumblr.com/post/167914853934/simple-javascript-array-moves): Move elements in arrays without having to create lots of variables and logic.
 * [callBind.js](http://obscurejavascript.tumblr.com/post/166682398581/javascript-function-borrowing): How call and bind can be used to make `this` based functions easier to work with and can make them borrowable.
 * [circularReferenceA.js](http://obscurejavascript.tumblr.com/post/165697176198/circular-references-in-nodejs): How Node.js shows circular references and strategies to deal with them. **Node.js Only**
@@ -67,7 +68,7 @@ Each example corresponds directly to a blog post:
 * [promiseAll.js](http://obscurejavascript.tumblr.com/post/160669781625/easily-handle-multiple-concurrent-requests-via): Easily managing multiple concurrent async requests using `Promise.all`.
 * [promisify.js](http://obscurejavascript.tumblr.com/post/167670657130/javascript-promisify): How `util.promisify` can be used to transform async functions into promises.
 * [reflect.js](http://obscurejavascript.tumblr.com/post/164145395222/reflect-in-javascript): How the ES6 `Reflect` API can be used as a single interface for many general JS operations.
-* [replaceThisParameter.js](#): How to transform `this` based interfaces into parameter-only ones. The tactic works in any environment, but the examples are **Browser only**.
+* [replaceThisParameter.js](http://obscurejavascript.tumblr.com/post/168402850108/making-this-based-apis-easier-to-use-in-javascript): How to transform `this` based interfaces into parameter-only ones. The tactic works in any environment, but the examples are **Browser only**.
 * [restProperties.js](http://obscurejavascript.tumblr.com/post/166918990519/javascript-spread-properties): How Rest Properties can be used to simply object operations **Node 8+**.
 * [regex.js](http://obscurejavascript.tumblr.com/post/163064136920/simplifying-checks-with-regexp-in-javascript): A demonstration of simple regex expressions and combining them.
 * [removeWhitespace.js](http://obscurejavascript.tumblr.com/post/168158324380/cleaning-up-whitespace-in-javascript-strings): A demonstration of quick whitespace replacing.

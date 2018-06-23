@@ -12,6 +12,7 @@ Each example corresponds directly to a blog post:
 <h5>2018</h5>
 <hr/>
 
+* [addCSSRule.js](#): An example of adding CSS rules directly via JavaScript to reduce DOM manipulations.
 * [arrayDelete.js](http://obscurejavascript.tumblr.com/post/172491066039/array-deletes-in-javascript): The most common ways of doing Array deletes in JavaScript along with the advantages/disadvantages of doing each.
 * [async.js](http://obscurejavascript.tumblr.com/post/172006278743/async-function-declarations-in-javascript): How the `async` function declarations can simplify async code. **Node 8+/Modern browsers only**
 * [asyncHooks.js](http://obscurejavascript.tumblr.com/post/174762781120/nodejs-async-hooks): How to track all async operations in Node.js without altering the original code. **Node 8+ only**
@@ -32,7 +33,7 @@ Each example corresponds directly to a blog post:
 * [rounding.js](http://obscurejavascript.tumblr.com/post/171282166800/simple-rounding-in-javascript): How `toFixed` can be used to implement rounding and its other uses.
 * [stringNormalize.js](http://obscurejavascript.tumblr.com/post/173645997088/string-normalize-in-javascript): How to deal with string characters that only appear as one character, but count as 2.
 * [jsShorthand.js](http://obscurejavascript.tumblr.com/post/172968549600/shorthand-javascript-conversion-syntax-and): Shorthand conversion syntaxes and the slightly longer and more consistent versions of them.
-* [spreadArgs.js](#): How the spread operator can be used to simplify dynamic function calls.
+* [spreadArgs.js](http://obscurejavascript.tumblr.com/post/174983851732/spread-for-function-arguments-in-javascript): How the spread operator can be used to simplify dynamic function calls.
 * [uniqify.js](http://obscurejavascript.tumblr.com/post/174088971784/one-line-unique-array-creation-in-javascript): A simple one line method to make arrays unique without libraries.
 * [valueOf.js](http://obscurejavascript.tumblr.com/post/173868722924/valueof-in-javascript): How any object can act like a number via the `valueOf` property. Newer syntax added since the 2017 post and a much better introduction.
 

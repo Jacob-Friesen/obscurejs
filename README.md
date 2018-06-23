@@ -12,7 +12,7 @@ Each example corresponds directly to a blog post:
 <h5>2018</h5>
 <hr/>
 
-* [addCSSRule.js](#): An example of adding CSS rules directly via JavaScript to reduce DOM manipulations.
+* [addCSSRule.js](#): An example of adding CSS rules directly via JavaScript to reduce DOM manipulations. **Browser Only**
 * [arrayDelete.js](http://obscurejavascript.tumblr.com/post/172491066039/array-deletes-in-javascript): The most common ways of doing Array deletes in JavaScript along with the advantages/disadvantages of doing each.
 * [async.js](http://obscurejavascript.tumblr.com/post/172006278743/async-function-declarations-in-javascript): How the `async` function declarations can simplify async code. **Node 8+/Modern browsers only**
 * [asyncHooks.js](http://obscurejavascript.tumblr.com/post/174762781120/nodejs-async-hooks): How to track all async operations in Node.js without altering the original code. **Node 8+ only**

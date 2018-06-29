@@ -12,7 +12,7 @@ Each example corresponds directly to a blog post:
 <h5>2018</h5>
 <hr/>
 
-* [addCSSRule.js](#): An example of adding CSS rules directly via JavaScript to reduce DOM manipulations. **Browser Only**
+* [addCSSRule.js](http://obscurejavascript.tumblr.com/post/175212829015/adding-css-rules-directly-in-javascript): An example of adding CSS rules directly via JavaScript to reduce DOM manipulations. **Browser Only**
 * [arrayDelete.js](http://obscurejavascript.tumblr.com/post/172491066039/array-deletes-in-javascript): The most common ways of doing Array deletes in JavaScript along with the advantages/disadvantages of doing each.
 * [async.js](http://obscurejavascript.tumblr.com/post/172006278743/async-function-declarations-in-javascript): How the `async` function declarations can simplify async code. **Node 8+/Modern browsers only**
 * [asyncHooks.js](http://obscurejavascript.tumblr.com/post/174762781120/nodejs-async-hooks): How to track all async operations in Node.js without altering the original code. **Node 8+ only**
@@ -20,6 +20,7 @@ Each example corresponds directly to a blog post:
 * [computedPropertyNames.js](http://obscurejavascript.tumblr.com/post/174311258435/computed-property-names-in-javascript): Examples of how Object Literal Computer Property Names can be useful.
 * [customArrayOrder.js](http://obscurejavascript.tumblr.com/post/170237362243/custom-array-ordering-in-javascript): How JavaScript's simple object construction and array usage combine to make a very simple custom ordering algorithm.
 * [customIterable.js](http://obscurejavascript.tumblr.com/post/171025564105/custom-iterables-in-javascript): How custom Iterables are implemented in JavaScript.
+* [deepFlatten.js](#): How to implement deep array flattening in JavaScript.
 * [destructParams.js](http://obscurejavascript.tumblr.com/post/172246570097/destructuring-function-parameters-in-javascript): How destructuring can be used for function parameters to simplify multi value callback returns.
 * [eNotation.js](http://obscurejavascript.tumblr.com/post/170506488877/javascript-exponential-notation): JavaScript's Exponential Notation and how it makes reading and working with very large or very small numbers much easier.
 * [es6Class.js](http://obscurejavascript.tumblr.com/post/169705220740/es6-classes): A comparison of classes with and without the `class` keyword in JavaScript.

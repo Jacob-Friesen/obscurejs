@@ -19,11 +19,11 @@ function deepFlatten(arr) {
 
 const arr1 = [1,[2, [3, [4]]], 5];
 
-console.info(flatten(arr1));
+console.log(flatten(arr1));
 // [ 1, 2, [ 3, [ 4 ] ], 5 ]
 
 
 console.log('\nDeep flatten');
 
-console.info(deepFlatten(arr1));
+console.log(deepFlatten(arr1));
 // [ 1, 2, 3, 4, 5 ]

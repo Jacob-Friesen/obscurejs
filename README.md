@@ -22,13 +22,14 @@ Each example corresponds directly to a blog post:
 * [customIterable.js](http://obscurejavascript.tumblr.com/post/171025564105/custom-iterables-in-javascript): How custom Iterables are implemented in JavaScript.
 * [deepFlatten.js](http://obscurejavascript.tumblr.com/): How to implement deep array flattening in JavaScript.
 * [destructParams.js](http://obscurejavascript.tumblr.com/post/172246570097/destructuring-function-parameters-in-javascript): How destructuring can be used for function parameters to simplify multi value callback returns.
-* [duplicateKeyChecks.js](#): An easy tactic to do duplicate key checks in JS and how to extend that to do duplicate format checks.
+* [duplicateKeyChecks.js](http://obscurejavascript.tumblr.com/post/176166959840/duplicate-key-checks-in-javascript): An easy tactic to do duplicate key checks in JS and how to extend that to do duplicate format checks.
 * [eNotation.js](http://obscurejavascript.tumblr.com/post/170506488877/javascript-exponential-notation): JavaScript's Exponential Notation and how it makes reading and working with very large or very small numbers much easier.
 * [es6Class.js](http://obscurejavascript.tumblr.com/post/169705220740/es6-classes): A comparison of classes with and without the `class` keyword in JavaScript.
 * [externalLoopExtraction.js](http://obscurejavascript.tumblr.com/post/174539581583/extracting-loops-via-generators-in-javascript): How to extract features in a function that has a loop with passing in a callback. 
 * [functionName.js](http://obscurejavascript.tumblr.com/post/171768070910/get-function-and-classnames-from-anywhere-in): How to get class and function names in JavaScript which is useful for debugging and exploring 3rd party libraries.
 * [getFirstKey.js](http://obscurejavascript.tumblr.com/post/175683351809/getting-the-first-key-of-an-object-in-javascript): A quick an efficient way to get the first key of an object in JavaScript.
 * [iifeReplace.js](http://obscurejavascript.tumblr.com/post/170768910923/an-alternative-for-iifes-in-javascript): When and how IIFEs can be replaced by a simple block scope.
+* [lockObject.js](#): The 2 ways of locking objects in JavaScript.
 * [mathMax.js](http://obscurejavascript.tumblr.com/post/172732215812/math-max-in-javascript): Math.max and how it can be used to simplify algorithms.
 * [naturalStringSort.js](http://obscurejavascript.tumblr.com/post/171529460144/natural-string-sorts-in-javascript): A simple way to implement natural looking string sorts.
 * [nodeEnvironmentVariables.js](http://obscurejavascript.tumblr.com/post/173424392295/nodejs-environment-variables): Single setting and config files with Node.js environment variables.

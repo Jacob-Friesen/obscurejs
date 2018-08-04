@@ -29,7 +29,7 @@ Each example corresponds directly to a blog post:
 * [functionName.js](http://obscurejavascript.tumblr.com/post/171768070910/get-function-and-classnames-from-anywhere-in): How to get class and function names in JavaScript which is useful for debugging and exploring 3rd party libraries.
 * [getFirstKey.js](http://obscurejavascript.tumblr.com/post/175683351809/getting-the-first-key-of-an-object-in-javascript): A quick an efficient way to get the first key of an object in JavaScript.
 * [iifeReplace.js](http://obscurejavascript.tumblr.com/post/170768910923/an-alternative-for-iifes-in-javascript): When and how IIFEs can be replaced by a simple block scope.
-* [lockObject.js](#): The 2 ways of locking objects in JavaScript.
+* [lockObject.js](http://obscurejavascript.tumblr.com/post/176416505318/preventing-modifications-to-objects-in-javascript): The 2 ways of locking objects in JavaScript.
 * [mathMax.js](http://obscurejavascript.tumblr.com/post/172732215812/math-max-in-javascript): Math.max and how it can be used to simplify algorithms.
 * [naturalStringSort.js](http://obscurejavascript.tumblr.com/post/171529460144/natural-string-sorts-in-javascript): A simple way to implement natural looking string sorts.
 * [nodeEnvironmentVariables.js](http://obscurejavascript.tumblr.com/post/173424392295/nodejs-environment-variables): Single setting and config files with Node.js environment variables.
@@ -41,6 +41,7 @@ Each example corresponds directly to a blog post:
 * [taggedStringReplace.js](http://obscurejavascript.tumblr.com/post/175924040173/the-stringindexof-second-argument-in-javascript): The second argument of `String.indexOf` and how it is useful beyond performance optimization.
 * [uniqify.js](http://obscurejavascript.tumblr.com/post/174088971784/one-line-unique-array-creation-in-javascript): A simple one line method to make arrays unique without libraries.
 * [valueOf.js](http://obscurejavascript.tumblr.com/post/173868722924/valueof-in-javascript): How any object can act like a number via the `valueOf` property. Newer syntax added since the 2017 post and a much better introduction.
+* [zipObject.js](#): How Zip Object works and why it is useful for debugging.
 
 <h5>2017</h5>
 <hr/>

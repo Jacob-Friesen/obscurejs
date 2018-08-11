@@ -35,13 +35,14 @@ Each example corresponds directly to a blog post:
 * [nodeEnvironmentVariables.js](http://obscurejavascript.tumblr.com/post/173424392295/nodejs-environment-variables): Single setting and config files with Node.js environment variables.
 * [noDeletion.js](http://obscurejavascript.tumblr.com/post/173200196881/when-variables-cannot-be-removed-in-javascript): When variables cannot be removed in JS.
 * [rounding.js](http://obscurejavascript.tumblr.com/post/171282166800/simple-rounding-in-javascript): How `toFixed` can be used to implement rounding and its other uses.
+* [setObject.js](#): How to create objects from property paths.
 * [stringNormalize.js](http://obscurejavascript.tumblr.com/post/173645997088/string-normalize-in-javascript): How to deal with string characters that only appear as one character, but count as 2.
 * [jsShorthand.js](http://obscurejavascript.tumblr.com/post/172968549600/shorthand-javascript-conversion-syntax-and): Shorthand conversion syntaxes and the slightly longer and more consistent versions of them.
 * [spreadArgs.js](http://obscurejavascript.tumblr.com/post/174983851732/spread-for-function-arguments-in-javascript): How the spread operator can be used to simplify dynamic function calls.
 * [taggedStringReplace.js](http://obscurejavascript.tumblr.com/post/175924040173/the-stringindexof-second-argument-in-javascript): The second argument of `String.indexOf` and how it is useful beyond performance optimization.
 * [uniqify.js](http://obscurejavascript.tumblr.com/post/174088971784/one-line-unique-array-creation-in-javascript): A simple one line method to make arrays unique without libraries.
 * [valueOf.js](http://obscurejavascript.tumblr.com/post/173868722924/valueof-in-javascript): How any object can act like a number via the `valueOf` property. Newer syntax added since the 2017 post and a much better introduction.
-* [zipObject.js](#): How Zip Object works and why it is useful for debugging.
+* [zipObject.js](http://obscurejavascript.tumblr.com/post/176668199848/zip-object-in-javascript): How Zip Object works and why it is useful for debugging.
 
 <h5>2017</h5>
 <hr/>

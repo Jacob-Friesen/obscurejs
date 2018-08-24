@@ -18,7 +18,7 @@ Each example corresponds directly to a blog post:
 * [asyncHooks.js](http://obscurejavascript.tumblr.com/post/174762781120/nodejs-async-hooks): How to track all async operations in Node.js without altering the original code. **Node 8+ only**
 * [classInheritance.js](http://obscurejavascript.tumblr.com/post/169971320661/es6-class-inheritance): How the `class` syntax simplifies inheritance
 * [computedPropertyNames.js](http://obscurejavascript.tumblr.com/post/174311258435/computed-property-names-in-javascript): Examples of how Object Literal Computer Property Names can be useful.
-* [countBy.js](#): Generic counting via a simple callback pattern.
+* [countBy.js](http://obscurejavascript.tumblr.com/post/177173600645/generic-count-handler-in-javascript): Generic counting via a simple callback pattern.
 * [customArrayOrder.js](http://obscurejavascript.tumblr.com/post/170237362243/custom-array-ordering-in-javascript): How JavaScript's simple object construction and array usage combine to make a very simple custom ordering algorithm.
 * [customIterable.js](http://obscurejavascript.tumblr.com/post/171025564105/custom-iterables-in-javascript): How custom Iterables are implemented in JavaScript.
 * [deepFlatten.js](http://obscurejavascript.tumblr.com/): How to implement deep array flattening in JavaScript.
@@ -35,6 +35,7 @@ Each example corresponds directly to a blog post:
 * [naturalStringSort.js](http://obscurejavascript.tumblr.com/post/171529460144/natural-string-sorts-in-javascript): A simple way to implement natural looking string sorts.
 * [nodeEnvironmentVariables.js](http://obscurejavascript.tumblr.com/post/173424392295/nodejs-environment-variables): Single setting and config files with Node.js environment variables.
 * [noDeletion.js](http://obscurejavascript.tumblr.com/post/173200196881/when-variables-cannot-be-removed-in-javascript): When variables cannot be removed in JS.
+* [orderBy.js](#): Generic multi-property ordering in JavaScript.
 * [rounding.js](http://obscurejavascript.tumblr.com/post/171282166800/simple-rounding-in-javascript): How `toFixed` can be used to implement rounding and its other uses.
 * [setObject.js](http://obscurejavascript.tumblr.com/post/176922898899/creating-objects-from-property-paths-in-javascript): How to create objects from property paths.
 * [stringNormalize.js](http://obscurejavascript.tumblr.com/post/173645997088/string-normalize-in-javascript): How to deal with string characters that only appear as one character, but count as 2.

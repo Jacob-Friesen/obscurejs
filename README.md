@@ -18,7 +18,7 @@ Each example corresponds directly to a blog post:
 * [asyncHooks.js](http://obscurejavascript.tumblr.com/post/174762781120/nodejs-async-hooks): How to track all async operations in Node.js without altering the original code. **Node 8+ only**
 * [classInheritance.js](http://obscurejavascript.tumblr.com/post/169971320661/es6-class-inheritance): How the `class` syntax simplifies inheritance
 * [computedPropertyNames.js](http://obscurejavascript.tumblr.com/post/174311258435/computed-property-names-in-javascript): Examples of how Object Literal Computer Property Names can be useful.
-* [conformsTo.js](#): A generic way to do structured object validation.
+* [conformsTo.js](http://obscurejavascript.tumblr.com/post/177913180367/structured-object-validation-in-javascript): A generic way to do structured object validation.
 * [countBy.js](http://obscurejavascript.tumblr.com/post/177173600645/generic-count-handler-in-javascript): Generic counting via a simple callback pattern.
 * [customArrayOrder.js](http://obscurejavascript.tumblr.com/post/170237362243/custom-array-ordering-in-javascript): How JavaScript's simple object construction and array usage combine to make a very simple custom ordering algorithm.
 * [customIterable.js](http://obscurejavascript.tumblr.com/post/171025564105/custom-iterables-in-javascript): How custom Iterables are implemented in JavaScript.
@@ -40,6 +40,7 @@ Each example corresponds directly to a blog post:
 * [orderBy.js](http://obscurejavascript.tumblr.com/post/177420178745/order-by-in-javascript): Generic multi-property ordering in JavaScript.
 * [rounding.js](http://obscurejavascript.tumblr.com/post/171282166800/simple-rounding-in-javascript): How `toFixed` can be used to implement rounding and its other uses.
 * [setObject.js](http://obscurejavascript.tumblr.com/post/176922898899/creating-objects-from-property-paths-in-javascript): How to create objects from property paths.
+* [size.js](#): A generic way to find the size of multiple types.
 * [stringNormalize.js](http://obscurejavascript.tumblr.com/post/173645997088/string-normalize-in-javascript): How to deal with string characters that only appear as one character, but count as 2.
 * [jsShorthand.js](http://obscurejavascript.tumblr.com/post/172968549600/shorthand-javascript-conversion-syntax-and): Shorthand conversion syntaxes and the slightly longer and more consistent versions of them.
 * [spreadArgs.js](http://obscurejavascript.tumblr.com/post/174983851732/spread-for-function-arguments-in-javascript): How the spread operator can be used to simplify dynamic function calls.

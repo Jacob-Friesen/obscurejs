@@ -15,6 +15,7 @@ Each example corresponds directly to a blog post:
 * [addCSSRule.js](http://obscurejavascript.tumblr.com/post/175212829015/adding-css-rules-directly-in-javascript): An example of adding CSS rules directly via JavaScript to reduce DOM manipulations. **Browser Only**
 * [arrayDelete.js](http://obscurejavascript.tumblr.com/post/172491066039/array-deletes-in-javascript): The most common ways of doing Array deletes in JavaScript along with the advantages/disadvantages of doing each.
 * [async.js](http://obscurejavascript.tumblr.com/post/172006278743/async-function-declarations-in-javascript): How the `async` function declarations can simplify async code. **Node 8+/Modern browsers only**
+* [asyncAndLoops.js](#): How the `async` function can be used in loops.
 * [asyncHooks.js](http://obscurejavascript.tumblr.com/post/174762781120/nodejs-async-hooks): How to track all async operations in Node.js without altering the original code. **Node 8+ only**
 * [autoReloadTester.js](http://obscurejavascript.tumblr.com/post/178387949840/more-interactive-programming-in-javascript): The file used to demonstrate automatic script reloading without a framework for backend code. **Node.js Only**
 * [classInheritance.js](http://obscurejavascript.tumblr.com/post/169971320661/es6-class-inheritance): How the `class` syntax simplifies inheritance
@@ -38,7 +39,7 @@ Each example corresponds directly to a blog post:
 * [naturalStringSort.js](http://obscurejavascript.tumblr.com/post/171529460144/natural-string-sorts-in-javascript): A simple way to implement natural looking string sorts.
 * [nodeEnvironmentVariables.js](http://obscurejavascript.tumblr.com/post/173424392295/nodejs-environment-variables): Single setting and config files with Node.js environment variables.
 * [noDeletion.js](http://obscurejavascript.tumblr.com/post/173200196881/when-variables-cannot-be-removed-in-javascript): When variables cannot be removed in JS.
-* [once.js](#): Restricting function calls to once.
+* [once.js](http://obscurejavascript.tumblr.com/post/178610922588/restricting-the-number-of-times-a-function-can-be): Restricting function calls to once.
 * [orderBy.js](http://obscurejavascript.tumblr.com/post/177420178745/order-by-in-javascript): Generic multi-property ordering in JavaScript.
 * [rounding.js](http://obscurejavascript.tumblr.com/post/171282166800/simple-rounding-in-javascript): How `toFixed` can be used to implement rounding and its other uses.
 * [setObject.js](http://obscurejavascript.tumblr.com/post/176922898899/creating-objects-from-property-paths-in-javascript): How to create objects from property paths.

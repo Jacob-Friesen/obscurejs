@@ -5,6 +5,12 @@ Code from [obscurejavascript.tumblr.com](http://obscurejavascript.tumblr.com) in
 
 *Just like the blog, there may be some examples that do not good follow JavaScript patterns for demonstration purposes.*
 
+TRUNCATE TABLE tenant_forecast_analytics;
+TRUNCATE TABLE tenant_forecast_people_denormalization;
+TRUNCATE TABLE tenant_forecast_people_list;
+TRUNCATE TABLE tenant_forecast_report_preset;
+TRUNCATE TABLE tenant_forecast_report_preset_units;
+
 Example Explanations
 ====================
 Each example corresponds directly to a blog post:
@@ -15,7 +21,8 @@ Each example corresponds directly to a blog post:
 * [addCSSRule.js](http://obscurejavascript.tumblr.com/post/175212829015/adding-css-rules-directly-in-javascript): An example of adding CSS rules directly via JavaScript to reduce DOM manipulations. **Browser Only**
 * [arrayDelete.js](http://obscurejavascript.tumblr.com/post/172491066039/array-deletes-in-javascript): The most common ways of doing Array deletes in JavaScript along with the advantages/disadvantages of doing each.
 * [async.js](http://obscurejavascript.tumblr.com/post/172006278743/async-function-declarations-in-javascript): How the `async` function declarations can simplify async code. **Node 8+/Modern browsers only**
-* [asyncAndLoops.js](#): How the `async` function can be used in loops.
+* [asyncAndIf.js](): How the `async` helps with conditional logic in asynchronous requests.
+* [asyncAndLoops.js](http://obscurejavascript.tumblr.com/post/178828976277/async-functions-and-for-loops): How the `async` function can be used in loops.
 * [asyncHooks.js](http://obscurejavascript.tumblr.com/post/174762781120/nodejs-async-hooks): How to track all async operations in Node.js without altering the original code. **Node 8+ only**
 * [autoReloadTester.js](http://obscurejavascript.tumblr.com/post/178387949840/more-interactive-programming-in-javascript): The file used to demonstrate automatic script reloading without a framework for backend code. **Node.js Only**
 * [classInheritance.js](http://obscurejavascript.tumblr.com/post/169971320661/es6-class-inheritance): How the `class` syntax simplifies inheritance

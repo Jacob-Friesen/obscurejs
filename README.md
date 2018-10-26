@@ -54,6 +54,7 @@ Each example corresponds directly to a blog post:
 * [size.js](http://obscurejavascript.tumblr.com/post/178152937978/generic-size-finding-in-javascript): A generic way to find the size of multiple types.
 * [stringNormalize.js](http://obscurejavascript.tumblr.com/post/173645997088/string-normalize-in-javascript): How to deal with string characters that only appear as one character, but count as 2.
 * [jsShorthand.js](http://obscurejavascript.tumblr.com/post/172968549600/shorthand-javascript-conversion-syntax-and): Shorthand conversion syntaxes and the slightly longer and more consistent versions of them.
+* [sleep.js](#): How to create a non-callback function for doing arbitrary waiting.
 * [spreadArgs.js](http://obscurejavascript.tumblr.com/post/174983851732/spread-for-function-arguments-in-javascript): How the spread operator can be used to simplify dynamic function calls.
 * [taggedStringReplace.js](http://obscurejavascript.tumblr.com/post/175924040173/the-stringindexof-second-argument-in-javascript): The second argument of `String.indexOf` and how it is useful beyond performance optimization.
 * [uniqify.js](http://obscurejavascript.tumblr.com/post/174088971784/one-line-unique-array-creation-in-javascript): A simple one line method to make arrays unique without libraries.

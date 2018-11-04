@@ -42,6 +42,7 @@ Each example corresponds directly to a blog post:
 * [getFirstKey.js](http://obscurejavascript.tumblr.com/post/175683351809/getting-the-first-key-of-an-object-in-javascript): A quick an efficient way to get the first key of an object in JavaScript.
 * [iifeReplace.js](http://obscurejavascript.tumblr.com/post/170768910923/an-alternative-for-iifes-in-javascript): When and how IIFEs can be replaced by a simple block scope.
 * [lockObject.js](http://obscurejavascript.tumblr.com/post/176416505318/preventing-modifications-to-objects-in-javascript): The 2 ways of locking objects in JavaScript.
+* [lookupTable.js](#): A simple lookup table used to reduce large nested loop performance issues.
 * [mathMax.js](http://obscurejavascript.tumblr.com/post/172732215812/math-max-in-javascript): Math.max and how it can be used to simplify algorithms.
 * [memoize.js](http://obscurejavascript.tumblr.com/post/177666171155/caching-functions-in-javascript): How to memoize any function in JavaScript that is determined solely based on its parameters.
 * [naturalStringSort.js](http://obscurejavascript.tumblr.com/post/171529460144/natural-string-sorts-in-javascript): A simple way to implement natural looking string sorts.
@@ -54,7 +55,7 @@ Each example corresponds directly to a blog post:
 * [size.js](http://obscurejavascript.tumblr.com/post/178152937978/generic-size-finding-in-javascript): A generic way to find the size of multiple types.
 * [stringNormalize.js](http://obscurejavascript.tumblr.com/post/173645997088/string-normalize-in-javascript): How to deal with string characters that only appear as one character, but count as 2.
 * [jsShorthand.js](http://obscurejavascript.tumblr.com/post/172968549600/shorthand-javascript-conversion-syntax-and): Shorthand conversion syntaxes and the slightly longer and more consistent versions of them.
-* [sleep.js](#): How to create a non-callback function for doing arbitrary waiting.
+* [sleep.js](http://obscurejavascript.tumblr.com/post/179526695453/a-javascript-sleep-function-using-async): How to create a non-callback function for doing arbitrary waiting.
 * [spreadArgs.js](http://obscurejavascript.tumblr.com/post/174983851732/spread-for-function-arguments-in-javascript): How the spread operator can be used to simplify dynamic function calls.
 * [taggedStringReplace.js](http://obscurejavascript.tumblr.com/post/175924040173/the-stringindexof-second-argument-in-javascript): The second argument of `String.indexOf` and how it is useful beyond performance optimization.
 * [uniqify.js](http://obscurejavascript.tumblr.com/post/174088971784/one-line-unique-array-creation-in-javascript): A simple one line method to make arrays unique without libraries.

@@ -25,6 +25,7 @@ Each example corresponds directly to a blog post:
 * [asyncAndLoops.js](http://obscurejavascript.tumblr.com/post/178828976277/async-functions-and-for-loops): How the `async` function can be used in loops.
 * [asyncHooks.js](http://obscurejavascript.tumblr.com/post/174762781120/nodejs-async-hooks): How to track all async operations in Node.js without altering the original code. **Node 8+ only**
 * [autoReloadTester.js](http://obscurejavascript.tumblr.com/post/178387949840/more-interactive-programming-in-javascript): The file used to demonstrate automatic script reloading without a framework for backend code. **Node.js Only**
+* [checkLocalStorageMemory.js](#): How to check the current webpage local storage usage programmatically.
 * [classInheritance.js](http://obscurejavascript.tumblr.com/post/169971320661/es6-class-inheritance): How the `class` syntax simplifies inheritance
 * [clearArraySameReference.js](http://obscurejavascript.tumblr.com/post/179286710719/clearing-an-array-without-changing-its-reference): How to clear an array and keep the same reference.
 * [computedPropertyNames.js](http://obscurejavascript.tumblr.com/post/174311258435/computed-property-names-in-javascript): Examples of how Object Literal Computer Property Names can be useful.
@@ -42,7 +43,7 @@ Each example corresponds directly to a blog post:
 * [getFirstKey.js](http://obscurejavascript.tumblr.com/post/175683351809/getting-the-first-key-of-an-object-in-javascript): A quick an efficient way to get the first key of an object in JavaScript.
 * [iifeReplace.js](http://obscurejavascript.tumblr.com/post/170768910923/an-alternative-for-iifes-in-javascript): When and how IIFEs can be replaced by a simple block scope.
 * [lockObject.js](http://obscurejavascript.tumblr.com/post/176416505318/preventing-modifications-to-objects-in-javascript): The 2 ways of locking objects in JavaScript.
-* [lookupTable.js](http://obscurejavascript.tumblr.com/post/179764047675/an-efficient-property-to-value-map-creator): A simple lookup table used to reduce large nested loop performance issues.
+* [lookupTable.js](http://obscurejavascript.tumblr.com/post/180007826623/automating-property-to-value-map-creation): A simple lookup table used to reduce large nested loop performance issues.
 * [lookupTableAbstracted.js](#): How to abstract the lookup table creation
 * [mathMax.js](http://obscurejavascript.tumblr.com/post/172732215812/math-max-in-javascript): Math.max and how it can be used to simplify algorithms.
 * [memoize.js](http://obscurejavascript.tumblr.com/post/177666171155/caching-functions-in-javascript): How to memoize any function in JavaScript that is determined solely based on its parameters.

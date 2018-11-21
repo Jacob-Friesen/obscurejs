@@ -25,7 +25,7 @@ Each example corresponds directly to a blog post:
 * [asyncAndLoops.js](http://obscurejavascript.tumblr.com/post/178828976277/async-functions-and-for-loops): How the `async` function can be used in loops.
 * [asyncHooks.js](http://obscurejavascript.tumblr.com/post/174762781120/nodejs-async-hooks): How to track all async operations in Node.js without altering the original code. **Node 8+ only**
 * [autoReloadTester.js](http://obscurejavascript.tumblr.com/post/178387949840/more-interactive-programming-in-javascript): The file used to demonstrate automatic script reloading without a framework for backend code. **Node.js Only**
-* [checkLocalStorageMemory.js](#): How to check the current webpage local storage usage programmatically.
+* [checkLocalStorageMemory.js](http://obscurejavascript.tumblr.com/post/180249304819/check-the-size-of-localstorage-in-javascript-with): How to check the current webpage local storage usage programmatically.
 * [classInheritance.js](http://obscurejavascript.tumblr.com/post/169971320661/es6-class-inheritance): How the `class` syntax simplifies inheritance
 * [clearArraySameReference.js](http://obscurejavascript.tumblr.com/post/179286710719/clearing-an-array-without-changing-its-reference): How to clear an array and keep the same reference.
 * [computedPropertyNames.js](http://obscurejavascript.tumblr.com/post/174311258435/computed-property-names-in-javascript): Examples of how Object Literal Computer Property Names can be useful.
@@ -44,7 +44,7 @@ Each example corresponds directly to a blog post:
 * [iifeReplace.js](http://obscurejavascript.tumblr.com/post/170768910923/an-alternative-for-iifes-in-javascript): When and how IIFEs can be replaced by a simple block scope.
 * [lockObject.js](http://obscurejavascript.tumblr.com/post/176416505318/preventing-modifications-to-objects-in-javascript): The 2 ways of locking objects in JavaScript.
 * [lookupTable.js](http://obscurejavascript.tumblr.com/post/180007826623/automating-property-to-value-map-creation): A simple lookup table used to reduce large nested loop performance issues.
-* [lookupTableAbstracted.js](#): How to abstract the lookup table creation
+* [lookupTableAbstracted.js](http://obscurejavascript.tumblr.com/post/180007826623/automating-property-to-value-map-creation): How to abstract the lookup table creation
 * [mathMax.js](http://obscurejavascript.tumblr.com/post/172732215812/math-max-in-javascript): Math.max and how it can be used to simplify algorithms.
 * [memoize.js](http://obscurejavascript.tumblr.com/post/177666171155/caching-functions-in-javascript): How to memoize any function in JavaScript that is determined solely based on its parameters.
 * [naturalStringSort.js](http://obscurejavascript.tumblr.com/post/171529460144/natural-string-sorts-in-javascript): A simple way to implement natural looking string sorts.
@@ -52,6 +52,7 @@ Each example corresponds directly to a blog post:
 * [noDeletion.js](http://obscurejavascript.tumblr.com/post/173200196881/when-variables-cannot-be-removed-in-javascript): When variables cannot be removed in JS.
 * [once.js](http://obscurejavascript.tumblr.com/post/178610922588/restricting-the-number-of-times-a-function-can-be): Restricting function calls to once.
 * [orderBy.js](http://obscurejavascript.tumblr.com/post/177420178745/order-by-in-javascript): Generic multi-property ordering in JavaScript.
+* [parallelAsyncAwait.js](): How promises can work with parallel async calls.
 * [rounding.js](http://obscurejavascript.tumblr.com/post/171282166800/simple-rounding-in-javascript): How `toFixed` can be used to implement rounding and its other uses.
 * [setObject.js](http://obscurejavascript.tumblr.com/post/176922898899/creating-objects-from-property-paths-in-javascript): How to create objects from property paths.
 * [size.js](http://obscurejavascript.tumblr.com/post/178152937978/generic-size-finding-in-javascript): A generic way to find the size of multiple types.

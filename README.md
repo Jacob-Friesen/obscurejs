@@ -47,7 +47,7 @@ Each example corresponds directly to a blog post:
 * [noDeletion.js](http://obscurejavascript.tumblr.com/post/173200196881/when-variables-cannot-be-removed-in-javascript): When variables cannot be removed in JS.
 * [once.js](http://obscurejavascript.tumblr.com/post/178610922588/restricting-the-number-of-times-a-function-can-be): Restricting function calls to once.
 * [orderBy.js](http://obscurejavascript.tumblr.com/post/177420178745/order-by-in-javascript): Generic multi-property ordering in JavaScript.
-* [parallelAsyncAwait.js](): How promises can work with parallel async calls.
+* [parallelAsyncAwait.js](http://obscurejavascript.tumblr.com/post/180491491480/parallel-asyncawait): How promises can work with parallel async calls.
 * [rounding.js](http://obscurejavascript.tumblr.com/post/171282166800/simple-rounding-in-javascript): How `toFixed` can be used to implement rounding and its other uses.
 * [setObject.js](http://obscurejavascript.tumblr.com/post/176922898899/creating-objects-from-property-paths-in-javascript): How to create objects from property paths.
 * [size.js](http://obscurejavascript.tumblr.com/post/178152937978/generic-size-finding-in-javascript): A generic way to find the size of multiple types.

@@ -5,12 +5,6 @@ Code from [obscurejavascript.tumblr.com](http://obscurejavascript.tumblr.com) in
 
 *Just like the blog, there may be some examples that do not good follow JavaScript patterns for demonstration purposes.*
 
-TRUNCATE TABLE tenant_forecast_analytics;
-TRUNCATE TABLE tenant_forecast_people_denormalization;
-TRUNCATE TABLE tenant_forecast_people_list;
-TRUNCATE TABLE tenant_forecast_report_preset;
-TRUNCATE TABLE tenant_forecast_report_preset_units;
-
 Example Explanations
 ====================
 Each example corresponds directly to a blog post:

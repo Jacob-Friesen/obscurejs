@@ -24,6 +24,7 @@ Each example corresponds directly to a blog post:
 * [clearArraySameReference.js](http://obscurejavascript.tumblr.com/post/179286710719/clearing-an-array-without-changing-its-reference): How to clear an array and keep the same reference.
 * [computedPropertyNames.js](http://obscurejavascript.tumblr.com/post/174311258435/computed-property-names-in-javascript): Examples of how Object Literal Computer Property Names can be useful.
 * [conformsTo.js](http://obscurejavascript.tumblr.com/post/177913180367/structured-object-validation-in-javascript): A generic way to do structured object validation.
+* [console.js](#): The most useful ways the JS console can be used (beyond simple string logging)
 * [countBy.js](http://obscurejavascript.tumblr.com/post/177173600645/generic-count-handler-in-javascript): Generic counting via a simple callback pattern.
 * [customArrayOrder.js](http://obscurejavascript.tumblr.com/post/170237362243/custom-array-ordering-in-javascript): How JavaScript's simple object construction and array usage combine to make a very simple custom ordering algorithm.
 * [customIterable.js](http://obscurejavascript.tumblr.com/post/171025564105/custom-iterables-in-javascript): How custom Iterables are implemented in JavaScript.
@@ -35,7 +36,7 @@ Each example corresponds directly to a blog post:
 * [externalLoopExtraction.js](http://obscurejavascript.tumblr.com/post/174539581583/extracting-loops-via-generators-in-javascript): How to extract features in a function that has a loop with passing in a callback. 
 * [functionName.js](http://obscurejavascript.tumblr.com/post/171768070910/get-function-and-classnames-from-anywhere-in): How to get class and function names in JavaScript which is useful for debugging and exploring 3rd party libraries.
 * [getFirstKey.js](http://obscurejavascript.tumblr.com/post/175683351809/getting-the-first-key-of-an-object-in-javascript): A quick an efficient way to get the first key of an object in JavaScript.
-* [getValue.js](#): How to get values from complex objects quickly and safelt.
+* [getValue.js](http://obscurejavascript.tumblr.com/post/180728229163/get-object-property-paths-safely-in-javascript): How to get values from complex objects quickly and safely.
 * [iifeReplace.js](http://obscurejavascript.tumblr.com/post/170768910923/an-alternative-for-iifes-in-javascript): When and how IIFEs can be replaced by a simple block scope.
 * [lockObject.js](http://obscurejavascript.tumblr.com/post/176416505318/preventing-modifications-to-objects-in-javascript): The 2 ways of locking objects in JavaScript.
 * [lookupTable.js](http://obscurejavascript.tumblr.com/post/180007826623/automating-property-to-value-map-creation): A simple lookup table used to reduce large nested loop performance issues.

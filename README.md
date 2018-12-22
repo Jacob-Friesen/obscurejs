@@ -38,7 +38,8 @@ Each example corresponds directly to a blog post:
 * [getFirstKey.js](http://obscurejavascript.tumblr.com/post/175683351809/getting-the-first-key-of-an-object-in-javascript): A quick an efficient way to get the first key of an object in JavaScript.
 * [getValue.js](http://obscurejavascript.tumblr.com/post/180728229163/get-object-property-paths-safely-in-javascript): How to get values from complex objects quickly and safely.
 * [iifeReplace.js](http://obscurejavascript.tumblr.com/post/170768910923/an-alternative-for-iifes-in-javascript): When and how IIFEs can be replaced by a simple block scope.
-* [intersection.js](#): How to discover common array elements across arrays with objects.
+* [intersection.js](http://obscurejavascript.tumblr.com/post/181177042324/intersectionby-and-intersectionwith-in-javascript): How to discover common array elements across arrays with objects.
+* [intl.js](#): Formatting numbers in JavaScript via the native `Intl` object.
 * [lockObject.js](http://obscurejavascript.tumblr.com/post/176416505318/preventing-modifications-to-objects-in-javascript): The 2 ways of locking objects in JavaScript.
 * [lookupTable.js](http://obscurejavascript.tumblr.com/post/180007826623/automating-property-to-value-map-creation): A simple lookup table used to reduce large nested loop performance issues.
 * [lookupTableAbstracted.js](http://obscurejavascript.tumblr.com/post/180007826623/automating-property-to-value-map-creation): How to abstract the lookup table creation

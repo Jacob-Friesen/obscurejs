@@ -9,6 +9,11 @@ Example Explanations
 ====================
 Each example corresponds directly to a blog post:
 
+<h5>2019</h5>
+<hr/>
+
+* [stringRepeat.js](#): How `String.repeat` can be used to easily create nicely formatted console messages.
+
 <h5>2018</h5>
 <hr/>
 

@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "connect": "3.3.5",
+    "decimal.js": "10.0.2",
     "dotenv": "^5.0.1",
     "serve-static": "1.9.3"
   },

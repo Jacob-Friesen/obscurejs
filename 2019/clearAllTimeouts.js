@@ -57,6 +57,8 @@ if (typeof window === 'undefined') {
   return false;
 }
 
+// Syntax slightly modified from a Stack Overflow answer:
+// https://stackoverflow.com/questions/8860188/javascript-clear-all-timeouts/16440036#16440036
 function createClearAllTimeouts() {
   const noop = () => {};
   let firstId = setTimeout(noop, 0);

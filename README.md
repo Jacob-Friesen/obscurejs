@@ -13,7 +13,8 @@ Each example corresponds directly to a blog post:
 <hr/>
 
 * [classStatic.js](http://obscurejavascript.tumblr.com/post/182170538720/static-class-methods-in-javascript): The new way of declaring static methods in classes.
-* [decimalOperations.js](#): How decimals operations can be computed correctly.
+* [ClearAllTimeouts.js](#): Two tactics to clear all timeouts globally in an application.
+* [decimalOperations.js](http://obscurejavascript.tumblr.com/post/182875060400/correct-decimal-calculations-in-javascript): How decimals operations can be computed correctly.
 * [defaultValuesObjectParams.js](http://obscurejavascript.tumblr.com/post/182353099170/default-values-for-object-properties-in-javascript): How default values can be used for functions taking a single object as configuration instead of a bunch of arguments.
 * [stringRepeat.js](http://obscurejavascript.tumblr.com/post/181761146545/string-repeat-in-javascript): How `String.repeat` can be used to easily create nicely formatted console messages.
 

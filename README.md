@@ -16,9 +16,10 @@ Each example corresponds directly to a blog post:
 * [ClearAllTimeouts.js](http://obscurejavascript.tumblr.com/post/183031058225/how-to-clear-all-timeouts-in-javascript): Two tactics to clear all timeouts globally in an application.
 * [decimalOperations.js](http://obscurejavascript.tumblr.com/post/182875060400/correct-decimal-calculations-in-javascript): How decimals operations can be computed correctly.
 * [defaultValuesObjectParams.js](http://obscurejavascript.tumblr.com/post/182353099170/default-values-for-object-properties-in-javascript): How default values can be used for functions taking a single object as configuration instead of a bunch of arguments.
+* [exponent.js](#): A specific syntax for exponents.
 * [strict.js](http://obscurejavascript.tumblr.com/post/183679265125/should-use-strict-be-used-everywhere): An example of why adding 'use strict' to legacy code can cause bugs.
 * [stringRepeat.js](http://obscurejavascript.tumblr.com/post/181761146545/string-repeat-in-javascript): How `String.repeat` can be used to easily create nicely formatted console messages.
-* [swap.js](#): How to swap variables or parts of data structures without temporary variables using assignment destructuring.
+* [swap.js](http://obscurejavascript.tumblr.com/post/183848351969/quickly-swapping-values-in-javascript): How to swap variables or parts of data structures without temporary variables using assignment destructuring.
 * [varUsage.js](http://obscurejavascript.tumblr.com/post/183362895409/what-is-the-point-of-var-in-modern-javascript): An explanation of why `var` is still necessary in some cases even though `let` exists.
 
 <h5>2018</h5>

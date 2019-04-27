@@ -59,7 +59,7 @@ async function displayAllResults2() {
     console.log(errors.map((error) => error.reason));
     // [ 'Error 1', 'Error 2' ]
   } catch (err) {
-    console.info(err);
+    console.log(err);
     // (never called)
   }
 }

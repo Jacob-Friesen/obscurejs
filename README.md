@@ -12,7 +12,7 @@ Each example corresponds directly to a blog post:
 <h5>2019</h5>
 <hr/>
 
-* [allSettled.js](#): Creating a `Promise.allSettled` function that only is fulfilled once all promises run even if there are errors.
+* [allSettled.js](https://obscurejavascript.tumblr.com/post/184347636679/waiting-for-all-promises-to-execute-in-javascript): Creating a `Promise.allSettled` function that only is fulfilled once all promises run even if there are errors.
 * [classStatic.js](http://obscurejavascript.tumblr.com/post/182170538720/static-class-methods-in-javascript): The new way of declaring static methods in classes.
 * [ClearAllTimeouts.js](http://obscurejavascript.tumblr.com/post/183031058225/how-to-clear-all-timeouts-in-javascript): Two tactics to clear all timeouts globally in an application.
 * [decimalOperations.js](http://obscurejavascript.tumblr.com/post/182875060400/correct-decimal-calculations-in-javascript): How decimals operations can be computed correctly.
@@ -21,6 +21,7 @@ Each example corresponds directly to a blog post:
 * [strict.js](http://obscurejavascript.tumblr.com/post/183679265125/should-use-strict-be-used-everywhere): An example of why adding 'use strict' to legacy code can cause bugs.
 * [stringRepeat.js](http://obscurejavascript.tumblr.com/post/181761146545/string-repeat-in-javascript): How `String.repeat` can be used to easily create nicely formatted console messages.
 * [swap.js](http://obscurejavascript.tumblr.com/post/183848351969/quickly-swapping-values-in-javascript): How to swap variables or parts of data structures without temporary variables using assignment destructuring.
+* [urlObj.js](#): How the `URL` object can be used to greatly simplify URL string operations.
 * [varUsage.js](http://obscurejavascript.tumblr.com/post/183362895409/what-is-the-point-of-var-in-modern-javascript): An explanation of why `var` is still necessary in some cases even though `let` exists.
 
 <h5>2018</h5>

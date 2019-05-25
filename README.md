@@ -13,9 +13,10 @@ Each example corresponds directly to a blog post:
 <hr/>
 
 * [allSettled.js](https://obscurejavascript.tumblr.com/post/184347636679/waiting-for-all-promises-to-execute-in-javascript): Creating a `Promise.allSettled` function that only is fulfilled once all promises run even if there are errors.
-* [capitalizeSentence.js](#): Capitalizing sentences instead of just one word with Lodash.
+* [capitalizeSentence.js](https://obscurejavascript.tumblr.com/post/184995360724/a-simple-capitalize-function-for-javascript): Capitalizing sentences instead of just one word with Lodash.
 * [classStatic.js](http://obscurejavascript.tumblr.com/post/182170538720/static-class-methods-in-javascript): The new way of declaring static methods in classes.
 * [ClearAllTimeouts.js](http://obscurejavascript.tumblr.com/post/183031058225/how-to-clear-all-timeouts-in-javascript): Two tactics to clear all timeouts globally in an application.
+* [compact.js](#): Using a compact function that eliminates falsy values in an array to simplify logic in compination with arrays.
 * [decimalOperations.js](http://obscurejavascript.tumblr.com/post/182875060400/correct-decimal-calculations-in-javascript): How decimals operations can be computed correctly.
 * [defaultValuesObjectParams.js](http://obscurejavascript.tumblr.com/post/182353099170/default-values-for-object-properties-in-javascript): How default values can be used for functions taking a single object as configuration instead of a bunch of arguments.
 * [exponent.js](http://obscurejavascript.tumblr.com/post/184184974181/the-exponent-operator-in-javascript): A specific syntax for exponents.

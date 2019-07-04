@@ -13,7 +13,7 @@ Each example corresponds directly to a blog post:
 <hr/>
 
 * [allSettled.js](https://obscurejavascript.tumblr.com/post/184347636679/waiting-for-all-promises-to-execute-in-javascript): Creating a `Promise.allSettled` function that only is fulfilled once all promises run even if there are errors.
-* [ansiColors.js](#): How to use ANSI codes to format CLI text and provide simple UIs like dynamic loading screens. **Node.js Only**
+* [ansiColors.js](https://obscurejavascript.tumblr.com/post/185637282341/adding-dynamic-command-line-loading-messages): How to use ANSI codes to format CLI text and provide simple UIs like dynamic loading screens. **Node.js Only**
 * [capitalizeSentence.js](https://obscurejavascript.tumblr.com/post/184995360724/a-simple-capitalize-function-for-javascript): Capitalizing sentences instead of just one word with Lodash.
 * [classStatic.js](http://obscurejavascript.tumblr.com/post/182170538720/static-class-methods-in-javascript): The new way of declaring static methods in classes.
 * [ClearAllTimeouts.js](http://obscurejavascript.tumblr.com/post/183031058225/how-to-clear-all-timeouts-in-javascript): Two tactics to clear all timeouts globally in an application.
@@ -26,6 +26,7 @@ Each example corresponds directly to a blog post:
 * [strict.js](http://obscurejavascript.tumblr.com/post/183679265125/should-use-strict-be-used-everywhere): An example of why adding 'use strict' to legacy code can cause bugs.
 * [stringRepeat.js](http://obscurejavascript.tumblr.com/post/181761146545/string-repeat-in-javascript): How `String.repeat` can be used to easily create nicely formatted console messages.
 * [swap.js](http://obscurejavascript.tumblr.com/post/183848351969/quickly-swapping-values-in-javascript): How to swap variables or parts of data structures without temporary variables using assignment destructuring.
+* [times.js](#): How a simple repeater function that accepts a function can be used to simplify nested loops.
 * [urlObj.js](https://obscurejavascript.tumblr.com/post/184509895083/fetching-query-params-using-the-url-object-in): How the `URL` object can be used to greatly simplify URL string operations.
 * [varUsage.js](http://obscurejavascript.tumblr.com/post/183362895409/what-is-the-point-of-var-in-modern-javascript): An explanation of why `var` is still necessary in some cases even though `let` exists.
 

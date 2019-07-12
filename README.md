@@ -16,17 +16,18 @@ Each example corresponds directly to a blog post:
 * [ansiColors.js](https://obscurejavascript.tumblr.com/post/185637282341/adding-dynamic-command-line-loading-messages): How to use ANSI codes to format CLI text and provide simple UIs like dynamic loading screens. **Node.js Only**
 * [capitalizeSentence.js](https://obscurejavascript.tumblr.com/post/184995360724/a-simple-capitalize-function-for-javascript): Capitalizing sentences instead of just one word with Lodash.
 * [classStatic.js](http://obscurejavascript.tumblr.com/post/182170538720/static-class-methods-in-javascript): The new way of declaring static methods in classes.
-* [ClearAllTimeouts.js](http://obscurejavascript.tumblr.com/post/183031058225/how-to-clear-all-timeouts-in-javascript): Two tactics to clear all timeouts globally in an application.
+* [clearAllTimeouts.js](http://obscurejavascript.tumblr.com/post/183031058225/how-to-clear-all-timeouts-in-javascript): Two tactics to clear all timeouts globally in an application.
 * [compact.js](https://obscurejavascript.tumblr.com/post/185158518225/using-compact-to-simplify-conditional-logic-in): Using a compact function that eliminates falsy values in an array to simplify logic in compination with arrays.
 * [consoleStringSubstitute.js](https://obscurejavascript.tumblr.com/post/185478406341/string-substitutions-in-console-strings): Using `console.log`'s built in formatters and inspector to help with debugging.
 * [decimalOperations.js](http://obscurejavascript.tumblr.com/post/182875060400/correct-decimal-calculations-in-javascript): How decimals operations can be computed correctly.
 * [defaultValuesObjectParams.js](http://obscurejavascript.tumblr.com/post/182353099170/default-values-for-object-properties-in-javascript): How default values can be used for functions taking a single object as configuration instead of a bunch of arguments.
 * [exponent.js](http://obscurejavascript.tumblr.com/post/184184974181/the-exponent-operator-in-javascript): A specific syntax for exponents.
 * [invert.js](https://obscurejavascript.tumblr.com/post/185321443369/switching-keys-and-values-in-javascript): Inverting keys and values for dual purpose lookup objects.
+* [mapObject.js](#): The various ways of mapping JavaScript objects.
 * [strict.js](http://obscurejavascript.tumblr.com/post/183679265125/should-use-strict-be-used-everywhere): An example of why adding 'use strict' to legacy code can cause bugs.
 * [stringRepeat.js](http://obscurejavascript.tumblr.com/post/181761146545/string-repeat-in-javascript): How `String.repeat` can be used to easily create nicely formatted console messages.
 * [swap.js](http://obscurejavascript.tumblr.com/post/183848351969/quickly-swapping-values-in-javascript): How to swap variables or parts of data structures without temporary variables using assignment destructuring.
-* [times.js](#): How a simple repeater function that accepts a function can be used to simplify nested loops.
+* [times.js](https://obscurejavascript.tumblr.com/post/186122487680/using-a-times-function-to-simplify-nested-array): How a simple repeater function that accepts a function can be used to simplify nested loops.
 * [urlObj.js](https://obscurejavascript.tumblr.com/post/184509895083/fetching-query-params-using-the-url-object-in): How the `URL` object can be used to greatly simplify URL string operations.
 * [varUsage.js](http://obscurejavascript.tumblr.com/post/183362895409/what-is-the-point-of-var-in-modern-javascript): An explanation of why `var` is still necessary in some cases even though `let` exists.
 

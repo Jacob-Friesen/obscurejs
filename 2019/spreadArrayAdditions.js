@@ -1,3 +1,5 @@
+'use strict';
+
 function insertInMiddle(array1, value, array2) {
   return array1.concat(value).concat(array2);
 }

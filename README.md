@@ -24,13 +24,15 @@ Each example corresponds directly to a blog post:
 * [exponent.js](http://obscurejavascript.tumblr.com/post/184184974181/the-exponent-operator-in-javascript): A specific syntax for exponents.
 * [invert.js](https://obscurejavascript.tumblr.com/post/185321443369/switching-keys-and-values-in-javascript): Inverting keys and values for dual purpose lookup objects.
 * [mapObject.js](https://obscurejavascript.tumblr.com/post/186286482043/mapping-objects-in-javascript): The various ways of mapping JavaScript objects.
-* [metaClass.js](#): How to automate the construction of JS classes.
+* [metaClass.js](https://obscurejavascript.tumblr.com/post/186611899759/metaprogramming-classes-in-javascript): How to automate the construction of JS classes.
+* [spreadArrayAdditions.js](https://obscurejavascript.tumblr.com/post/188027834126/array-insertions-with-the-spread-operator): Merging arrays with the spread operator.
 * [strict.js](http://obscurejavascript.tumblr.com/post/183679265125/should-use-strict-be-used-everywhere): An example of why adding 'use strict' to legacy code can cause bugs.
 * [stringRepeat.js](http://obscurejavascript.tumblr.com/post/181761146545/string-repeat-in-javascript): How `String.repeat` can be used to easily create nicely formatted console messages.
 * [swap.js](http://obscurejavascript.tumblr.com/post/183848351969/quickly-swapping-values-in-javascript): How to swap variables or parts of data structures without temporary variables using assignment destructuring.
 * [times.js](https://obscurejavascript.tumblr.com/post/186122487680/using-a-times-function-to-simplify-nested-array): How a simple repeater function that accepts a function can be used to simplify nested loops.
 * [urlObj.js](https://obscurejavascript.tumblr.com/post/184509895083/fetching-query-params-using-the-url-object-in): How the `URL` object can be used to greatly simplify URL string operations.
 * [varUsage.js](http://obscurejavascript.tumblr.com/post/183362895409/what-is-the-point-of-var-in-modern-javascript): An explanation of why `var` is still necessary in some cases even though `let` exists.
+* [watchProperties.js](#): How to watch JS object property changes with code for debugging.
 
 <h5>2018</h5>
 <hr/>

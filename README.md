@@ -25,6 +25,7 @@ Each example corresponds directly to a blog post:
 * [invert.js](https://obscurejavascript.tumblr.com/post/185321443369/switching-keys-and-values-in-javascript): Inverting keys and values for dual purpose lookup objects.
 * [mapObject.js](https://obscurejavascript.tumblr.com/post/186286482043/mapping-objects-in-javascript): The various ways of mapping JavaScript objects.
 * [metaClass.js](https://obscurejavascript.tumblr.com/post/186611899759/metaprogramming-classes-in-javascript): How to automate the construction of JS classes.
+* [replayFunction.js](#): How to recall functions with the last arguments without external variables or libraries.
 * [spreadArrayAdditions.js](https://obscurejavascript.tumblr.com/post/188027834126/array-insertions-with-the-spread-operator): Merging arrays with the spread operator.
 * [strict.js](http://obscurejavascript.tumblr.com/post/183679265125/should-use-strict-be-used-everywhere): An example of why adding 'use strict' to legacy code can cause bugs.
 * [stringRepeat.js](http://obscurejavascript.tumblr.com/post/181761146545/string-repeat-in-javascript): How `String.repeat` can be used to easily create nicely formatted console messages.
@@ -32,7 +33,7 @@ Each example corresponds directly to a blog post:
 * [times.js](https://obscurejavascript.tumblr.com/post/186122487680/using-a-times-function-to-simplify-nested-array): How a simple repeater function that accepts a function can be used to simplify nested loops.
 * [urlObj.js](https://obscurejavascript.tumblr.com/post/184509895083/fetching-query-params-using-the-url-object-in): How the `URL` object can be used to greatly simplify URL string operations.
 * [varUsage.js](http://obscurejavascript.tumblr.com/post/183362895409/what-is-the-point-of-var-in-modern-javascript): An explanation of why `var` is still necessary in some cases even though `let` exists.
-* [watchProperties.js](#): How to watch JS object property changes with code for debugging.
+* [watchProperties.js](https://obscurejavascript.tumblr.com/post/188326315346/how-to-watch-property-updates-in-javascript): How to watch JS object property changes with code for debugging.
 
 <h5>2018</h5>
 <hr/>

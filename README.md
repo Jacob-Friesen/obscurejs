@@ -15,6 +15,7 @@ Each example corresponds directly to a blog post:
 * [allSettled.js](https://obscurejavascript.tumblr.com/post/184347636679/waiting-for-all-promises-to-execute-in-javascript): Creating a `Promise.allSettled` function that only is fulfilled once all promises run even if there are errors.
 * [ansiColors.js](https://obscurejavascript.tumblr.com/post/185637282341/adding-dynamic-command-line-loading-messages): How to use ANSI codes to format CLI text and provide simple UIs like dynamic loading screens. **Node.js Only**
 * [capitalizeSentence.js](https://obscurejavascript.tumblr.com/post/184995360724/a-simple-capitalize-function-for-javascript): Capitalizing sentences instead of just one word with Lodash.
+* [changeObjKeys.js](#): How to make a function to transform object keys to values in an array of objects.
 * [classStatic.js](http://obscurejavascript.tumblr.com/post/182170538720/static-class-methods-in-javascript): The new way of declaring static methods in classes.
 * [clearAllTimeouts.js](http://obscurejavascript.tumblr.com/post/183031058225/how-to-clear-all-timeouts-in-javascript): Two tactics to clear all timeouts globally in an application.
 * [compact.js](https://obscurejavascript.tumblr.com/post/185158518225/using-compact-to-simplify-conditional-logic-in): Using a compact function that eliminates falsy values in an array to simplify logic in compination with arrays.
@@ -25,7 +26,7 @@ Each example corresponds directly to a blog post:
 * [invert.js](https://obscurejavascript.tumblr.com/post/185321443369/switching-keys-and-values-in-javascript): Inverting keys and values for dual purpose lookup objects.
 * [mapObject.js](https://obscurejavascript.tumblr.com/post/186286482043/mapping-objects-in-javascript): The various ways of mapping JavaScript objects.
 * [metaClass.js](https://obscurejavascript.tumblr.com/post/186611899759/metaprogramming-classes-in-javascript): How to automate the construction of JS classes.
-* [replayFunction.js](#): How to recall functions with the last arguments without external variables or libraries.
+* [replayFunction.js](https://obscurejavascript.tumblr.com/post/188956447341/replaying-javascript-functions-without-variables): How to recall functions with the last arguments without external variables or libraries.
 * [spreadArrayAdditions.js](https://obscurejavascript.tumblr.com/post/188027834126/array-insertions-with-the-spread-operator): Merging arrays with the spread operator.
 * [strict.js](http://obscurejavascript.tumblr.com/post/183679265125/should-use-strict-be-used-everywhere): An example of why adding 'use strict' to legacy code can cause bugs.
 * [stringRepeat.js](http://obscurejavascript.tumblr.com/post/181761146545/string-repeat-in-javascript): How `String.repeat` can be used to easily create nicely formatted console messages.

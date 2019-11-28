@@ -14,8 +14,9 @@ Each example corresponds directly to a blog post:
 
 * [allSettled.js](https://obscurejavascript.tumblr.com/post/184347636679/waiting-for-all-promises-to-execute-in-javascript): Creating a `Promise.allSettled` function that only is fulfilled once all promises run even if there are errors.
 * [ansiColors.js](https://obscurejavascript.tumblr.com/post/185637282341/adding-dynamic-command-line-loading-messages): How to use ANSI codes to format CLI text and provide simple UIs like dynamic loading screens. **Node.js Only**
+* [backendImports.mjs](#): How to do backend imports in Node.js. **Node.js Only**
 * [capitalizeSentence.js](https://obscurejavascript.tumblr.com/post/184995360724/a-simple-capitalize-function-for-javascript): Capitalizing sentences instead of just one word with Lodash.
-* [changeObjKeys.js](#): How to make a function to transform object keys to values in an array of objects.
+* [changeObjKeys.js](https://obscurejavascript.tumblr.com/post/189274891778/change-object-keys-in-an-array-of-objects-in): How to make a function to transform object keys to values in an array of objects.
 * [classStatic.js](http://obscurejavascript.tumblr.com/post/182170538720/static-class-methods-in-javascript): The new way of declaring static methods in classes.
 * [clearAllTimeouts.js](http://obscurejavascript.tumblr.com/post/183031058225/how-to-clear-all-timeouts-in-javascript): Two tactics to clear all timeouts globally in an application.
 * [compact.js](https://obscurejavascript.tumblr.com/post/185158518225/using-compact-to-simplify-conditional-logic-in): Using a compact function that eliminates falsy values in an array to simplify logic in compination with arrays.

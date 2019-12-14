@@ -14,7 +14,7 @@ Each example corresponds directly to a blog post:
 
 * [allSettled.js](https://obscurejavascript.tumblr.com/post/184347636679/waiting-for-all-promises-to-execute-in-javascript): Creating a `Promise.allSettled` function that only is fulfilled once all promises run even if there are errors.
 * [ansiColors.js](https://obscurejavascript.tumblr.com/post/185637282341/adding-dynamic-command-line-loading-messages): How to use ANSI codes to format CLI text and provide simple UIs like dynamic loading screens. **Node.js Only**
-* [backendImports.mjs](#): How to do backend imports in Node.js. **Node.js Only**
+* [backendImports.mjs](https://obscurejavascript.tumblr.com/post/189416803990/using-es6-modules-in-nodejs): How to do backend imports in Node.js. **Node.js Only**
 * [capitalizeSentence.js](https://obscurejavascript.tumblr.com/post/184995360724/a-simple-capitalize-function-for-javascript): Capitalizing sentences instead of just one word with Lodash.
 * [changeObjKeys.js](https://obscurejavascript.tumblr.com/post/189274891778/change-object-keys-in-an-array-of-objects-in): How to make a function to transform object keys to values in an array of objects.
 * [classStatic.js](http://obscurejavascript.tumblr.com/post/182170538720/static-class-methods-in-javascript): The new way of declaring static methods in classes.
@@ -25,6 +25,7 @@ Each example corresponds directly to a blog post:
 * [defaultValuesObjectParams.js](http://obscurejavascript.tumblr.com/post/182353099170/default-values-for-object-properties-in-javascript): How default values can be used for functions taking a single object as configuration instead of a bunch of arguments.
 * [exponent.js](http://obscurejavascript.tumblr.com/post/184184974181/the-exponent-operator-in-javascript): A specific syntax for exponents.
 * [invert.js](https://obscurejavascript.tumblr.com/post/185321443369/switching-keys-and-values-in-javascript): Inverting keys and values for dual purpose lookup objects.
+* [keyBy.js](#): A function to transform arrays of objects into key value pairs for fast searching.
 * [mapObject.js](https://obscurejavascript.tumblr.com/post/186286482043/mapping-objects-in-javascript): The various ways of mapping JavaScript objects.
 * [metaClass.js](https://obscurejavascript.tumblr.com/post/186611899759/metaprogramming-classes-in-javascript): How to automate the construction of JS classes.
 * [replayFunction.js](https://obscurejavascript.tumblr.com/post/188956447341/replaying-javascript-functions-without-variables): How to recall functions with the last arguments without external variables or libraries.

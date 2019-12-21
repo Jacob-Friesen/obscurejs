@@ -25,9 +25,10 @@ Each example corresponds directly to a blog post:
 * [defaultValuesObjectParams.js](http://obscurejavascript.tumblr.com/post/182353099170/default-values-for-object-properties-in-javascript): How default values can be used for functions taking a single object as configuration instead of a bunch of arguments.
 * [exponent.js](http://obscurejavascript.tumblr.com/post/184184974181/the-exponent-operator-in-javascript): A specific syntax for exponents.
 * [invert.js](https://obscurejavascript.tumblr.com/post/185321443369/switching-keys-and-values-in-javascript): Inverting keys and values for dual purpose lookup objects.
-* [keyBy.js](#): A function to transform arrays of objects into key value pairs for fast searching.
+* [keyBy.js](https://obscurejavascript.tumblr.com/post/189689160331/quick-object-searches-in-arrays-of-objects-with): A function to transform arrays of objects into key value pairs for fast searching.
 * [mapObject.js](https://obscurejavascript.tumblr.com/post/186286482043/mapping-objects-in-javascript): The various ways of mapping JavaScript objects.
 * [metaClass.js](https://obscurejavascript.tumblr.com/post/186611899759/metaprogramming-classes-in-javascript): How to automate the construction of JS classes.
+* [promiseAny.js](#): How to get the fastest return API result with Promise.any and a simple example Polyfill for it.
 * [replayFunction.js](https://obscurejavascript.tumblr.com/post/188956447341/replaying-javascript-functions-without-variables): How to recall functions with the last arguments without external variables or libraries.
 * [spreadArrayAdditions.js](https://obscurejavascript.tumblr.com/post/188027834126/array-insertions-with-the-spread-operator): Merging arrays with the spread operator.
 * [strict.js](http://obscurejavascript.tumblr.com/post/183679265125/should-use-strict-be-used-everywhere): An example of why adding 'use strict' to legacy code can cause bugs.

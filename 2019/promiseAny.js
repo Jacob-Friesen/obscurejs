@@ -45,7 +45,7 @@ function apiC() {
 }
 
 async function getData() {
-  console.time('Promise.all completion time');
+  console.time('promise.any completion time');
   const data = await Promise.any([
     apiA(),
     apiB(),
@@ -53,8 +53,8 @@ async function getData() {
   ]);
 
   console.info('Retrieved', data);
-  console.timeEnd('Promise.all completion time');
+  console.timeEnd('promise.any completion time');
   // Retrieved { some: 'data', from: 'B' }
-  // Promise.all completion time: 203.451ms (exact time will vary slightly)
+  // promise.any completion time: 203.451ms (exact time will vary slightly)
 }
 getData();

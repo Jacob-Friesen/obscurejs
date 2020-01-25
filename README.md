@@ -12,7 +12,8 @@ Each example corresponds directly to a blog post:
 <h5>2020</h5>
 <hr/>
 
-* [promiseRace.js](#): How to get the fastest returned API result or error with `Promise.race` and a simple example Polyfill for it.
+* [promiseRace.js](https://obscurejavascript.tumblr.com/post/190221199570/waiting-for-the-first-returned-or-errored-api): How to get the fastest returned API result or error with `Promise.race` and a simple example Polyfill for it.
+* [uniqBy.js](#): How to create unique arrays based on a condition in one line with a helper function.
 
 <h5>2019</h5>
 <hr/>

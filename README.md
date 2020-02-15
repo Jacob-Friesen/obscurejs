@@ -13,7 +13,8 @@ Each example corresponds directly to a blog post:
 <hr/>
 
 * [promiseRace.js](https://obscurejavascript.tumblr.com/post/190221199570/waiting-for-the-first-returned-or-errored-api): How to get the fastest returned API result or error with `Promise.race` and a simple example Polyfill for it.
-* [uniqBy.js](#): How to create unique arrays based on a condition in one line with a helper function.
+* [publicInstanceFields.js](#): Initialize class fields without constructors.
+* [uniqBy.js](https://obscurejavascript.tumblr.com/post/190481792523/uniq-by-in-javascript): How to create unique arrays based on a condition in one line with a helper function.
 
 <h5>2019</h5>
 <hr/>

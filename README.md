@@ -12,9 +12,10 @@ Each example corresponds directly to a blog post:
 <h5>2020</h5>
 <hr/>
 
-* [in.js](#): How to check for property existence in a consistent way.
+* [in.js](https://obscurejavascript.tumblr.com/post/611419123477610496/checking-for-property-existence-in-javascript): How to check for property existence in a consistent way.
 * [nullishOperator.js](https://obscurejavascript.tumblr.com/post/190987136264/nullish-coalescing-operator-in-javascript): Using a new operator to make default checks handle edge cases while still keeping them simple.
 * [promiseRace.js](https://obscurejavascript.tumblr.com/post/190221199570/waiting-for-the-first-returned-or-errored-api): How to get the fastest returned API result or error with `Promise.race` and a simple example Polyfill for it.
+* [privateVariables.js](#): The new syntax of JavaScript private variables compared to the old one.
 * [publicInstanceFields.js](https://obscurejavascript.tumblr.com/post/190862999017/public-instance-fields-for-classes-in-javascript): Initialize class fields without constructors.
 * [uniqBy.js](https://obscurejavascript.tumblr.com/post/190481792523/uniq-by-in-javascript): How to create unique arrays based on a condition in one line with a helper function.
 

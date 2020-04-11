@@ -13,10 +13,11 @@ Each example corresponds directly to a blog post:
 <hr/>
 
 * [in.js](https://obscurejavascript.tumblr.com/post/611419123477610496/checking-for-property-existence-in-javascript): How to check for property existence in a consistent way.
+* [newTarget.js](#): What `new.target` is and why it can be useful.
 * [nullishOperator.js](https://obscurejavascript.tumblr.com/post/190987136264/nullish-coalescing-operator-in-javascript): Using a new operator to make default checks handle edge cases while still keeping them simple.
 * [promiseRace.js](https://obscurejavascript.tumblr.com/post/190221199570/waiting-for-the-first-returned-or-errored-api): How to get the fastest returned API result or error with `Promise.race` and a simple example Polyfill for it.
 * [privateVariables.js](https://obscurejavascript.tumblr.com/post/613951996380233728/private-variables-in-javascript-new-syntax): The new syntax of JavaScript private variables compared to the old one.
-* [privateMethods.js](#): The new syntax of JavaScript private methods compared to the old one leveraging the new private class field support.
+* [privateMethods.js](https://obscurejavascript.tumblr.com/post/614586286614921216/private-methods-in-javascript-new-syntax): The new syntax of JavaScript private methods compared to the old one leveraging the new private class field support.
 * [publicInstanceFields.js](https://obscurejavascript.tumblr.com/post/190862999017/public-instance-fields-for-classes-in-javascript): Initialize class fields without constructors.
 * [uniqBy.js](https://obscurejavascript.tumblr.com/post/190481792523/uniq-by-in-javascript): How to create unique arrays based on a condition in one line with a helper function.
 

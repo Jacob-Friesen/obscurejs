@@ -12,10 +12,11 @@ Each example corresponds directly to a blog post:
 <h5>2020</h5>
 <hr/>
 
+* [collector.js](#): How to convert class specific functions into general ones without modifying the original functions or copying any code.
 * [in.js](https://obscurejavascript.tumblr.com/post/611419123477610496/checking-for-property-existence-in-javascript): How to check for property existence in a consistent way.
 * [newTarget.js](https://obscurejavascript.tumblr.com/post/615220308051460096/the-newtarget-property-and-why-it-is-useful-in): What `new.target` is and why it can be useful.
 * [nullishOperator.js](https://obscurejavascript.tumblr.com/post/190987136264/nullish-coalescing-operator-in-javascript): Using a new operator to make default checks handle edge cases while still keeping them simple.
-* [optionalFunctionCalls](#): The new syntax to make a function call only if the property is callable.
+* [optionalFunctionCalls](https://obscurejavascript.tumblr.com/post/615854490356154368/optional-function-calls-in-javascript): The new syntax to make a function call only if the property is callable.
 * [promiseRace.js](https://obscurejavascript.tumblr.com/post/190221199570/waiting-for-the-first-returned-or-errored-api): How to get the fastest returned API result or error with `Promise.race` and a simple example Polyfill for it.
 * [privateVariables.js](https://obscurejavascript.tumblr.com/post/613951996380233728/private-variables-in-javascript-new-syntax): The new syntax of JavaScript private variables compared to the old one.
 * [privateMethods.js](https://obscurejavascript.tumblr.com/post/614586286614921216/private-methods-in-javascript-new-syntax): The new syntax of JavaScript private methods compared to the old one leveraging the new private class field support.

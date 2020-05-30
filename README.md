@@ -13,6 +13,7 @@ Each example corresponds directly to a blog post:
 <hr/>
 
 * [collector.js](https://obscurejavascript.tumblr.com/post/616488806958465024/converting-class-specific-functions-into-general): How to convert class specific functions into general ones without modifying the original functions or copying any code.
+* [immutable.js](#): How to make objects with objects and related immutable.
 * [in.js](https://obscurejavascript.tumblr.com/post/611419123477610496/checking-for-property-existence-in-javascript): How to check for property existence in a consistent way.
 * [newTarget.js](https://obscurejavascript.tumblr.com/post/615220308051460096/the-newtarget-property-and-why-it-is-useful-in): What `new.target` is and why it can be useful.
 * [nullishOperator.js](https://obscurejavascript.tumblr.com/post/190987136264/nullish-coalescing-operator-in-javascript): Using a new operator to make default checks handle edge cases while still keeping them simple.

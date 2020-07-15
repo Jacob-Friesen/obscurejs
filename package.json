@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/Jacob-Friesen/obscurejs",
   "devDependencies": {
-    "lodash": "4.17.13"
+    "lodash": "4.17.19"
   }
 }
